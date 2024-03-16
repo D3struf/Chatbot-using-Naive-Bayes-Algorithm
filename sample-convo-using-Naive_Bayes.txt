@@ -1,0 +1,36 @@
+Let's chat! type 'quit' to exit
+Prompt: Hii
+LRT GANG:: Hi there, how can I help?
+Prompt: Do you take credit cards?
+LRT GANG:: We accept most major credit cards
+Prompt: Thanks
+LRT GANG:: Hello, thanks for visiting
+Prompt: Thank ytou 
+LRT GANG:: Any time!
+Prompt: What time do you open?
+LRT GANG:: Our hours are 9am-9pm every day
+Prompt: What are your hours?
+LRT GANG:: We're open every day 9am-9pm
+Prompt: When do you open today?
+LRT GANG:: Our hours are 9am-9pm every day
+Prompt: How does this work?
+LRT GANG:: Are you looking to rent today or later this week?
+Prompt: today
+LRT GANG:: Our hours are 9am-9pm every day
+Prompt: Can we rent a moped?
+LRT GANG:: Are you looking to rent today or later this week?
+Prompt: Thanks
+LRT GANG:: Good to see you again
+Prompt: What time do you open?
+LRT GANG:: Our hours are 9am-9pm every day
+Prompt: What is your schedule?
+LRT GANG:: Our hours are 9am-9pm every day
+Prompt: Thanks
+LRT GANG:: Hi there, how can I help?
+Prompt: Thanks
+LRT GANG:: Good to see you again
+Prompt: Thank you
+LRT GANG:: Any time!
+Prompt: Bye
+LRT GANG:: Bye! Come back again soon.
+Prompt: quit

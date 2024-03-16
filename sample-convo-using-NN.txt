@@ -1,0 +1,48 @@
+Let's chat! type 'quit' to exit
+Prompt: Hii
+LRT_GANG: Hi there, how can I help?
+Prompt: Do you take credit cards?
+LRT_GANG: We accept most major credit cards
+Prompt: Thanks
+LRT_GANG: Happy to help!
+Prompt: Thank ytou
+LRT_GANG: My pleasure
+Prompt: What time do you open?
+LRT_GANG: I do not understand...
+Prompt: What time do you open today?
+LRT_GANG: We're open every day from 9am-9pm
+Prompt: What are your hours?
+LRT_GANG: Our hours are 9am-9pm every day
+Prompt: When do you open today?
+LRT_GANG: Our hours are 9am-9pm every day
+Prompt: What time do you open?
+LRT_GANG: I do not understand...
+Prompt: what time is your schedule?
+LRT_GANG: I do not understand...
+Prompt: Can we rent a moped?
+LRT_GANG: Are you looking to rent today or later this week?
+Prompt: How does this work/
+LRT_GANG: Are you looking to rent today or later this week?
+Prompt: today
+LRT_GANG: Same-day rentals please call 1-800-MYMOPED
+Prompt: Thank you
+LRT_GANG: Happy to help!
+Prompt: Bye
+LRT_GANG: Have a nice day
+Prompt: How are you?
+LRT_GANG: Good to see you again
+Prompt: Good day
+LRT_GANG: Good to see you again
+Prompt: Nice to see you
+LRT_GANG: I do not understand...
+Prompt: See you later
+LRT_GANG: Have a nice day
+Prompt: what is your schedule today?
+LRT_GANG: I do not understand...
+Prompt: what time is your schedule today?
+LRT_GANG: I do not understand...
+Prompt: what time do you open?
+LRT_GANG: I do not understand...
+Prompt: what time do you open today?
+LRT_GANG: Our hours are 9am-9pm every day
+Prompt: quit
