@@ -1,53 +1,36 @@
 import random
+import joblib
 import json
-import torch
-from model import NeuralNet
-from nltk_utils import bag_of_words, tokenize
 
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+from sample import preprocess_text
 
-with open('intents.json', 'r') as f:
-    intents = json.load(f)
+# Load dataset from JSON
+with open('kaggle-dataset.json') as file:
+    dataset = json.load(file)
 
-FILE = 'data.pth'
-data = torch.load(FILE)
+# Load the model
+classifier = joblib.load('naive_bayes_model.pkl')
 
-input_size = data["input_size"]
-hidden_size = data["hidden_size"]
-output_size = data["output_size"]
-all_words = data["all_words"]
-tags = data["tags"]
-model_state = data["model_state"]
+# Function to preprocess user input during inference
+def preprocess_user_input(user_input):
+    preprocessed_input = preprocess_text(user_input)
+    return preprocessed_input
 
-model = NeuralNet(input_size, hidden_size, output_size).to(device)
-model.load_state_dict(model_state)
-model.eval()
-
-bot_name = "LRT_GANG"
-print("Let's chat! type 'quit' to exit")
+bot_name = 'LRT GANG:'
+print("👋 Hello there! Welcome to our virtual assistant designed to enhance your experience with academic management at TUP-Manila! Whether you have questions about course schedules, exam dates, or anything in between, I'm here to help. Just ask away, and let's make your academic journey smoother together! 📚✨")
+print("Just type quit to exit")
 
 while True:
-    sentence = input("Prompt: ")
-    if sentence == "quit":
+    user_input = input("Prompt: ")
+    if user_input == "quit":
         break
     
-    sentence = tokenize(sentence)
-    X = bag_of_words(sentence, all_words)
-    X = X.reshape(1, X.shape[0])
-    X = torch.from_numpy(X).to(device)
+    preprocessed_input = preprocess_user_input(user_input)
+    predicted_intent = classifier.predict([preprocessed_input])[0]
+    print("Predicted intent:", predicted_intent)
     
-    output = model(X)
-    _, predicted = torch.max(output, dim=1)
-    tag = tags[predicted.item()]
-    
-    probs = torch.softmax(output, dim=1)
-    prob = probs[0][predicted.item()]
-    
-    if prob.item() > 0.75:
-        for intent in intents["intents"]:
-            if tag == intent["tag"]:
-                result = random.choice(intent["responses"])
-                print(f"{bot_name}: {result}")
-                break
-    else:
-        print(f"{bot_name}: I do not understand...")
+    for intent in dataset["intents"]:
+        if predicted_intent == intent["tag"]:
+            result = random.choice(intent["responses"])
+            print(f"{bot_name}: {result}")
+            break

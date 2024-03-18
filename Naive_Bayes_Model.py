@@ -1,22 +1,22 @@
-import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import json
-import string
-import numpy as np
 import random
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
+import joblib
 
-from nltk_utils import tokenize, stem
+from nltk_utils import tokenize, stem, bag_of_words
 
 # Load intents from JSON file
-with open("intents.json", 'r') as file:
+with open("kaggle-dataset.json", 'r') as file:
     intents = json.load(file)
 
 # Define the set of ignore words
-ignore_words = ['?', '!', '.', ',']
+ignore_words = ['?', '!', '.', ',', ':', ';', "'", "=", "(", ")"]
 
 # Initialize lists to store all words, tags, and training data
 all_words = []
@@ -43,6 +43,9 @@ for intent in intents['intents']:
 all_words = sorted(set(all_words))
 tags = sorted(set(tags))
 
+# Split the dataset into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X_train, y_train, test_size=0.2, random_state=42)
+
 # Vectorize the training data
 vectorizer = CountVectorizer()
 X_train_counts = vectorizer.fit_transform(X_train)
@@ -51,16 +54,41 @@ X_train_counts = vectorizer.fit_transform(X_train)
 nb_classifier = MultinomialNB()
 nb_classifier.fit(X_train_counts, y_train)
 
+# Vectorize the testing data
+X_test_counts = vectorizer.transform(X_test)
+
+# Predict labels for the testing data
+y_pred = nb_classifier.predict(X_test_counts)
+
+# Calculate accuracy
+accuracy = accuracy_score(y_test, y_pred)
+print("Accuracy:", accuracy)
+
+# Save the trained model
+# joblib.dump(nb_classifier, 'naive_bayes_model.pkl')
+
 # Example usage:
 bot_name = 'LRT GANG:'
-print("Let's chat! type 'quit' to exit")
+print("👋 Hello there! Welcome to our virtual assistant designed to enhance your experience with academic management at TUP-Manila! Whether you have questions about course schedules, exam dates, or anything in between, I'm here to help. Just ask away, and let's make your academic journey smoother together! 📚✨")
+print("Just type quit to exit")
 while True:
     input_sentence = input("Prompt: ")
     if input_sentence == "quit":
         break
     
-    input_features = vectorizer.transform([input_sentence])
+    preprocessed_input = tokenize(input_sentence)
+    input_features = bag_of_words(preprocessed_input, all_words)
+    input_features = input_features.reshape(1, -1)
+    print(input_features)
+    # Vectorize the input sentence
+    input_features = vectorizer.transform([input_features])
+
+    # Reshape the input features if necessary
+    if input_features.shape[0] == 1:
+        input_features = input_features.reshape(1, -1)
+        
     predicted_intent = nb_classifier.predict(input_features)[0]
+    print('Predicted Intent: ', predicted_intent)
 
     for intent in intents["intents"]:
         if predicted_intent == intent["tag"]:
