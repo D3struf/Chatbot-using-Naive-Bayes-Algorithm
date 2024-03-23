@@ -66,7 +66,20 @@
       "who is this",
       "what am i chatting to",
       "who am i taking to",
-      "what are you"
+      "what are you",
+      "who are you?",
+      "what is your purpose",
+      "what do you do",
+      "what is your function",
+      "who do you work for",
+      "who created you",
+      "what is your role",
+      "introduce yourself",
+      "tell me about yourself",
+      "what can you do",
+      "what are you for",
+      "who am i chatting to",
+      "What is the chatbots name"
    ],
    "responses": [
       "I'm your trusty virtual assistant here to help you with anything you need about Technological University of the Philippines (TUP)!",
@@ -698,7 +711,7 @@
    "responses": [
       "Hello, thanks for visiting",
       "Good to see you again!",
-      "Hi there, how can I help?"
+      "Hello! How can I assist you today? If you have any questions or need help with something, feel free to ask!"
    ],
    "context_set": ""
 },
@@ -714,7 +727,7 @@
    ],
    "responses": [
       "I can answer to low-intermediate questions regarding college",
-      "You can ask me questions regarding college, and i will try to answer them"
+      "You can ask me questions regarding TUP, and i will try to answer them"
    ],
    "context_set": ""
 },
