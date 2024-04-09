@@ -1,3 +1,8 @@
+"""
+    FOR SOFTWARE ENGINEERING WITH NAIVE BAYES
+"""
+
+
 import json
 import joblib
 import nltk
@@ -7,7 +12,6 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
-
 
 # Download NLTK resources (if not already downloaded)
 # List of NLTK resources to check/download
@@ -21,7 +25,7 @@ for resource in resources:
         print(f"'{resource}' is downloaded now.")
 
 # Load dataset from JSON
-with open('kaggle-dataset.json') as file:
+with open('about-tup.json', 'r', encoding='utf-8') as file:
     dataset = json.load(file)
 
 # Extract patterns and intents from the dataset

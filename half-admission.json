@@ -1,0 +1,386 @@
+{
+    "intents":[
+        {
+            "tag": "admission_undergraduate_tuition_fee",
+            "patterns": [
+                "What are the estimated tuition fees for undergraduate programs?",
+                "How much does it cost to study undergraduate courses?",
+                "What is the tuition fee structure for undergraduate studies?",
+                "Can you provide information on the undergraduate tuition fees?",
+                "What are the expected costs for undergraduate tuition?",
+                "How are undergraduate tuition fees calculated?",
+                "Are there different tuition fees for specific undergraduate programs?",
+                "Do tuition fees vary based on the number of credit hours taken?",
+                "Are there any additional fees apart from tuition for undergraduate studies?",
+                "Where can I find details about the undergraduate tuition fees?"
+            ],
+            "responses": [
+                "Sure thing! 💰 **The undergraduate tuition fees vary** depending on the program and number of credit hours. Refer to our website for specific details: [Tuition Fee](https://tup.edu.ph/pages/admission/estimated-tuition-fees)",
+                "Sure! 📚 **Undergraduate tuition fees are listed** on our website. You can find the details here: [Tuition Fee](https://tup.edu.ph/pages/admission/estimated-tuition-fees)",
+                "Absolutely! 🎓 **Our undergraduate tuition fees are transparent** and available on our website for your reference: [Tuition Fee](https://tup.edu.ph/pages/admission/estimated-tuition-fees)"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_contact_information_manila",
+            "patterns": [
+                "How can I contact the admission office in Manila?",
+                "What is the contact information for admissions in Manila?",
+                "Who should I contact for admission inquiries in Manila?",
+                "Can you provide the contact details for admission queries in Manila?",
+                "Where can I find the contact information for admissions in Manila?",
+                "How do I reach out to the admissions office in Manila?",
+                "Who is the head of the Office of Admissions in Manila?",
+                "What are the contact numbers for admission-related queries in Manila?",
+                "Do you have a phone number for admission inquiries in Manila?",
+                "How can I get in touch with the Office of Admissions in Manila?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details in Manila**, you can reach out to:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n- **Contact Numbers:** +63 (2) 5301.3042/5301.3001 local 603\n\n🏫 **Main Campus (Manila)**\n- **PABX Trunk Line:** +63 (2) 5301.3001\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_contact_information_taguig",
+            "patterns": [
+                "How can I contact the admission office in Taguig?",
+                "What is the contact information for admissions in Taguig?",
+                "Who should I contact for admission inquiries in Taguig?",
+                "Can you provide the contact details for admission queries in Taguig?",
+                "Where can I find the contact information for admissions in Taguig?",
+                "How do I reach out to the admissions office in Taguig?",
+                "Who is the head of the Office of Admissions in Taguig?",
+                "What are the contact numbers for admission-related queries in Taguig?",
+                "Do you have a phone number for admission inquiries in Taguig?",
+                "How can I get in touch with the Office of Admissions in Taguig?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details in Taguig**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nTUP Taguig Campus - +63 (2) 823.1774\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_contact_information_cavite",
+            "patterns": [
+                "How can I contact the admission office in Cavite?",
+                "What is the contact information for admissions in Cavite?",
+                "Who should I contact for admission inquiries in Cavite?",
+                "Can you provide the contact details for admission queries in Cavite?",
+                "Where can I find the contact information for admissions in Cavite?",
+                "How do I reach out to the admissions office in Cavite?",
+                "Who is the head of the Office of Admissions in Cavite?",
+                "What are the contact numbers for admission-related queries in Cavite?",
+                "Do you have a phone number for admission inquiries in Cavite?",
+                "How can I get in touch with the Office of Admissions in Cavite?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details in Cavite**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nTUP Cavite Campus - +63 (046) 416.4920\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_contact_information_visayas",
+            "patterns": [
+                "How can I contact the admission office in Visayas?",
+                "What is the contact information for admissions in Visayas?",
+                "Who should I contact for admission inquiries in Visayas?",
+                "Can you provide the contact details for admission queries in Visayas?",
+                "Where can I find the contact information for admissions in Visayas?",
+                "How do I reach out to the admissions office in Visayas?",
+                "Who is the head of the Office of Admissions in Visayas?",
+                "What are the contact numbers for admission-related queries in Visayas?",
+                "Do you have a phone number for admission inquiries in Visayas?",
+                "How can I get in touch with the Office of Admissions in Visayas?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details in Visayas**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nTUP Visayas Campus +63 (034) 495.3480\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""       
+        },
+        {
+            "tag": "admission_contact_information_coe",
+            "patterns": [
+                "How can I contact the admission office for the College of Engineering?",
+                "What is the contact information for admissions in the College of Engineering?",
+                "Who should I contact for admission inquiries for the College of Engineering?",
+                "Can you provide the contact details for admission queries for the College of Engineering?",
+                "Where can I find the contact information for admissions for the College of Engineering?",
+                "How do I reach out to the admissions office for the College of Engineering?",
+                "Who is the head of the Office of Admissions for the College of Engineering?",
+                "What are the contact numbers for admission-related queries for the College of Engineering?",
+                "Do you have a phone number for admission inquiries for the College of Engineering?",
+                "How can I get in touch with the Office of Admissions for the College of Engineering?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details for the College of Engineering**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nCollege of Engineering - Local 501\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""            
+        },
+        {
+            "tag": "admission_contact_information_cit",
+            "patterns": [
+                "How can I contact the admission office for the College of Industrial Technology?",
+                "What is the contact information for admissions in the College of Industrial Technology?",
+                "Who should I contact for admission inquiries for the College of Industrial Technology?",
+                "Can you provide the contact details for admission queries for the College of Industrial Technology?",
+                "Where can I find the contact information for admissions for the College of Industrial Technology?",
+                "How do I reach out to the admissions office for the College of Industrial Technology?",
+                "Who is the head of the Office of Admissions for the College of Industrial Technology?",
+                "What are the contact numbers for admission-related queries for the College of Industrial Technology?",
+                "Do you have a phone number for admission inquiries for the College of Industrial Technology?",
+                "How can I get in touch with the Office of Admissions for the College of Industrial Technology?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details for the College of Industrial Technology**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nCollege of Industrial Technology - Local 201\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""            
+        },
+        {
+            "tag": "admission_contact_information_cos",
+            "patterns": [
+                "How can I contact the admission office for the College of Science?",
+                "What is the contact information for admissions in the College of Science?",
+                "Who should I contact for admission inquiries for the College of Science?",
+                "Can you provide the contact details for admission queries for the College of Science?",
+                "Where can I find the contact information for admissions for the College of Science?",
+                "How do I reach out to the admissions office for the College of Science?",
+                "Who is the head of the Office of Admissions for the College of Science?",
+                "What are the contact numbers for admission-related queries for the College of Science?",
+                "Do you have a phone number for admission inquiries for the College of Science?",
+                "How can I get in touch with the Office of Admissions for the College of Science?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details for the College of Science**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nCollege of Science - Local 608\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""            
+        },
+        {
+            "tag": "admission_contact_information_cafa",
+            "patterns": [
+                "How can I contact the admission office for the College of Architecture and Fine Arts?",
+                "What is the contact information for admissions in the College of Architecture and Fine Arts?",
+                "Who should I contact for admission inquiries for the College of Architecture and Fine Arts?",
+                "Can you provide the contact details for admission queries for the College of Architecture and Fine Arts?",
+                "Where can I find the contact information for admissions for the College of Architecture and Fine Arts?",
+                "How do I reach out to the admissions office for the College of Architecture and Fine Arts?",
+                "Who is the head of the Office of Admissions for the College of Architecture and Fine Arts?",
+                "What are the contact numbers for admission-related queries for the College of Architecture and Fine Arts?",
+                "Do you have a phone number for admission inquiries for the College of Architecture and Fine Arts?",
+                "How can I get in touch with the Office of Admissions for the College of Architecture and Fine Arts?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details for the College of Architecture and Fine Arts**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nCollege of Architecture and Fine Arts - Local 301\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""            
+        },
+        {
+            "tag": "admission_contact_information_cie",
+            "patterns": [
+                "How can I contact the admission office for the College of Industrial Education?",
+                "What is the contact information for admissions in the College of Industrial Education?",
+                "Who should I contact for admission inquiries for the College of Industrial Education?",
+                "Can you provide the contact details for admission queries for the College of Industrial Education?",
+                "Where can I find the contact information for admissions for the College of Industrial Education?",
+                "How do I reach out to the admissions office for the College of Industrial Education?",
+                "Who is the head of the Office of Admissions for the College of Industrial Education?",
+                "What are the contact numbers for admission-related queries for the College of Industrial Education?",
+                "Do you have a phone number for admission inquiries for the College of Industrial Education?",
+                "How can I get in touch with the Office of Admissions for the College of Industrial Education?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details for the College of Industrial Education**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nCollege of Industrial Education - Local 306\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""            
+        },
+        {
+            "tag": "admission_contact_information_cla",
+            "patterns": [
+                "How can I contact the admission office for the College of Liberal Arts?",
+                "What is the contact information for admissions in the College of Liberal Arts?",
+                "Who should I contact for admission inquiries for the College of Liberal Arts?",
+                "Can you provide the contact details for admission queries for the College of Liberal Arts?",
+                "Where can I find the contact information for admissions for the College of Liberal Arts?",
+                "How do I reach out to the admissions office for the College of Liberal Arts?",
+                "Who is the head of the Office of Admissions for the College of Liberal Arts?",
+                "What are the contact numbers for admission-related queries for the College of Liberal Arts?",
+                "Do you have a phone number for admission inquiries for the College of Liberal Arts?",
+                "How can I get in touch with the Office of Admissions for the College of Liberal Arts?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details for the College of Liberal Arts**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nCollege of Liberal Arts - Local 609\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_contact_information_eteeap",
+            "patterns": [
+                "How can I contact the admission office for ETEEAP?",
+                "What is the contact information for admissions in ETEEAP?",
+                "Who should I contact for admission inquiries for ETEEAP?",
+                "Can you provide the contact details for admission queries for ETEEAP?",
+                "Where can I find the contact information for admissions for ETEEAP?",
+                "How do I reach out to the admissions office for ETEEAP?",
+                "Who is the head of the Office of Admissions for ETEEAP?",
+                "What are the contact numbers for admission-related queries for ETEEAP?",
+                "Do you have a phone number for admission inquiries for ETEEAP?",
+                "How can I get in touch with the Office of Admissions for ETEEAP?"
+            ],
+            "responses": [
+                "Sure thing! 📞 **For more details for ETEEAP**, please contact:\n\n👩‍💼 **Dr. Rosemarie Theresa M. Cruz**\n- Head, Office of Admissions\n- Ground Floor, Arts and Sciences Bldg., Ayala Blvd., Ermita, Manila 1000, Philippines\n\n**Contact Numbers:**\nETEEAP-5301.3043/5301.3001 local 616\n\nFor further information, you can also visit our [contact page](https://tup.edu.ph/pages/admission/contact-admission)."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_undergraduate_programs_requirements_cit",
+            "patterns": [
+                "What are the requirements for each undergraduate program offered by the College of Industrial Technology?",
+                "Can you provide the admission requirements for the programs in the College of Industrial Technology?",
+                "What are the prerequisites for the undergraduate programs in the College of Industrial Technology?",
+                "What GPA do I need to meet for admission to the programs in the College of Industrial Technology?",
+                "Are there specific grade requirements for each undergraduate program at the College of Industrial Technology?",
+                "I'm curious about the eligibility criteria for the undergraduate programs in the College of Industrial Technology. Can you help?",
+                "What qualifications are needed to apply for the undergraduate programs at the College of Industrial Technology?",
+                "Could you give me an overview of the admission criteria for the programs offered by the College of Industrial Technology?",
+                "What grades should I have to apply for the undergraduate programs in the College of Industrial Technology?",
+                "Tell me about the academic prerequisites for admission to the programs in the College of Industrial Technology."
+            ],
+            "responses": [
+                "Certainly! 📚 The admission requirements for undergraduate programs offered by the College of Industrial Technology (CIT) vary depending on the specific program. Here are the general grade requirements for each program:\n\n- Bachelor of Science in Food Technology: 80 above GPA on Math, Science, and English (STEM); 85 above GPA on Math, Science, and English (Non-STEM)\n- Bachelor of Engineering Technology majors:\n  - Computer Engineering Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Civil Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Electrical Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Electronics Communications Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Electronics Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Instrumentation and Control Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Mechanical Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Mechatronics Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Railway Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n  - Mechanical Engineering Technology options:\n    - Automotive Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n    - Foundry Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n    - Heating Ventilating & Air-Conditioning/Refrigeration Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n    - Power Plant Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n    - Welding Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n    - Dies and Moulds Technology: 75 above GPA on Math, Science, and English (STEM and Non-STEM)\n- Bachelor of Technology in Apparel and Fashion: 75 above GPA on Math, Science, and English\n- Bachelor of Technology in Nutrition and Food Technology: 75 above GPA on Math, Science, and English\n- Bachelor of Technology in Print Media Technology: 75 above GPA on Math, Science, and English\n\nFor more detailed information about specific program requirements, please refer to the [official website of TUP](https://tup.edu.ph/undergraduate/admission/undergraduate-programs)"
+            ],
+            "context_set": ""            
+        },
+        {
+            "tag": "admission_undergraduate_programs_requirements_cie",
+            "patterns": [
+                "What are the requirements for undergraduate programs in the College of Industrial Education (CIE)?",
+                "Can you provide the prerequisites for CIE undergraduate programs?",
+                "What are the grade requirements for CIE undergraduate programs?",
+                "What qualifications do I need for CIE undergraduate programs?",
+                "Can you list the requirements for Bachelor of Science Industrial Education in CIE?",
+                "What are the admission criteria for CIE undergraduate programs?",
+                "What GPA do I need for CIE undergraduate programs?",
+                "Could you outline the prerequisites for Bachelor of Technical Vocational Teachers Education in CIE?",
+                "What are the entrance requirements for CIE undergraduate programs?",
+                "Could you detail the criteria for admission to CIE undergraduate programs?"
+            ],
+            "responses": [
+                "Certainly! 📚 The admission requirements for undergraduate programs offered by the College of Industrial Education (CIE) vary depending on the specific program. Here are the general grade requirements for each program:\n- Bachelor of Science Industrial Education major in Information and Communication Technology\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Science Industrial Education major in Home Economics\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Science Industrial Education major in Industrial Arts\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Vocational Teachers Education major in Animation\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Vocational Teachers Education major in Beauty Care and Wellness\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Vocational Teachers Education major in Computer Programming\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Vocational Teachers Education major in Electrical\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Vocational Teachers Education major in Electronics\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Vocational Teachers Education major in Food Service Management\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Vocational Teachers Education major in Fashion and Garment\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Vocational Teachers Education major in Heat Ventilation & Air Conditioning\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\n- Bachelor of Technical Teacher Education\n  Requirements:\n  - Grade Requirement: 85 above GPA\n\nThe grade requirement for admission to these programs is an 85 above GPA.\nEach program has specific course descriptions and program educational outcomes. For more detailed information, please refer to the official website of TUP.\nFor specific admission requirements and prerequisites, please visit the official TUP website or contact the Office of Admissions directly.\nThe grade requirement applies to all programs within the College of Industrial Education (CIE).\nFor more detailed information about specific program requirements, please refer to the [official website of TUP](https://tup.edu.ph/undergraduate/admission/undergraduate-programs)"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_undergraduate_programs_requirements_coe",
+            "patterns": [
+                "What are the admission requirements for College of Engineering undergraduate programs?",
+                "Can you tell me about the requirements for COE undergraduate programs?",
+                "What GPA do I need for admission to COE undergraduate programs?",
+                "What are the prerequisites for College of Engineering undergraduate degrees?",
+                "I'm interested in COE undergraduate programs. What are the entry requirements?",
+                "Could you provide information about the admission criteria for COE undergraduate degrees?",
+                "What are the minimum grade requirements for COE undergraduate programs?",
+                "Tell me about the qualifications needed for COE undergraduate degrees.",
+                "What are the prerequisites for applying to COE undergraduate programs?",
+                "Can you outline the requirements for COE undergraduate admissions?"
+            ],
+            "responses": [
+                "Certainly! 📚 The admission requirements for undergraduate programs offered by the College of Engineering (COE) vary depending on the specific program. Here are the general grade requirements for each program:\n- Bachelor of Science in Civil Engineering:\n  - Grade Requirement: 85 and above GPA on Math, Science, and English (STEM Only)\n- Bachelor of Science in Electrical Engineering:\n  - Grade Requirement: 85 and above GPA on Math, Science, and English (STEM Only)\n- Bachelor of Science in Electronics Engineering:\n  - Grade Requirement: 85 and above GPA on Math, Science, and English (STEM Only)\n- Bachelor of Science in Mechanical Engineering:\n  - Grade Requirement: 85 and above GPA on Math, Science, and English (STEM Only)\nFor more detailed information about specific program requirements, please refer to the [official website of TUP](https://tup.edu.ph/undergraduate/admission/undergraduate-programs)"
+            ],
+            "context_set": ""            
+        },
+        {
+            "tag": "admission_undergraduate_programs_requirements_cla",
+            "patterns": [
+                "What are the admission requirements for undergraduate programs in the College of Liberal Arts (CLA)?",
+                "Can you tell me the requirements for CLA undergraduate programs?",
+                "What are the prerequisites for CLA undergraduate programs?",
+                "What GPA do I need for CLA undergraduate programs?",
+                "What are the qualifications needed for CLA undergraduate programs?",
+                "I'm interested in CLA undergraduate programs. What do I need to apply?",
+                "Could you provide information about the requirements for CLA undergraduate programs?",
+                "What are the eligibility criteria for CLA undergraduate programs?",
+                "Can you list the requirements for admission to CLA undergraduate programs?",
+                "What are the grade requirements for CLA undergraduate programs?"
+            ],
+            "responses": [
+                "Certainly! 📚 The admission requirements for undergraduate programs offered by the College of Liberal Arts (CLA) vary depending on the specific program. Here are the general grade requirements for each program:\n- Bachelor of Arts in Management major in Industrial Management:\n  - Grade Requirement: 80 above GPA in English, 80 above GWA (General Weighted Average), ABM, GAS, HUMMS preferably\n- Bachelor of Science in Entrepreneurship Management:\n  - Grade Requirement: 80 above GPA in English, 80 above GWA, ABM, GAS, HUMMS preferably\n- Bachelor of Science in Hospitality Management:\n  - Grade Requirement: 80 above GPA in English\n  - Additional Requirements:\n    - Height: 5'4\" for Female, 5'6\" for Male\n    - A 2-minute introduction video in corporate attire is required. False information on height will lead to disqualification from the program.\nFor more detailed information about specific program requirements, please refer to the [official website of TUP](https://tup.edu.ph/undergraduate/admission/undergraduate-programs)"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_undergraduate_programs_requirements_cos",
+            "patterns": [
+                "What are the admission requirements for undergraduate programs in the College of Science?",
+                "Can you tell me about the requirements for the College of Science undergraduate programs?",
+                "What are the requirements for admission to the College of Science undergraduate programs?",
+                "I'm interested in the undergraduate programs offered by the College of Science. What are the requirements?",
+                "What are the grade requirements for the College of Science undergraduate programs?",
+                "Could you provide information on the admission criteria for the College of Science undergraduate programs?",
+                "What GPA do I need for the College of Science undergraduate programs?",
+                "Can you outline the prerequisites for the College of Science undergraduate programs?",
+                "I want to know the admission requirements specifically for the College of Science. Can you help?",
+                "What are the prerequisites for applying to the College of Science undergraduate programs?"
+            ],
+            "responses": [
+                "Certainly! 📚 The admission requirements for undergraduate programs offered by the College of Science (COS) vary depending on the specific program. Here are the general grade requirements for each program:\n- Bachelor of Applied Science in Laboratory Technology:\n  - Grade Requirement: 80 above GPA on Math, Science, and English (STEM Only)\n- Bachelor of Science in Computer Science:\n  - Grade Requirement: 80 above GPA on Math, Science, and English (STEM Only)\n- Bachelor of Science in Environmental Science:\n  - Grade Requirement: 80 above GPA on Math, Science, and English (STEM Only)\n- Bachelor of Science in Information System:\n  - Grade Requirement: 80 above GPA on Math, Science, and English (STEM Only)\n- Bachelor of Science in Information Technology:\n  - Grade Requirement: 80 above GPA on Math, Science, and English (STEM Only)\nFor more detailed information about specific program requirements, please refer to the [official website of TUP](https://tup.edu.ph/undergraduate/admission/undergraduate-programs)"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_undergraduate_programs_requirements_cafa",
+            "patterns": [
+                "What are the admission requirements for undergraduate programs in the College of Architecture and Fine Arts?",
+                "What are the requirements for admission to the programs offered by the College of Architecture and Fine Arts?",
+                "Can you tell me the admission criteria for the College of Architecture and Fine Arts?",
+                "What GPA do I need to get admitted to the College of Architecture and Fine Arts?",
+                "What are the grade requirements for undergraduate programs in the College of Architecture and Fine Arts?",
+                "What are the prerequisites for applying to the College of Architecture and Fine Arts?",
+                "What are the qualifications needed to apply to the College of Architecture and Fine Arts?",
+                "What grades are required for admission to the College of Architecture and Fine Arts?",
+                "What are the entry requirements for programs in the College of Architecture and Fine Arts?",
+                "Can you provide information about the admission standards for the College of Architecture and Fine Arts?"
+            ],
+            "responses": [
+                "Certainly! 📚 The admission requirements for undergraduate programs offered by the College of Architecture and Fine Arts (CAFA) vary depending on the specific program. Here are the general grade requirements for each program:\n- Bachelor of Science in Architecture:\n  - Grade Requirement: 85 above GPA on Math, Science, and English (STEM only)\n- Bachelor of Fine Arts:\n  - Grade Requirement: 85 above GPA\n- Bachelor in Graphics Technology major in Architecture Technology:\n  - Grade Requirement: 85 above GPA\n- Bachelor in Graphics Technology major in Industrial Design:\n  - Grade Requirement: 85 above GPA\n- Bachelor in Graphics Technology major in Mechanical Drafting Technology:\n  - Grade Requirement: 85 above GPA\nFor more detailed information about specific program requirements, please refer to the [official website of TUP](https://tup.edu.ph/undergraduate/admission/undergraduate-programs)"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_office",
+            "patterns": [
+                "Who is the head of the admissions office?",
+                "Can you provide information about the admissions office?",
+                "Who oversees admissions at TUP?",
+                "Who is in charge of admissions?",
+                "Who manages the admissions process?",
+                "Who is the head of the admission office?",
+                "Who is responsible for admissions?",
+                "What is the name of the person in charge of admissions?",
+                "Who leads the admissions team?",
+                "Who is the head of the Admissions Office?"
+            ],
+            "responses": [
+                "Ah, you're looking to connect with the heart of our admissions team! 😊 That would be Dr. Rosemarie Theresa M. Cruz, the head of our Admissions Office here at TUP."
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "admission_contact_information_office",
+            "patterns": [
+                "What are the contact details for the admissions office?",
+                "How can I reach the admissions office?",
+                "What is the email address for admissions?",
+                "What is the telephone number for admissions?",
+                "When is the admissions office open?",
+                "How do I contact the admissions team?",
+                "Can you provide the contact information for admissions?",
+                "I need to get in touch with admissions, how?",
+                "Who can I contact regarding admissions?",
+                "What are the office hours for admissions?"
+            ],
+            "responses": [
+                "Here is how you can reach the admissions office:\nEmail: admission@tup.edu.ph\nTelephone: 5301.3042/loc. 603\nOffice Hours: 8:00am - 5:00pm, Monday to Friday"
+            ],
+            "context_set": ""
+        }
+    ]
+}

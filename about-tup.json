@@ -1,0 +1,1669 @@
+{
+   "intents":[
+      {
+      "tag": "admission_procedure",
+      "patterns": [
+         "What are the requirements for graduate programs?",
+         "What documents do I need to submit for admission?"
+      ],
+      "responses": [
+         "You can find detailed information about admission requirements on the TUP website (see 'website' key in information section). However, I can tell you that generally, you'll need an accomplished application form, transcript of records, recommendation letters, and some additional documents depending on your program and applicant status."
+      ]
+      },
+      {
+         "tag": "tup_history",
+         "patterns": [
+            "What is the history of TUP?",
+            "Give me a brief overview of TUP's history.",
+            "When was TUP established?",
+            "Tell me about the origins of TUP.",
+            "What led to the founding of TUP?",
+            "How did TUP evolve over the years?",
+            "Explain the historical background of TUP.",
+            "Can you provide a timeline of TUP's development?",
+            "What significant events shaped TUP's history?",
+            "I want to know more about TUP's past.",
+            "Describe the journey of TUP from its inception.",
+            "What were the early years of TUP like?",
+            "When did TUP transition from MTS to PCAT?",
+            "Share some key milestones in TUP's history.",
+            "How has TUP's history influenced its present status?"
+         ],
+         "responses": [
+            "The history of the Technological University of the Philippines (TUP) is a fascinating journey that began in 1901 with the establishment of the Manila Trade School (MTS). Initially focused on imparting practical skills to Filipino adults in trades like carpentry, telegraphy, and machine shop work, MTS later evolved into the Philippine School of Arts and Trades (PSAT) in 1910, offering intermediate grade courses. By 1959, PSAT was renamed the Philippine College of Arts and Trades (PCAT), pioneering graduate degree programs in industrial education. Finally, in 1978, PCAT was elevated to TUP status by virtue of President Decree No. 1518. Since then, TUP has continued to lead in providing higher vocational and technical education, contributing significantly to the country's industrial and technological landscape.\n 2. The rich history of the Technological University of the Philippines (TUP) spans over a century, tracing its roots back to the Manila Trade School (MTS) established in 1901. From its humble beginnings, MTS evolved into the Philippine School of Arts and Trades (PSAT) in 1910, offering a wider array of courses and pioneering industrial education in the Philippines. This transformation continued with the renaming of PSAT to the Philippine College of Arts and Trades (PCAT) in 1959, which subsequently became TUP in 1978. Throughout its history, TUP has been at the forefront of providing advanced vocational, technical, and professional education, shaping generations of skilled professionals and contributing significantly to the nation's development.\n For more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/page/about\"> here</a>\n"
+        ]        
+         },
+         {
+            "tag": "tup_mandate",
+            "patterns": [
+               "What is the mandate of the Technological University of the Philippines?",
+               "Can you summarize the objectives of TUP as stated in the mandate?",
+               "What are the key areas outlined in the TUP mandate?",
+               "Describe the sector outcome mentioned in the TUP mandate.",
+               "What are the organizational outcomes specified in the TUP mandate?",
+               "Who issued Presidential Decree No. 1518, and what does it entail?",
+               "What led to the conversion of the Philippine College of Arts and Trades into TUP?",
+               "What significant policies and recommendations influenced the establishment of TUP?",
+               "How does TUP aim to contribute to national development, according to the mandate?",
+               "Can you explain the role of TUP in providing vocational, technical, and professional education?",
+               "What measures are mentioned in the TUP mandate to promote economic productivity and innovation?",
+               "How does the TUP mandate address poverty reduction and empowerment?",
+               "Who constitutes the governing body of TUP, according to Presidential Decree No. 1518?",
+               "What powers and duties are granted to the Board of Regents of TUP?",
+               "What is the significance of Section 20 of Presidential Decree No. 1518?"
+            ],
+            "responses": [
+               "The Technological University of the Philippines is mandated to provide higher and advanced vocational, technical, industrial, technological and professional education and training in the industries and technology, and practical arts leading to certificates, diplomas, and degrees; to provide progressive leadership in applied research, developmental studies in technical, industrial and technological fields and production using indigenous materials, effect technology transfer in the countryside; and to provide expertise in the development of small and medium scale industries in identified growth-centers.\n For more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/tup-mandate\"> here</a>"
+            ]
+         },
+         {
+            "tag": "tup_vision",
+            "patterns": [
+               "What is the vision statement of the Technological University of the Philippines?",
+               "Can you provide me with TUP's vision?",
+               "What is TUP's vision for its future?",
+               "Could you summarize TUP's vision as a premier state university?",
+               "What does TUP aim to achieve with its vision statement?"
+               ],
+            "responses": [
+               "TUP: A premier state university with recognized excellence in engineering and technology education at par with leading universities in the ASEAN region.\n For more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/vision-mission-core-values-strategic-goals\"> here</a>"
+               ]
+         },
+         {
+            "tag": "tup_mission",
+            "patterns": [
+               "What is the mission of the Technological University of the Philippines?",
+               "Can you tell me about TUP's mission?",
+               "What does TUP aim to achieve according to its mission statement?",
+               "Could you summarize TUP's mission in providing education and training?",
+               "What are the key objectives outlined in TUP's mission statement?"
+               ],
+            "responses": [
+               "The University shall provide higher and advanced vocational, technical, industrial, technological and professional education and training in industries and technology, and in practical arts leading to certificates, diplomas and degrees. It shall provide progressive leadership in applied research, developmental studies in technical, industrial, and technological fields and production using indigenous materials; effect technology transfer in the countryside; and assist in the development of small-and- medium scale industries in identified growth centers.\n For more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/vision-mission-core-values-strategic-goals\"> here</a>"
+               ]
+         },
+         {
+            "tag": "tup_mission",
+            "patterns": [
+               "What is the mission of the Technological University of the Philippines?",
+               "Can you tell me about TUP's mission?",
+               "What does TUP aim to achieve according to its mission statement?",
+               "Could you summarize TUP's mission in providing education and training?",
+               "What are the key objectives outlined in TUP's mission statement?"
+               ],
+            "responses": [
+               "The University shall provide higher and advanced vocational, technical, industrial, technological and professional education and training in industries and technology, and in practical arts leading to certificates, diplomas and degrees. It shall provide progressive leadership in applied research, developmental studies in technical, industrial, and technological fields and production using indigenous materials; effect technology transfer in the countryside; and assist in the development of small-and- medium scale industries in identified growth centers.\n For more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/vision-mission-core-values-strategic-goals\"> here</a>"
+               ]
+         },
+         {
+            "tag": "tup_core_values",
+            "patterns": [
+               "Tell me about the principles embraced by Technological University of the Philippines.",
+               "What principles guide the governance of TUP?",
+               "How does TUP demonstrate accountability as part of its core values?",
+               "In what ways does TUP promote unity among its stakeholders?",
+               "Can you elaborate on how TUP incorporates transparency into its core values?"
+               ],
+            "responses": [
+               "Core Values\nT - Transparent and participatory governance\nU - Unity in the pursuit of TUP mission, goals, and objectives\nP - Professionalism in the discharge of quality service\nI - Integrity and commitment to maintain the good name of the University\nA - Accountability for individual and organizational quality performance\nN - Nationalism through tangible contribution to the rapid economic growth of the country\nS - Shared responsibility, hard work, and resourcefulness in compliance with the mandates of the university\n\nFor more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/vision-mission-core-values-strategic-goals\">here</a>."
+              ]
+         },
+         {
+            "tag": "tup_strategic_goals",
+            "patterns": [
+               "What are the strategic goals of TUP?",
+               "Can you list the main objectives of TUP's strategic plan?",
+               "I'd like to know about the strategic priorities set by TUP.",
+               "How does TUP aim to enhance its curricular offerings?",
+               "What efforts does TUP undertake to excel in engineering and technology research?",
+               "Could you elaborate on TUP's approach to community services as part of its strategic goals?",
+               "How does TUP plan to strengthen its capability and competence?",
+               "What initiatives are in place to modernize TUP's university system and manage resources efficiently?",
+               "In what ways does TUP seek to achieve increased financial viability?",
+               "Can you provide details about TUP's network enhancement and collaboration initiatives?"
+               ],
+            "responses": 
+            [
+               "Strategic Goals\nGoal 1 - Quality & Responsive Curricular Offerings\nGoal 2 - Excellence in Engineering & Technology Research\nGoal 3 - Leadership in Community Services\nGoal 4 - Strengthening Capability & Competence\nGoal 5 - Modernized University System & Efficient Management of Resources\nGoal 6 - Increased Financial Viability\nGoal 7 - Enhanced Network & Sustained Collaboration Initiatives\n\nFor more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/vision-mission-core-values-strategic-goals\">here</a>."
+            ]
+         },
+         {
+            "tag": "tup_quality_policy",
+            "patterns": [
+               "What is TUP's quality policy?",
+               "Could you summarize TUP's commitment to quality education?",
+               "What does TUP emphasize in its approach to research and extension projects?",
+               "How does TUP aim to continually improve its value to customers?",
+               "What steps does TUP take to enhance personnel competence?",
+               "Can you explain how TUP's quality management system works?",
+               "Is TUP's quality management system compliant with statutory and regulatory requirements?",
+               "What are the key components of TUP's quality policy?",
+               "Does TUP have specific goals related to quality improvement?",
+               "Can you provide more details about TUP's commitment to quality higher and advanced education?"
+            ],
+            "responses": [
+                     "TUP shall commit to provide quality higher and advanced education; conduct relevant research and extension projects; continually improve its value to customers through enhancement of personnel competence and effective quality management system compliant to statutory and regulatory requirements.\n\nFor more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/vision-mission-core-values-strategic-goals\">here</a>."
+                  ]
+         },
+         {
+            "tag": "tup_hymn",
+            "patterns": [
+               "Who composed the music for the TUP Hymn?",
+               "Who wrote the Filipino version of the TUP Hymn?",
+               "What does the TUP Hymn symbolize?",
+               "What values are reflected in the English rendition of the TUP Hymn?",
+               "How does the TUP Hymn celebrate the unity of TUPians?"
+            ],
+            "responses": [
+               "TUP HYMN\n\nMusic by Prof. Romeo P. Verayo, Sr.\nFilipino Version by Prof. Emerita R. Verayo\n\nKami sa 'yo'y nagpupugay TUP\nAng 'yong tanglaw, liwanag sa aming landas\nDiwa mo'y ginto, pusong wagas\nAlay naming sa iyo'y lahat ng hirap\nBuong pag-ibig at paglilingkod na ganap\n\nKay dami ng anak na 'yong pinagyaman\nDahil sa 'yo ngayo'y haligi ng bayan\nMoog ka ng laya at dangal\nTeknolohikal na Unibersidad ng Pilipinas\nBantayog ka ng lahi naming minamahal.\n\nEnglish Version by Dr. Milagros F. Lomotan\n\nHail to you, Alma Mater, hail TUP\nYour sons unite, and labor dignity uphold,\nStrong minds, mighty hearts priceless that gold\nThese we offer you and all mankind\nHail oh hail -\nAcross the seas we'll toil for you,\nAlma Mater dear\nThey're nation builders all, alumni ever true\nWorkers of note, trail blazers, artists\nSelfless souls, men and women free\nWe honor thee\nTechnological University of the Philippines\nBeloved school we honor you forever more!\n\nFor more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/tup-hymn\">here</a>."
+           ]
+         },
+         {
+            "tag": "tup_code",
+            "patterns": [
+               "What is the main purpose of the TUP Code of 2022?",
+               "Could you outline the key provisions of the TUP Code of 2022?",
+               "What are the rights and responsibilities of students according to the TUP Code of 2022?",
+               "How does the TUP Code of 2022 address the conduct expected from faculty and staff?",
+               "Are there any specific guidelines for administrative conduct outlined in the TUP Code of 2022?",
+               "How does TUP ensure compliance with the TUP Code of 2022?",
+               "What measures are taken to enforce the TUP Code of 2022?",
+               "Has there been any recent updates or revisions to the TUP Code of 2022?",
+               "Where can I find the full text of the TUP Code of 2022 for reference?",
+               "Can you provide examples of consequences for violating the TUP Code of 2022?"
+            ],
+            "responses": [
+               "The TUP Code of 2022 embodies the principles, values, and standards that guide the Technological University of the Philippines (TUP) community towards its mission of providing quality education and fostering excellence in various fields. This comprehensive document outlines the rights, responsibilities, and conduct expected from students, faculty, staff, and administrators within the university. It serves as a cornerstone of TUP's commitment to academic integrity, ethical behavior, and a conducive learning environment.\n\nFor more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/tupcode-of-2022\">here</a>."
+           ]
+         },
+         {
+            "tag": "officials_top_management",
+            "patterns": [              
+               "Who is the current University President of TUP?",
+               "What is the email address of the VP for Academic Affairs at TUP?",
+               "Who holds the position of VP for Research & Extension at TUP?",
+               "How can I contact the VP for Administration & Finance at TUP?",
+               "Who is responsible for Planning, Development & Special Concerns at TUP?",
+               "Can you provide the contact information for the Office of the President at TUP?",
+               "Who is the VP for Academic Affairs, and what are their responsibilities?",
+               "What is the email address of the VP for Planning, Development & Special Concerns at TUP?",
+               "How can I reach the top management of TUP for administrative matters?",
+               "Who is the VP for Research & Extension, and how can I contact them?"
+            ],
+            "responses": [[
+                  {
+                  "Office/Unit": "Office of the President",
+                  "Designation": "University President",
+                  "Name": "Engr. Reynaldo P. Ramos, PhD., EnP",
+                  "Email": "reynaldo_ramos@tup.edu.ph"
+                  },
+                  {
+                  "Office/Unit": "Office of the Vice President for Academic Affairs",
+                  "Designation": "VP for Academic Affairs",
+                  "Name": "Dr. Ryan C. Reyes",
+                  "Email": "ryan_reyes@tup.edu.ph, vpaa@tup.edu.ph"
+                  },
+                  {
+                  "Office/Unit": "Office of the Vice President for Research & Extension",
+                  "Designation": "VP for Research & Extension",
+                  "Name": "Dr. Hasmin T. Ignacio",
+                  "Email": "hasmin_ignacio@tup.edu.ph, vpaa@tup.edu.ph"
+                  },
+                  {
+                  "Office/Unit": "Office of the Vice President for Administration & Finance",
+                  "Designation": "VP for Administration & Finance",
+                  "Name": "Ms. Purabella R. Agron, CPA",
+                  "Email": "purabella_agron@tup.edu.ph, vpaf@tup.edu.ph"
+                  },
+                  {
+                  "Office/Unit": "Office of the Vice President for Planning, Development & Special Concerns",
+                  "Designation": "VP for Planning, Development & Special Concerns",
+                  "Name": "Dr. Connie C. Aunario",
+                  "Email": "connie_aunario@tup.edu.ph"
+                  }]
+         ]
+         },
+         {
+            "tag": "officials_office_president",
+            "patterns": [              
+               "Who is the Acting Executive Assistant in the Office of the President?",
+               "What is the email address of the University/Board Secretary?",
+               "Who heads the Internal Control Office/Internal Audit Services?",
+               "What is the email address of the Chairperson of the Bids & Awards Committee for Infrastructure Equipment?",
+               "Who is the Chairperson of the Bids & Awards Committee for Goods and Services?",
+               "Who is the Director of the Institutional/International Linkages & External Affairs Office?"
+            ],
+            "responses": [[
+               {
+                  "Office/Unit": "Office of the President",
+                  "Designation": "Acting Executive Assistant",
+                  "Name": "Mr. Manuel P. Inanuran",
+                  "Email": "manuel_inanuran@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Office of Board Secretary",
+                  "Designation": "University/Board Secretary",
+                  "Name": "Ms. Mona J. Purganan",
+                  "Email": "mona_purganan@tup.edu.ph / boardsec@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Internal Control Office / Internal Audit Services",
+                  "Designation": "Head",
+                  "Name": "Mrs. Purabella Agron",
+                  "Email": "purabella_agron@tup.edu.ph / ico@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Bids & Awards Committee (Infrastructure Equipment - Public Bidding)",
+                  "Designation": "Chairperson",
+                  "Name": "Dr. Connie C. Aunario",
+                  "Email": "connie_aunario@tup.edu.ph / bac@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Bids & Awards Committee (Goods and Services - Public Bidding and Alternative Modes of Procurement for Infrastructure, Equipment, Goods and Services - Below 1M)",
+                  "Designation": "Chairperson",
+                  "Name": "Dr. Ryan C. Reyes",
+                  "Email": "ryan_reyes@tup.edu.ph / bac@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Institutional/International Linkages & External Affairs Office",
+                  "Designation": "Director",
+                  "Name": "Assoc. Prof. Dr. Gina L. Basa",
+                  "Email": "gina_basa@tup.edu.ph / linkages@tup.edu.ph"
+                }]
+         ]
+         },
+         {
+            "tag": "officials_academic_affairs",
+            "patterns": [              
+               "Who is the Dean of the College of Industrial Technology?",
+               "What is the email address of the College Secretary of the College of Industrial Technology?",
+               "Who is the Head of the Basic Industrial Technology department?",
+               "What is the email address of the Head of the Food and Apparel Technology department?",
+               "Who is the Head of the Graphic and Arts Department?",
+               "What is the email address of the Head of the Mechanical Engineering Technology department?",
+               "Who is the OIC-Head of the Power Plant Engineering Technology department?",
+               "What is the email address of the Head of the Electrical Engineering Technology department?",
+               "Who is the OIC-Head of the Electronic Engineering Technology department?",
+               "What is the email address of the Head of the Civil Engineering Technology department?",
+               "Who is the Dean of the College of Industrial Education?",
+               "What is the email address of the College Secretary of the College of Industrial Education?",
+               "Who is the Head of the Professional Industrial Education department?",
+               "What is the email address of the Head of the Student Teaching department?",
+               "Who is the Head of the Technical Arts department?",
+               "What is the email address of the Head of the Home Economics department?",
+               "Who is the Dean of the College of Engineering?",
+               "What is the email address of the College Secretary of the College of Engineering?",
+               "Who is the OIC-Head of the Electronics Communication Engineering department?",
+               "What is the email address of the OIC-Head of the Electrical Engineering department?",
+               "Who is the Head of the Mechanical Engineering department?",
+               "What is the email address of the Head of the Civil Engineering department?",
+               "Who is the Acting Dean of the College of Science?",
+               "What is the email address of the College Secretary of the College of Science?",
+               "Who is the Head of the Chemistry department?",
+               "What is the email address of the Head of the Computer Studies department?",
+               "Who is the Head of the Mathematics department?",
+               "Who is the Head of the Physics department, and what is their email address?",
+               "Who serves as the Dean of the College of Architecture and Fine Arts, and what email can they be reached at?",
+               "Who is the College Secretary of the College of Architecture and Fine Arts, and how can they be contacted?",
+               "Who is the Head of the Graphics department?",
+               "Who is the Head of the Architecture department, and what is their email?",
+               "Who heads the Fine Arts department, and what is their email?",
+               "What is the name and email address of the Dean of the College of Liberal Arts?",
+               "Who is the College Secretary of the College of Liberal Arts?",
+               "Who is the OIC-Head of the Languages department?",
+               "Who serves as the OIC-Head of the Social Science department?",
+               "Who is the Head of the Entrepreneurship and Management department, and how can they be reached?",
+               "Who is the Head of the Hospitality Management department?",
+               "Who serves as the Head of the Physical Education department, and what is their email?",
+               "Who is the Director of the Graduate Programs, and what email address can they be reached at?",
+               "Who is the Director of the Office of Alumni Relations, and how can they be contacted?",
+               "Who holds the position of University Registrar, and what is their email?",
+               "Who is the Director of Academic Programs?",
+               "Who is the Dean of the Office of Student Affairs, and what is their email?",
+               "Who is the Director of the Expanded Tertiary Education and Equivalent Accreditation Program?",
+               "Who is in charge of University Sports, and what is their email?",
+               "Who is the Head of the Sports and Cultural Affairs department?",
+               "Who is the Head of the Cultural Affairs department, and how can they be reached?",
+               "Who serves as the Director of Industrial Relations and Job Placement?",
+               "Who is the Director of the University Library & Learning Resources, and what email address can they be reached at?",
+               "Who holds the position of Assistant Director in the University Library & Learning Resources department?",
+               "Who is the Head of the Admissions Office, and what email can they be reached at?",
+               "Who is the Head of the Guidance Office, and what is their email address?",
+               "Who serves as the Director of the Educational Resource Development Services, and how can they be reached?",
+               "Who is the Director of the National Service Training Program (NSTP), and what email can they be reached at?",
+               "Who is the Administrator of TUP Cuenca Extension in Cuenca, Batangas?",
+               "Who is the Administrator of TUP Lopez Quezon?",
+               "Who is the Coordinator for TUP Lopez, Quezon?",
+               "Who is the Curator of the TUP Museum?",
+               "Who is the Faculty-in-Charge at the TUP Museum?"
+            ],
+            "responses": [[
+               {
+                  "Office/Unit": "College of Industrial Technology",
+                  "Designation": "Dean",
+                  "Name": "Asst. Prof. Elpidio S. Virrey",
+                  "Email": "elpidio_virrey@tup.edu.ph, cit@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Industrial Technology",
+                  "Designation": "College Secretary",
+                  "Name": "Assoc. Prof. Dr. May Ann R. Codera",
+                  "Email": "mayann_codera@tup.edu.ph, cit@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Basic Industrial Technology",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Jose C. Delos Santos Jr.",
+                  "Email": "jose_delossantos@tup.ed.ph, bit@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Food and Apparel Technology",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Bernadeth Gilbor",
+                  "Email": "bernadeth_gilbor@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Graphic and Arts Department",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Ms. Lotis Palma-Buco",
+                  "Email": "lotis_buco@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Mechanical Engineering Technology",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Andrew John A. Mabaquiao",
+                  "Email": "andrewjohn_mabaquiao@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Power Plant Engineering Technology",
+                  "Designation": "OIC-Head",
+                  "Name": "Assoc. Prof. Andrew John A. Mabaquiao",
+                  "Email": "andrewjohn_mabaquiao@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Electrical Engineering Technology",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Venerando Sison",
+                  "Email": "venerando_sison@tup.edu.ph, eet@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Electronic Engineering Technology",
+                  "Designation": "OIC-Head",
+                  "Name": "Asst. Prof. Aimee G. Acoba",
+                  "Email": "aimee_acoba@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Civil Engineering Technology",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Samuel M. Pacba",
+                  "Email": "samuel_pacba@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Industrial Education",
+                  "Designation": "Dean",
+                  "Name": "Dr. Apollo P. Portez",
+                  "Email": "apollo_portez@tup.edu.ph, cie@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Industrial Education",
+                  "Designation": "College Secretary",
+                  "Name": "Assoc. Prof. Dr. Werson De Asis",
+                  "Email": "werson_deasis@tup.edu.ph, cie@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Professional Industrial Education",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Dr. Neil Andrew Calayag",
+                  "Email": "neilandrew_calayag@tup.edu.ph, pie@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Student Teaching",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Dr. Sylvia B. Guevarra",
+                  "Email": "sylvia_guevarra@tup.edu.ph, st@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Technical Arts",
+                  "Designation": "Head",
+                  "Name": "Assoc Prof. Allan Villariza",
+                  "Email": "allan_villariza@tup.edu.ph, tad@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Home Economics",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Dr. Dorothy Manalansan",
+                  "Email": "dorothy_manalansan@tup.edu.ph, he@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Engineering",
+                  "Designation": "Dean",
+                  "Name": "Dr. Lean S. Tolentino",
+                  "Email": "lean_tolentino@tup.edu.ph, coe@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Engineering",
+                  "Designation": "College Secretary",
+                  "Name": "Asst. Prof. Lucia V. Ortega",
+                  "Email": "lucia_ortega@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Electronics Communication Engineering",
+                  "Designation": "OIC-Head",
+                  "Name": "Engr. Cherry G. Pascion",
+                  "Email": "cherry_pascion@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Electrical Engineering",
+                  "Designation": "OIC-Head",
+                  "Name": "Engr. Roel M. Mendoza",
+                  "Email": "roel_mendoza@ tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Mechanical Engineering",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Antiro M. Ca-ay",
+                  "Email": "antiro_caay@tup.edu.ph, mechanical@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Civil Engineering",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Teodinis P. Garcia",
+                  "Email": "teodinis_garcia@tup.edu.ph, civil@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Science",
+                  "Designation": "Acting Dean",
+                  "Name": "Dr. Joshua T. Soriano",
+                  "Email": "joshua_soriano@tup.edu.ph, cos@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Science",
+                  "Designation": "College Secretary",
+                  "Name": "Assoc. Prof. Jervie M. Oliveros",
+                  "Email": "jervie_oliveros@tup.edu.ph, cossec@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Chemistry",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Maria Carmelita Sapina",
+                  "Email": "mariacarmelita_sapina@tup.edu.ph, chemistry@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Computer Studies",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Dr. Dolores Montesines",
+                  "Email": "dolores_montesines@tup.edu.ph, computer@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Mathematics",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Maria Teresa Mandi",
+                  "Email": "materesa_mandi@tup.edu.ph, math@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Physics",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Dr. Aldrin G. Chang",
+                  "Email": "aldrin_chang@tup.edu.ph, physics@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Architecture and Fine Arts",
+                  "Designation": "Dean",
+                  "Name": "Assoc. Prof. Elpidio T. Balais, Jr.",
+                  "Email": "elpidio_balais@tup.edu.ph, cafa@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Architecture and Fine Arts",
+                  "Designation": "College Secretary",
+                  "Name": "Ar. Kenneth V. Tributo",
+                  "Email": "kenneth_tributo@tup.edu.ph, cafa@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Graphics",
+                  "Designation": "Head",
+                  "Name": "Prof. Lowell Quey S. Fabrigar",
+                  "Email": "lowellquey_fabrigar@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Architecture",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Rosellia Rowena A. Manzano",
+                  "Email": "roselliarowena_manzano@tup.edu.ph, architecture@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Fine Arts",
+                  "Designation": "Head",
+                  "Name": "Mr. Ramon T. Dela Cruz",
+                  "Email": "ramon_delacruz@tup.edu.ph, finearts@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Liberal Arts",
+                  "Designation": "Dean",
+                  "Name": "Dr. Michael Bhobet Baluyot",
+                  "Email": "michaelbhobet_baluyot@tup.edu.ph, cla@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "College of Liberal Arts",
+                  "Designation": "College Secretary",
+                  "Name": "Ms. Rose Ann Panti",
+                  "Email": "roseann_panti@tup.edu.ph, cla@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Languages",
+                  "Designation": "OIC-Head",
+                  "Name": "Dr. Michael Bhobet Baluyot",
+                  "Email": "michaelbhobet_baluyot@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Social Science",
+                  "Designation": "OIC-Head",
+                  "Name": "Prof. Noemie Bunye",
+                  "Email": "noemie_bunye@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Entrepreneurship and Management",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Jerson A. Monsad",
+                  "Email": "jerson_monsad@tup.edu.ph, dem@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Hospitality Management",
+                  "Designation": "Head",
+                  "Name": "Dr. Ma. Dina D. Jimenez",
+                  "Email": "madina_jimenez@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Physical Education",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Bernadette L. Alavazo",
+                  "Email": "bernadette_alavazo@tup.edu.ph, pe@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Graduate Programs",
+                  "Designation": "Director",
+                  "Name": "Prof. Dr. Melbern Rose C. Maltezo",
+                  "Email": "melbernrose_maltezo@tup.edu.ph, graduate@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Office of Alumni Relations",
+                  "Designation": "Director",
+                  "Name": "Prof. Dr. Arjun G. Ansay",
+                  "Email": "arjun_ansay@tup.edu.ph, alumni@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Registrar",
+                  "Designation": "University Registrar",
+                  "Name": "Prof. Dr. Rosemarie Theresa M. Cruz",
+                  "Email": "rosemarietheresa_cruz@tup.edu.ph, registrar@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Academic Programs",
+                  "Designation": "Director",
+                  "Name": "Assoc. Prof. Ghazali Illuminada R. Sison",
+                  "Email": "ghazaliiluminada_sison@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Office of Student Affairs",
+                  "Designation": "Dean",
+                  "Name": "Assoc. Prof. Dr. Margaret S. Aquino",
+                  "Email": "margaret_aquino@tup.edu.ph, osa@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Expanded Tertiary Education and Equivalent Accreditation Program",
+                  "Designation": "Director",
+                  "Name": "Assoc. Prof. Dr. Kevien C. Dela Cruz",
+                  "Email": "kevien_delacruz@tup.edu.ph, eteeap@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "University Sports",
+                  "Designation": "Head",
+                  "Name": "Mr. Allan D. Soria",
+                  "Email": "allan_soria@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Sports and Cultural Affairs",
+                  "Designation": "Director",
+                  "Name": "Asst. Prof. Bernadette S. Alavazo",
+                  "Email": "bernadette_alavazo@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Cultural Affairs",
+                  "Designation": "Head",
+                  "Name": "Prof. Beverly C. Yabut",
+                  "Email": "beverly_yabut@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Industrial Relations and job Placement",
+                  "Designation": "Director",
+                  "Name": "Assoc. Prof. Ruel Aggabao",
+                  "Email": "ruel_aggabao@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "University Library & Learning Resources",
+                  "Designation": "Director",
+                  "Name": "Dr. Olga M. Ong",
+                  "Email": "olga_ong@tup.edu.ph, library@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "University Library & Learning Resources",
+                  "Designation": "Asst. Director",
+                  "Name": "Ms. Maryfel Lumen",
+                  "Email": "maryfel_lumen@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Admissions Office",
+                  "Designation": "Head",
+                  "Name": "Prof. Dr. Rosemarie Theresa M. Cruz",
+                  "Email": "rosemarietheresa_cruz@tup.edu.ph, admissions@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Guidance Office",
+                  "Designation": "Head",
+                  "Name": "Dr. Enrico S. Lucena",
+                  "Email": "enrico_lucena@tup.edu.ph, guidance@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Educational Resource Development Services",
+                  "Designation": "Director",
+                  "Name": "Dr. Apollo P. Portez",
+                  "Email": "apollo_portez@tup.edu.ph, erds@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "National Service Training Program (NSTP)",
+                  "Designation": "Director",
+                  "Name": "Mr. Reggie Campomanes",
+                  "Email": "reggie_campomanes@tup.edu.ph, nstp@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "TUP Cuenca Extension, Cuenca, Batangas",
+                  "Designation": "Administrator",
+                  "Name": "Dr. Romeo S. Ebonite",
+                  "Email": "romeo_ebonite@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "TUP Lopez Quezon",
+                  "Designation": "Administrator",
+                  "Name": "Assoc. Prof. Elpidio S. Virrey",
+                  "Email": "elpidio_virrey@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "TUP Lopez, Quezon",
+                  "Designation": "Coordinator",
+                  "Name": "Mr. Carlos S. Perion",
+                  "Email": "carlos_perion@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "TUP Museum",
+                  "Designation": "Curator",
+                  "Name": "Prof. Dr. Dionisio A. Espression Jr.",
+                  "Email": "dionisio_espression@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "TUP Museum",
+                  "Designation": "Faculty-in-Charge",
+                  "Name": "Ms. Marcelina P. Puga",
+                  "Email": "marcelina_puga@tup.edu.ph"
+                }]                     
+         ]
+         },
+         {
+            "tag": "officials_admin_finance",
+            "patterns": [              
+               "Who is the Chief Administrative Officer (CAO) of the Administrative Services, and what is their email address?",
+               "Who serves as the Director of the Auxiliary Services, and how can they be reached?",
+               "Who is the Head of the Civil Security Office, and what email can they be contacted at?",
+               "Who is the Head of the Human Resource Management Office, and what is their email?",
+               "Who holds the position of Chief Finance Officer in the Financial Services department?",
+               "Who is the Head and Chief Accountant of the Accounting Office, and what email can they be reached at?",
+               "Who serves as the Head of the Budget Office, and how can they be contacted?",
+               "Who is the Head of the Cashiers Office, and what email address can they be reached at?",
+               "Who heads the Supply & Property Office, and what is their email?",
+               "Who is the Head of the Records Management Office, and how can they be contacted?",
+               "Who serves as the Head of the Procurement Office, and what email can they be reached at?",
+               "Who is the Head of the Dental Services department?",
+               "Who is in charge of the Medical Services department, and what email can they be reached at?"
+            ],
+            "responses": [[
+               {
+                  "Office/Unit": "Administrative Services",
+                  "Designation": "CAO",
+                  "Name": "Dr. Vicky R. Galiza",
+                  "Email": "vicky_galiza@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Auxiliary Services",
+                  "Designation": "Director",
+                  "Name": "Assoc. Prof. Rovenson Sevilla",
+                  "Email": "rovenson_sevilla@tup.edu.ph, auxiliary@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Civil Security Office",
+                  "Designation": "Head",
+                  "Name": "Mr. Reggie C. Campomanes",
+                  "Email": "reggie_campomanes@tup.edu.ph, security@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Human Resource Management Office",
+                  "Designation": "Head",
+                  "Name": "Ms. Catalina A. Baquiran",
+                  "Email": "catalina_baquiran@tup.edu.ph, hrmo@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Financial Services",
+                  "Designation": "Chief Finance Officer",
+                  "Name": "Mrs. Marites S. Bolanos",
+                  "Email": "marites_bolanos@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Accounting Office",
+                  "Designation": "Head & Chief Accountant",
+                  "Name": "Mr. Catalino A. Fortes, Jr.",
+                  "Email": "catalino_fortes@tup.edu.ph, accounting@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Budget Office",
+                  "Designation": "Head",
+                  "Name": "Ms. Vivian C. Santos",
+                  "Email": "vivian_santos@tup.edu.ph, budget@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Cashiers Office",
+                  "Designation": "Head",
+                  "Name": "Ms. Vienna Castillon",
+                  "Email": "vienna_castillon@tup.edu.ph, cashier@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Supply & Property Office",
+                  "Designation": "Head",
+                  "Name": "Ms. Susana DG. Uy",
+                  "Email": "susana_uy@tup.edu.ph, supply@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Records Management Office",
+                  "Designation": "Head",
+                  "Name": "Mr. Jonathan M. Monsad, J.D.",
+                  "Email": "jonathan_monsad@tup.edu.ph, rmo@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Procurement Office",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Peragrino B. Amador Jr.",
+                  "Email": "peragrinojr_amador@tup.edu.ph, procurement@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Dental Services",
+                  "Designation": "Head",
+                  "Name": "Dr. Marissa Laureles",
+                  "Email": "marissa_laureles@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Medical Services",
+                  "Designation": "Head",
+                  "Name": "Dr. Emmanuel G. Ruiz II",
+                  "Email": "emmanuel_ruiz@tup.edu.ph, medical@tup.edu.ph"
+                }]
+         ]
+         },
+         {
+            "tag": "officials_research_extensions",
+            "patterns": [              
+               "Who is the Director of the Integrated Research and Training Center, and what is their email?",
+               "Who serves as the Director of University Research and Development Services, and how can they be reached?",
+               "Who is the Director of University Extension Services, and what is their contact email?",
+               "Who heads the Technology Licensing Office/Innovation and Technology, and what email address can they be reached at?",
+               "Who is the Special Assistant for Internal Affairs, and what is their email?",
+               "Who holds the position of Special Assistant for External Affairs, and how can they be contacted?"
+            ],
+            "responses": [[
+               {
+                  "Office/Unit": "Integrated Research and Training Center",
+                  "Designation": "Director",
+                  "Name": "Engr. Nilo Arago",
+                  "Email": "nilo_arago@tup.edu.ph, irtc@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "University Research and Development Services",
+                  "Designation": "Director",
+                  "Name": "Assoc. Prof. Dr. Francisco D. Esponilla II",
+                  "Email": "francisco_esponilla@tup.edu.ph, urds@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "University Extension Services",
+                  "Designation": "Director",
+                  "Name": "Prof. Dr. Benedicto Fortaleza",
+                  "Email": "benedicto_fortaleza@tup.edu.ph, ues@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Technology Licensing Office/Innovation and Technology",
+                  "Designation": "Director",
+                  "Name": "Asst. Prof. Jonel R. Macalisang",
+                  "Email": "jonel_macalisang@tup.edu.ph, itso@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Internal Affairs",
+                  "Designation": "Special Assistant",
+                  "Name": "Mr. Raymund T. Masangya",
+                  "Email": "raymund_masangya@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "External Affairs",
+                  "Designation": "Special Assistant",
+                  "Name": "Ms. Olivia A. Oliva",
+                  "Email": "olivia_oliva@tup.edu.ph"
+                }]
+         ]
+         },
+         {
+            "tag": "officials_planningDev_specialConcerns",
+            "patterns": [              
+               "Who is the Director of the University Information Technology Center, and what email can they be reached at?",
+               "Who serves as the Head of the Network Management Unit, and how can they be contacted?",
+               "Who heads the System Development Unit, and what is their contact email?",
+               "Who is in charge of the ICT Repair and Maintenance Unit, and what is their email?",
+               "Who is the Director of the Planning Development Office, and how can they be reached?",
+               "Who holds the position of Director in the Quality Assurance and Accreditation Coordinating Services Office, and what is their email?",
+               "Who is the Focal Person for Gender and Development, and how can they be contacted?",
+               "Who serves as the Head of the Senior Citizens & PWD unit?"
+            ],
+            "responses": [[
+               {
+                  "Office/Unit": "University Information Technology Center",
+                  "Designation": "Director",
+                  "Name": "Assoc. Prof. Julius A. Sareno",
+                  "Email": "julius_sareno@tup.edu.ph, uitc@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Network Management Unit",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Michael Narisma",
+                  "Email": "michael_narisma@tup.edu.ph, uitc@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "System Development Unit",
+                  "Designation": "Head",
+                  "Name": "Asst. Prof. Vicente E. Estember",
+                  "Email": "vicente_estember@tup.edu.ph, uitc@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "ICT Repair and Maintenance Unit",
+                  "Designation": "Head",
+                  "Name": "Mr. Michael Corpuz",
+                  "Email": "michael_corpuz@tup.edu.ph, uitc@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Planning Development Office",
+                  "Designation": "Director",
+                  "Name": "Asst. Prof. Arthur J. Lagbas",
+                  "Email": "arthur_lagbas@tup.edu.ph, pdo@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Quality Assurance and Accreditation Coordinating Services Office",
+                  "Designation": "Director",
+                  "Name": "Assoc. Prof. Lyndon A. Bague",
+                  "Email": "lyndon_bague@tup.edu.ph, qaacso@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Gender and Development",
+                  "Designation": "Focal Person",
+                  "Name": "Asst. Prof. Jennifer P. Alinsunod",
+                  "Email": "jennifer_alinsunod@tup.edu.ph, gad@tup.edu.ph"
+                },
+                {
+                  "Office/Unit": "Senior Citizens & PWD",
+                  "Designation": "Head",
+                  "Name": "Assoc. Prof. Lyndon A. Bague",
+                  "Email": "lyndon_bague@tup.edu.ph"
+                }]
+         ]
+         },
+   {
+   "tag": "goodbye",
+   "patterns": [
+      "cya",
+      "see you",
+      "bye bye",
+      "See you later",
+      "Goodbye",
+      "I am Leaving",
+      "Bye",
+      "Have a Good day",
+      "talk to you later",
+      "ttyl",
+      "i got to go",
+      "gtg"
+   ],
+   "responses": [
+      "See you later, thanks for visiting",
+      "Have a nice day", 
+      "Bye! Come back again soon.",
+      "Sad to see you go :(",
+      "Talk to you later",
+      "Goodbye!"
+   ]
+},
+ {
+   "tag": "creator",
+   "patterns": [
+      "what is the name of your developers",
+      "what is the name of your creators",
+      "what is the name of the developers",
+      "what is the name of the creators",
+      "who created you",
+      "your developers",
+      "your creators",
+      "who are your developers",
+      "developers",
+      "you are made by",
+      "you are made by whom",
+      "who created you",
+      "who create you",
+      "creators",
+      "who made you",
+      "who designed you"
+   ],
+   "responses": [
+      "I am happy to introduce the creators of this project 'The implementation of a Virtual Assistant for the Academic Management of Students of TUP-Manila with the use of Naive Bayes Algorithm': Mary Jane Calulang, Jeanne May Carolino, Maria Evita Juan, John Paul Monter, and Vincent Johanne Tenorio."
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "name",
+   "patterns": [
+      "name",
+      "your name",
+      "do you have a name",
+      "what are you called",
+      "what is your name",
+      "what should I call you",
+      "whats your name?",
+      "what are you",
+      "who are you",
+      "who is this",
+      "what am i chatting to",
+      "who am i taking to",
+      "what are you",
+      "who are you?",
+      "what is your purpose",
+      "what do you do",
+      "what is your function",
+      "who do you work for",
+      "who created you",
+      "what is your role",
+      "introduce yourself",
+      "tell me about yourself",
+      "what can you do",
+      "what are you for",
+      "who am i chatting to",
+      "What is the chatbots name"
+   ],
+   "responses": [
+      "I'm your trusty virtual assistant here to help you with anything you need about Technological University of the Philippines (TUP)!",
+      "My name's [CHATBOT NAME], and I'm here to answer your curiosity about Technological University of the Philippines (TUP)!"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "hours",
+   "patterns": [
+      "timing of college",
+      "what is college timing",
+      "working days",
+      "when are you guys open",
+      "what are your hours",
+      "hours of operation",
+      "when is the college open",
+      "college timing",
+      "what about college timing",
+      "is college open on saturday",
+      "tell something about college timing",
+      "what is the college  hours",
+      "when should i come to college",
+      "when should i attend college",
+      "what is my college time",
+      "college timing",
+      "timing college"
+   ],
+   "responses": [
+      "College is open 8am-5pm Monday-Friday!"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "number",
+   "patterns": [
+      "more info",
+      "contact info",
+      "how to contact college",
+      "college telephone number",
+      "college number",
+      "What is your contact no",
+      "Contact number?",
+      "how to call you",
+      "College phone no?",
+      "how can i contact you",
+      "Can i get your phone number",
+      "how can i call you",
+      "phone number",
+      "phone no",
+      "call"
+   ],
+   "responses": [
+      "You can contact at: [NUMBER]"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "course",
+   "patterns": [
+      "list of courses",
+      "list of courses offered",
+      "list of courses offered in",
+      "what are the courses offered in your college?",
+      "courses?",
+      "courses offered",
+      "courses offered in (your univrsity(UNI) name)",
+      "courses you offer",
+      "branches?",
+      "courses available at UNI?",
+      "branches available at your college?",
+      "what are the courses in UNI?",
+      "what are branches in UNI?",
+      "what are courses in UNI?",
+      "branches available in UNI?",
+      "can you tell me the courses available in UNI?",
+      "can you tell me the branches available in UNI?",
+      "computer engineering?",
+      "computer",
+      "Computer engineering?",
+      "it",
+      "IT",
+      "Information Technology",
+      "AI/Ml",
+      "Mechanical engineering",
+      "Chemical engineering",
+      "Civil engineering"
+   ],
+   "responses": [
+      "Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "fees",
+   "patterns": [
+      "information about fee",
+      "information on fee",
+      "tell me the fee",
+      "college fee",
+      "fee per semester",
+      "what is the fee of each semester",
+      "what is the fees of each year",
+      "what is fee",
+      "what is the fees",
+      "how much is the fees",
+      "fees for first year",
+      "fees",
+      "about the fees",
+      "tell me something about the fees",
+      "What is the fees of hostel",
+      "how much is the fees",
+      "hostel fees",
+      "fees for AC room",
+      "fees for non-AC room",
+      "fees for Ac room for girls",
+      "fees for non-Ac room for girls",
+      "fees for Ac room for boys",
+      "fees for non-Ac room for boys"
+   ],
+   "responses": [
+      "For more detailed information, you can visit TUP's official website. <a target=\"_blank\" href=\"https://tup.edu.ph/page/about\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "location",
+   "patterns": [
+      "where is the college located",
+      "college is located at",
+      "where is college",
+      "where is college located",
+      "address of college",
+      "how to reach college",
+      "college location",
+      "college address",
+      "wheres the college",
+      "how can I reach college",
+      "whats is the college address",
+      "what is the address of college",
+      "address",
+      "location"
+   ],
+   "responses": [
+      "<a target=\"_blank\" href=\"ADD YOU GOOGLE MAP LINK HERE\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "hostel",
+   "patterns": [
+      "hostel facility",
+      "hostel servive",
+      "hostel location",
+      "hostel address",
+      "hostel facilities",
+      "hostel fees",
+      "Does college provide hostel",
+      "Is there any hostel",
+      "Where is hostel",
+      "do you have hostel",
+      "do you guys have hostel",
+      "hostel",
+      "hostel capacity",
+      "what is the hostel fee",
+      "how to get in hostel",
+      "what is the hostel address",
+      "how far is hostel from college",
+      "hostel college distance",
+      "where is the hostel",
+      "how big is the hostel",
+      "distance between college and hostel",
+      "distance between hostel and college"
+   ],
+   "responses": [
+      "For hostel detail visit <a target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "event",
+   "patterns": [
+      "events organised",
+      "list of events",
+      "list of events organised in college",
+      "list of events conducted in college",
+      "What events are conducted in college",
+      "Are there any event held at college",
+      "Events?",
+      "functions",
+      "what are the events",
+      "tell me about events",
+      "what about events"
+   ],
+   "responses": [
+      "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "document",
+   "patterns": [
+      "document to bring",
+      "documents needed for admision",
+      "documents needed at the time of admission",
+      "documents needed during admission",
+      "documents required for admision",
+      "documents required at the time of admission",
+      "documents required during admission",
+      "What document are required for admission",
+      "Which document to bring for admission",
+      "documents",
+      "what documents do i need",
+      "what documents do I need for admission",
+      "documents needed"
+   ],
+   "responses": [
+      "To know more about document required visit <a target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "floors",
+   "patterns": [
+      "size of campus",
+      "building size",
+      "How many floors does college have",
+      "floors in college",
+      "floors in college",
+      "how tall is UNI's College of Engineering college building",
+      "floors"
+   ],
+   "responses": [
+      "My College has total 2 floors "
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "syllabus",
+   "patterns": [
+      "Syllabus for IT",
+      "what is the Information Technology syllabus",
+      "syllabus",
+      "timetable",
+      "what is IT syllabus",
+      "syllabus",
+      "What is next lecture"
+   ],
+   "responses": [
+      "Timetable provide direct to the students OR To know about syllabus visit <a target=\"_blank\" href=\"TIMETABLE LINK\"> here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "library",
+   "patterns": [
+      "is there any library",
+      "library facility",
+      "library facilities",
+      "do you have library",
+      "does the college have library facility",
+      "college library",
+      "where can i get books",
+      "book facility",
+      "Where is library",
+      "Library",
+      "Library information",
+      "Library books information",
+      "Tell me about library",
+      "how many libraries"
+   ],
+   "responses": [
+      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "infrastructure",
+   "patterns": [
+      "how is college infrastructure",
+      "infrastructure",
+      "college infrastructure"
+   ],
+   "responses": [
+      "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "canteen",
+   "patterns": [
+      "food facilities",
+      "canteen facilities",
+      "canteen facility",
+      "is there any canteen",
+      "Is there a cafetaria in college",
+      "Does college have canteen",
+      "Where is canteen",
+      "where is cafetaria",
+      "canteen",
+      "Food",
+      "Cafetaria"
+   ],
+   "responses": [
+      "Our university has canteen with variety of food available"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "menu",
+   "patterns": [
+      "food menu",
+      "food in canteen",
+      "Whats there on menu",
+      "what is available in college canteen",
+      "what foods can we get in college canteen",
+      "food variety",
+      "What is there to eat?"
+   ],
+   "responses": [
+      "we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "placement",
+   "patterns": [
+      "What is college placement",
+      "Which companies visit in college",
+      "What is average package",
+      "companies visit",
+      "package",
+      "About placement",
+      "placement",
+      "recruitment",
+      "companies"
+   ],
+   "responses": [
+      "To know about placement visit <a target=\"_blank\" href=\"PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "computerhod",
+   "patterns": [
+      "Who is computer HOD",
+      "Where is computer HOD",
+      "computer hod",
+      "name of computer hod"
+   ],
+   "responses": [
+      "All engineering departments have only one hod XYZ who available on (PLACE NAME)"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "extchod",
+   "patterns": [
+      "Who is extc HOD",
+      "Where is  extc HOD",
+      "extc hod",
+      "name of extc hod"
+   ],
+   "responses": [
+      "Different school wise hod are different.So be more clear with your school or department"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "principal",
+   "patterns": [
+      "what is the name of principal",
+      "whatv is the principal name",
+      "principal name",
+      "Who is college principal",
+      "Where is principal's office",
+      "principal",
+      "name of principal"
+   ],
+   "responses": [
+      "XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "sem",
+   "patterns": [
+      "exam dates",
+      "exam schedule",
+      "When is semester exam",
+      "Semester exam timetable",
+      "sem",
+      "semester",
+      "exam",
+      "when is exam",
+      "exam timetable",
+      "exam dates",
+      "when is semester"
+   ],
+   "responses": [
+      "Here is the Academic Calendar  <a target=\"_blank\" href=\"YOUR ACADEMIC CALENDER\">website</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "admission",
+   "patterns": [
+      "what is the process of admission",
+      "what is the admission process",
+      "How to take admission in your college",
+      "What is the process for admission",
+      "admission",
+      "admission process"
+   ],
+   "responses": [
+      "Application can also be submitted online through the Unversity's  <a target=\"_blank\" href=\"LINK OF ADMISSION DOCUMENT\">website</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "scholarship",
+   "patterns": [
+      "scholarship",
+      "Is scholarship available",
+      "scholarship engineering",
+      "scholarship it",
+      "scholarship ce",
+      "scholarship mechanical",
+      "scholarship civil",
+      "scholarship chemical",
+      "scholarship for AI/ML",
+      "available scholarships",
+      "scholarship for computer engineering",
+      "scholarship for IT engineering",
+      "scholarship for mechanical engineering",
+      "scholarship for civil engineering",
+      "scholarship for chemical engineering",
+      "list of scholarship",
+      "comps scholarship",
+      "IT scholarship",
+      "mechanical scholarship",
+      "civil scholarship",
+      "chemical scholarship",
+      "automobile scholarship",
+      "first year scholarship",
+      "second year scholarship",
+      "third year scholarship",
+      "fourth year scholarship"
+   ],
+   "responses": [
+      "Many government scholarships are supported by our university. For details and updates visit <a target=\"_blank\" href=\"(SCHOLARSHIP DETAILS LINK)\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "facilities",
+   "patterns": [
+      "What facilities college provide",
+      "College facility",
+      "What are college facilities",
+      "facilities",
+      "facilities provided"
+   ],
+   "responses": [
+      "Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "college intake",
+   "patterns": [
+      "max number of students",
+      "number of seats per branch",
+      "number of seats in each branch",
+      "maximum number of seats",
+      "maximum students intake",
+      "What is college intake",
+      "how many stundent are taken in each branch",
+      "seat allotment",
+      "seats"
+   ],
+   "responses": [
+      "For IT, Computer and extc 60 per branch and seat may be differ for different department."
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "uniform",
+   "patterns": [
+      "college dress code",
+      "college dresscode",
+      "what is the uniform",
+      "can we wear casuals",
+      "Does college have an uniform",
+      "Is there any uniform",
+      "uniform",
+      "what about uniform",
+      "do we have to wear uniform"
+   ],
+   "responses": [
+      "ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "committee",
+   "patterns": [
+      "what are the different committe in college",
+      "different committee in college",
+      "Are there any committee in college",
+      "Give me committee details",
+      "committee",
+      "how many committee are there in college"
+   ],
+   "responses": [
+      "For the various committe in college contact this number: ADD NUMBER"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "random",
+   "patterns": [
+      "I love you",
+      "Will you marry me",
+      "Do you love me"
+   ],
+   "responses": [
+      "I am not program for this, please ask appropriate query"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "swear",
+   "patterns": [
+      "fuck",
+      "bitch",
+      "shut up",
+      "hell",
+      "stupid",
+      "idiot",
+      "dumb ass",
+      "asshole",
+      "fucker"
+   ],
+   "responses": [
+      "please use appropriate language",
+      "Maintaining decency would be appreciated"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "vacation",
+   "patterns": [
+      "holidays",
+      "when will semester starts",
+      "when will semester end",
+      "when is the holidays",
+      "list of holidays",
+      "Holiday in these year",
+      "holiday list",
+      "about vacations",
+      "about holidays",
+      "When is vacation",
+      "When is holidays",
+      "how long will be the vacation"
+   ],
+   "responses": [
+      "Academic calender is given to you by your class-soordinators after you join your respective classes"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "sports",
+   "patterns": [
+      "sports and games",
+      "give sports details",
+      "sports infrastructure",
+      "sports facilities",
+      "information about sports",
+      "Sports activities",
+      "please provide sports and games information"
+   ],
+   "responses": [
+      "Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\"(LINK IF HAVE)\">here</a>"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "salutation",
+   "patterns": [
+      "okk",
+      "okie",
+      "nice work",
+      "well done",
+      "good job",
+      "thanks for the help",
+      "Thank You",
+      "its ok",
+      "Thanks",
+      "Good work",
+      "k",
+      "ok",
+      "okay"
+   ],
+   "responses": [
+      "I am glad I helped you",
+      "welcome, anything else i can assist you with?"
+   ],
+   "context_set": ""
+},
+{
+   "tag": "greeting",
+   "patterns": [
+      "Hi",
+      "Hi Hi Hi Hi Hi Hi Hi Hi Hi Hi ",
+      "How are you? ",
+      "How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you?",
+      "Is anyone there?",
+      "Is anyone there? Is anyone there? Is anyone there? Is anyone there?",
+      "Hello Hello Hello Hello Hello Hello Hello Hello ",
+      "Good day",
+      "Good day Good day Good day Good day Good day Good day Good day ",
+      "What's up",
+      "What's up What's up What's up What's up What's up What's up What's up",
+      "how are ya how are ya how are ya how are ya how are ya ",
+      "heyy heyy heyy heyy heyy heyy heyy heyy ",
+      "whatsup whatsup whatsup whatsup whatsup whatsup whatsup "
+   ],
+   "responses": [
+      "Hello, thanks for visiting",
+      "Good to see you again!",
+      "Hello! How can I assist you today? If you have any questions or need help with something, feel free to ask!"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "task",
+   "patterns": [
+      "what can you do",
+      "what are the thing you can do",
+      "things you can do",
+      "what can u do for me",
+      "how u can help me",
+      "why i should use you"
+   ],
+   "responses": [
+      "I can answer to low-intermediate questions regarding college",
+      "You can ask me questions regarding TUP, and i will try to answer them"
+   ],
+   "context_set": ""
+},
+ {
+   "tag": "ragging",
+   "patterns": [
+      "ragging",
+      "is ragging practice active in college",
+      "does college have any antiragging facility",
+      "is there any ragging cases",
+      "is ragging done here",
+      "ragging against",
+      "antiragging facility",
+      "ragging juniors",
+      "ragging history",
+      "ragging incidents"
+   ],
+   "responses": [
+      "We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+   ],
+   "context_set": ""
+}
+]
+}

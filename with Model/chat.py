@@ -1,3 +1,7 @@
+"""
+    FOR SOFTWARE ENGINEERING WITH NAIVE BAYES
+"""
+
 import random
 import joblib
 import json
@@ -5,7 +9,7 @@ import json
 from sample import preprocess_text
 
 # Load dataset from JSON
-with open('kaggle-dataset.json') as file:
+with open('about-tup.json', 'r', encoding='utf-8') as file:
     dataset = json.load(file)
 
 # Load the model

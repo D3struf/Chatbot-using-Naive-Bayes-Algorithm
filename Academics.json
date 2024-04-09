@@ -1,0 +1,2705 @@
+{
+    "intents":[
+      {
+        "tag": "cie_info", 
+        "patterns": [
+          "Tell me about the College of Industrial Education",
+          "What is the history of the College of Industrial Education?",
+          "What are the goals of the College of Industrial Education?",
+          "Can you provide information about the College of Industrial Education?",
+          "What are the objectives of the College of Industrial Education?",
+          "I want to know more about the College of Industrial Education",
+          "Give me details about CIE",
+          "Describe the College of Industrial Education",
+          "Where can I find information on the College of Industrial Education?",
+          "What does the College of Industrial Education offer?",
+          "What is taught at the College of Industrial Education?",
+          "What is unique about the College of Industrial Education?",
+          "What makes the College of Industrial Education stand out?",
+          "What are the strengths of the College of Industrial Education?",
+          "How does the College of Industrial Education contribute to society?"
+        ],
+        "responses": [
+          {
+            "History": "The roots of the College of Industrial Education (CIE) can be traced in 1929 when the first formal two-year Industrial Teacher Education was offered at the then Philippine School of Arts and Trades. At present, the college serves as the foundation of teacher education in the University. The BS in Industrial Education program at CIE has been offered since 1951 as a four-year teacher education for elementary and secondary levels. Currently, CIE is composed of four departments, namely: Professional Industrial Education, Student Teaching, Technical Arts, and Home Economics."
+          },
+          {
+            "Goal": "The College of Industrial Education commits itself to develop highly competent teachers/trainors, leaders, managers, and innovators in industrial and technology education and training, as well as industry through responsive and relevant programs and proactive human resources in an environment of change."
+          },
+          {
+            "Objectives": [
+            "Improve effectiveness of instruction, research, management, administration, information systems and procedures to make the College responsive and relevant to the needs of the society\nEnhance partnership with industry, public, and NGOs to support efforts for life long learning\nAchieve financial viability and sustainability to augment operational resources\nStrengthen the core values of excellence, commitment, cooperation, hard work, scholarship, creativity, resourcefulness and teamwork among teachers and students\nAchieve third level accreditation for both graduate and undergraduate programs"
+            ]
+          }
+        ]
+      },
+      
+      {
+        "tag": "cos_info", 
+        "patterns": [
+          "Tell me about the history of the College of Science.",
+            "What changes occurred in the College of Science after TUP's conversion to a university?",
+            "Can you provide information about the College of Science's establishment?",
+            "How did the College of Arts and Sciences evolve into the College of Science?",
+            "What was the College of Science like before and after the conversion of PCAT to TUP?",
+            "Describe the organizational changes within the College of Science.",
+            "What departments were initially part of the College of Arts and Sciences?",
+            "What was the initial structure of the College of Arts and Sciences?",
+            "How did the College of Arts and Sciences transition into the College of Science?",
+            "Can you give a timeline of significant events in the history of the College of Science?",
+            "What goals does the College of Science aim to achieve?",
+            "What is the mission of the College of Science?",
+            "What objectives does the College of Science have for its students?",
+            "How does the College of Science contribute to scientific and technological development?",
+            "What initiatives does the College of Science take to promote scientific literacy and competence?"
+        ],
+        "responses": [
+          {
+            "History": "By virtue of Presidential Decree No. 1518, the Philippine College of Arts and Trades (PCAT) was converted into the Technological University of the Philippines (TUP) on June 11, 1976. The conversion to a university status brought about comprehensive changes in the organizational set-up. To carry out its tasks, the University had to change its one-college structure to a system composed of six colleges, one of which is the College of Arts and Sciences (CAS). The CAS was created in 1979 with its four departments, namely: the Languages, the Social and Behavioral Sciences, the Mathematics and Physical Sciences, and the Physical Education. In 1991, the College was mandated to perform dual roles: as a service college and as a science college. On July 24, 1995, the TUP Board of Regents through Referendum No. 13, s. 1995 approved the devolution of some Master Programs of the Graduate School to the mother colleges. Since then, the granting of the degrees in the Master of Arts in Teaching with specializations in Mathematics, Physics, Chemistry, and General Science has become the responsibility of the College of Arts and Sciences. On September 15, 1995, the University Board of Regents authorized to split the College of Arts and Sciences into the College of Science and the College of Liberal Arts. The new College of Science was structured to include graduate programs in Mathematics, Chemistry, Physics, and General Science. The college also offers five (5) baccalaureate programs, namely: Bachelor of Science in Computer Science, Bachelor of Science in Information Technology, Bachelor of Science in Information Systems, Bachelor of Science in Environmental Science and Bachelor of Applied Science Major in Laboratory Technology."
+          },
+          {
+            "Goal": "The College of Science prepares students to become fully integrated individuals, scientifically literate and technically competent to assume dynamic and responsible leadership for the country's scientific and technological development in the improvement of man's well-being and the quality of the environment."
+          },
+          {
+            "Objectives": [
+              "Sustain the role of the College as TUP's premiere mover in science and mathematics via keeping pace with the University in moving onwards as a model of excellence in engineering and technology education.\nEngage actively in the University's efforts to acquire, generate and develop sufficient and state-of-the-art physical resources and facilities for instruction and research in science and mathematics.\nDevelop curricular programs in science and mathematics which are relevant and responsive to the needs of the present times.\nEvaluate existing curricular programs based on their cost-effectiveness, relevance, responsiveness, and global competitiveness.\nFocus staff development programs on the pursuit of higher level of knowledge and skills in science and mathematics to enhance outputs in the areas of instruction, research, extension, and production.\nProvide for more active and productive involvement of faculty in the areas of research, extension, and production with focus on strengthening the major role of science and mathematics along multidisciplinary dimensions and areas.\nPromote strong linkages and networking within the various units, sectors, and campuses of the University as well as with related organizations, institutions and agencies both public and private."
+            ]
+          }
+        ]
+      },
+
+      {
+      "tag": "cafa_info", 
+        "patterns": [
+          "Tell me about the College of Architecture and Fine Arts (CAFA)",
+          "What is the history of CAFA?",
+          "Can you provide information about CAFA?",
+          "What are the goals of the College of Architecture and Fine Arts?",
+          "What are the objectives of CAFA?",
+          "Give me details about the College of Architecture and Fine Arts",
+          "Describe the history of CAFA",
+          "Where can I find information on CAFA?",
+          "What programs does the College of Architecture and Fine Arts offer?",
+          "What departments are there in CAFA?",
+          "What are the graduate programs offered by CAFA?",
+          "What are the strengths of CAFA?",
+          "How does CAFA contribute to the university?",
+          "What achievements has CAFA made?",
+          "What are the top pass rates of CAFA graduates in licensure examinations?"
+        ],
+        "responses": [
+          {
+            "History": "The roots of the College of Architecture and Fine Arts (CAFA) can be traced from the drawing subjects required in all courses offered by the University since 1907. The college has been a consistent contributor in the University’s achievements and recognition in various art competitions both local and abroad. The CAFA also produces top passers in the Licensure Examination given by the Professional Regulations Commission. Presently, the college is composed of three departments, namely: Architecture, Fine Arts, and Graphics. Furthermore, the college offers advanced studies in the Graduate Programs: Master in Architecture (Major in Construction Technology Management) and Master in Graphics Technology."
+          },
+          {
+            "Goal":  "The College of Architecture and Fine Arts (CAFA) develops competitive architects, artists, designers and draftsmen for industry and related sectors toward an improved quality of life."
+          },
+          {
+            "Objectives": [
+              "Attain highly level of technical skills in their chosen profession.\nAcquire a lifelong learning actively such as progressive leadership in applied research development studies in the areas of Arts, Design, and Architectural fields and production.\nCommit in professional services to effect/impart technology transfer in assisting the development of small and medium industries to contribute to national development"
+            ]
+          }
+        ]
+      },
+
+      {
+        "tag": "coe_info", 
+          "patterns": [
+            "Tell me about the College of Engineering",
+            "What is the history of the College of Engineering?",
+            "What are the goals of the College of Engineering?",
+            "What degrees does the College of Engineering offer?",
+            "Can you provide information about COE?",
+            "What is the mission of the College of Engineering?",
+            "I want to learn more about COE",
+            "What does COE specialize in?",
+            "What is the focus of the College of Engineering?",
+            "How does the College of Engineering contribute to national development?",
+            "What are the objectives of COE?",
+            "What research areas are covered by COE?",
+            "Tell me about the programs offered at the College of Engineering",
+            "Can you explain the role of COE in technology transfer?",
+            "What are the strengths of the College of Engineering?"
+          ],
+          "responses": [
+            {
+              "History": "The College of Engineering (COE) is a recipient of Center of Development (COD) status from the Commission on Higher Education (CHED). The College produces total quality engineers, graduate professionals and valuable technology researches for industry and society to maximally contribute to national development."
+            },
+            {
+              "Goal":  [
+                "The College of Engineering is committed to:\n- Offer technology-oriented curricula in engineering and management leading to the Bachelor, Master, and Doctorate degrees.\n- Foster and promote scientific culture through research and development involvement and collaboration,\n- Foster, promote, and maintain close inter-institutional and academe-industry linkages.\n- Effect technology transfer through the Office of Research and Extension Services of the University and the College"
+              ]
+            }
+          ]
+      },
+
+      {
+          "tag": "cla_info", 
+            "patterns": [
+              "Tell me about the College of Liberal Arts",
+            "What is the history of the College of Liberal Arts?",
+            "What are the goals of the College of Liberal Arts?",
+            "What degrees does the College of Liberal Arts offer?",
+            "Can you provide information about CLA?",
+            "What is the mission of the College of Liberal Arts?",
+            "I want to learn more about CLA",
+            "What does CLA specialize in?",
+            "What is the focus of the College of Liberal Arts?",
+            "How does the College of Liberal Arts contribute to society?",
+            "What are the objectives of CLA?",
+            "What programs are offered at the College of Liberal Arts?",
+            "Can you explain the role of CLA in education?",
+            "What are the strengths of the College of Liberal Arts?",
+            "Tell me about the departments within the College of Liberal Arts"
+            ],
+            "responses": [
+              {
+                "History":  "The CLA is the other half when the College of Applied Arts and Sciences was split. The CLA used to be a full service college. In 1999, the BOR approved the offering of Bachelor of Arts in Management major in Industrial Management in the college. To date, CLA is composed of four departments, namely: English, Filipino, Social Sciences, and Physical Education. Just recently, the college started offering Bachelor of Science in Entrepreneurial Management (BSEM)."
+              },
+              {
+                "Goal":  "The CLA shall provide basic quality education and turn out highly competent managers and entrepreneurs who will provide leadership and job opportunities in a rapidly changing environment and ensure its continued relevance and responsiveness to the challenges of globalization"
+              }
+            ]
+      },
+  
+      {
+            "tag": "cit_info", 
+              "patterns": [
+                "Tell me about the College of Industrial Technology",
+                "What is the history of the College of Industrial Technology?",
+                "What are the goals of the College of Industrial Technology?",
+                "What degrees does the College of Industrial Technology offer?",
+                "Can you provide information about CIT?",
+                "What is the mission of the College of Industrial Technology?",
+                "I want to learn more about CIT",
+                "What does CIT specialize in?",
+                "What is the focus of the College of Industrial Technology?",
+                "How does the College of Industrial Technology contribute to industrial growth?",
+                "What are the objectives of CIT?",
+                "What research areas are covered by CIT?",
+                "Tell me about the programs offered at the College of Industrial Technology",
+                "Can you explain the role of CIT in technology development?",
+                "What are the strengths of the College of Industrial Technology?"
+              ],
+              "responses": [
+                {
+                  "History": "The College of Industrial Technology traces its roots from the Technical Department of the then Philippine School of Arts and Trades adapted in 1937 which later became the Philippine College of Arts and Trades. In 1978, the then Philippine College of Arts and Trades was converted into the Technological University of the Philippines (TUP). Simultaneously, the College of Industrial Technology arose from the departments of the former Technical Department. Today, the CIT is the center of the industrial technology education of the University and is composed of eight departments namely, the Basic Industrial Technology, the Civil Engineering Technology, the Electrical Engineering Technology, the Electronics Engineering Technology, the Food and Apparel Technology, the Graphic Arts and Printing Technology, the Mechanical Engineering Technology, and the Power Plant Engineering Technology."
+                },
+                {
+                  "Goal":  "The College of Industrial Technology develop highly skilled technicians, technologists, and applied researchers who are needed to sustain industrial growth and develop for the enhancement of quality of life."
+                },
+                {
+                  "Objectives": [
+                    "Develop, improve and implement training program to attain effective delivery system of technological education.\nStrengthen faculty qualification and rank.\nProvide opportunities for faculty researches and come up with new concepts, materials and processes.\nMake available the facilities of the College and expertise of the faculty to the community."                  ]
+                }
+              ]
+      },
+
+      {
+              "tag": "expanded_tertiary",
+              "patterns": [
+                "What is expanded tertiary education?",
+                "Can you explain expanded tertiary education?",
+                "Tell me about expanded tertiary education.",
+                "What does expanded tertiary education entail?",
+                "What is the purpose of expanded tertiary education?",
+                "What are the benefits of expanded tertiary education?",
+                "Why is expanded tertiary education important?",
+                "How does expanded tertiary education work?",
+                "Where can I find information about expanded tertiary education?",
+                "I want to learn more about expanded tertiary education.",
+                "Explain the concept of expanded tertiary education.",
+                "What are the components of expanded tertiary education?",
+                "Is there a website for expanded tertiary education?",
+                "Can you provide a link to information about expanded tertiary education?",
+                "What are the requirements for expanded tertiary education?"
+              ],
+              "responses": [
+                "https://tup.edu.ph/pages/academics/expanded-tertiary-education-equivalency-and-accred"
+              ]
+      },
+
+      {
+        "tag": "cie_undergrad_org",
+        "patterns": [
+          "What organizations exist for undergraduate students in CIE?",
+          "Tell me about the student organizations in the College of Industrial Education.",
+          "Are there any clubs for undergraduates at CIE?",
+          "Can you list some undergraduate organizations in CIE?",
+          "I'm interested in joining a student organization at CIE. What options are available?",
+          "What are the extracurricular opportunities for undergraduate students in CIE?",
+          "Could you provide information on undergraduate clubs in CIE?",
+          "I'm looking for information about student associations at CIE.",
+          "What clubs or societies are there for undergraduates at CIE?",
+          "Are there any student groups specifically for undergraduates in CIE?",
+          "Tell me about the student associations within CIE.",
+          "How can I get involved in extracurricular activities as an undergraduate at CIE?",
+          "What are some undergraduate organizations I can join at CIE?",
+          "I want to participate in student clubs at CIE. What are my options?",
+          "What student societies are available for undergraduates at CIE?"
+        ],
+        "responses": [
+          "Association of Students in Industrial Arts (ASIA)\nInformation Technology Educators League (INTEL)\nProfessional Education Students Association (PRESA)\nFood Service Management, Fashion Garments Technology, Home Economics, and Beauty Care & Wellness Students Association (FFEHBSA)"
+        ]
+      },
+
+      {
+        "tag": "cos_undergrad_org", 
+        "patterns": [
+          "What undergraduate organizations are there in the College of Science?",
+          "Can you list some student clubs in the College of Science?",
+          "Tell me about the student societies in the College of Science.",
+          "Are there any clubs for undergraduate students in the College of Science?",
+          "I'm interested in joining an organization in the College of Science. What options are there?",
+          "What student groups exist for undergraduates in the College of Science?",
+          "Give me information on undergraduate organizations at TUP's College of Science.",
+          "What clubs or societies can I join as an undergraduate in the College of Science?",
+          "I'm looking for extracurricular activities in the College of Science. What are my choices?",
+          "Tell me about the student associations available for undergraduates at TUP's College of Science.",
+          "What student organizations are affiliated with the College of Science?",
+          "Can you provide details about undergraduate clubs at TUP's College of Science?",
+          "What are some of the student groups I can be part of at the College of Science?",
+          "I want to participate in student organizations at the College of Science. What are my options?",
+          "What are the names of the undergraduate organizations in the College of Science?"
+        ],
+        "responses": [
+          "Technological University of the Philippines - Chemical Society (CHEMSOC)\nTechnological University of the Philippines - Green Society (GREENSOC)\nTUP Computer Students' Association (COMPASS)"
+        ]
+      },
+
+      {
+         "tag": "cafa_undergrad_org",
+         "patterns": [
+           "What are the undergraduate organizations in CAFA?",
+           "Can you list some student organizations in CAFA?",
+           "Tell me about student organizations in CAFA",
+           "What clubs are available for CAFA undergraduates?",
+           "Are there any student associations in CAFA?",
+           "Which organizations can CAFA undergraduates join?",
+           "What are some CAFA student groups?",
+           "What student clubs exist within CAFA?",
+           "I'm interested in CAFA student organizations. What are my options?",
+           "Are there any clubs specifically for CAFA students?",
+           "What extracurricular activities are offered for CAFA undergraduates?",
+           "Can you provide information about CAFA student associations?",
+           "What are some examples of student groups in CAFA?",
+           "I want to get involved in CAFA student life. What organizations can I join?",
+           "Where can I find information about student clubs in CAFA?"
+         ],
+         "responses": [
+           "Architectural Students' Association of the Philippines ARKITEKTOS - Technological University of the Philippines Chapter (ASAPHIL ARKITEKTOS TUP)\nTechnology Hoist Related Excellent Alliance of Drafting Students (THREADS)\nUnited Architects of the Philippines  Student Auxiliary – TUP Chapter (UAPSA)"
+         ]
+      },
+
+      {
+         "tag": "coe_undergrad_org",
+         "patterns": [
+           "What organizations exist for undergraduates in the College of Engineering?",
+           "Can you list some student organizations in the College of Engineering?",
+           "What clubs are available for undergraduates in COE?",
+           "Tell me about the student societies in the College of Engineering.",
+           "What are some student groups in COE?",
+           "Which organizations are active in the College of Engineering?",
+           "What student associations operate within COE?",
+           "Are there any clubs specifically for undergraduate students in COE?",
+           "What are the names of some undergraduate organizations in the College of Engineering?",
+           "Provide information on COE student organizations.",
+           "List the undergrad organizations in COE.",
+           "What are the names of COE's student societies?",
+           "Tell me about the student clubs at COE.",
+           "Can you give details about COE's undergraduate organizations?",
+           "What student groups are affiliated with the College of Engineering?"
+         ],
+         "responses": [
+           "Technological University of the Philippines - Electrical Engineering Society (TUPEES)\nPhilippine Society of Mechanical Engineers - TUP Student Unit (PSME - TUPSU)\nTUP Civil Engineering Society (TUPCES)\nOrganization of Electronics Engineering Students (OECES)"
+         ]
+      },
+
+      {
+         "tag": "cla_undergrad_org",
+         "patterns": [
+           "What organizations exist for undergraduates in the College of Liberal Arts?",
+           "Can you list some student organizations in the College of Liberal Arts?",
+           "What clubs are available for undergraduates in CLA?",
+           "Tell me about the student associations in the College of Liberal Arts.",
+           "What are some student groups in CLA?",
+           "Which organizations are active in the College of Liberal Arts?",
+           "What student societies operate within CLA?",
+           "Are there any clubs specifically for undergraduate students in CLA?",
+           "What are the names of some undergraduate organizations in the College of Liberal Arts?",
+           "Provide information on CLA student organizations.",
+           "List the undergrad organizations in CLA.",
+           "What are the names of CLA's student clubs?",
+           "Tell me about the student groups at CLA.",
+           "Can you give details about CLA's undergraduate organizations?",
+           "What student organizations are affiliated with the College of Liberal Arts?"
+         ],
+         "responses": [
+           "Student Association of Future Young Hotelier and Restaurateur (SAFHYR)\nFuture Managers' Society (FUMAS)\nCLA Performing Arts Group (CPAG)\nSocial Science Organization (SSO)\nPhysical Education Club (PE Club)"
+         ]
+      },
+
+      {
+         "tag": "cit_undergrad_org",
+         "patterns": [
+           "What organizations exist for undergraduates in the College of Industrial Technology?",
+           "Can you list some student organizations in the College of Industrial Technology?",
+           "What clubs are available for undergraduates in CIT?",
+           "Tell me about the student associations in the College of Industrial Technology.",
+           "What are some student groups in CIT?",
+           "Which organizations are active in the College of Industrial Technology?",
+           "What student societies operate within CIT?",
+           "Are there any clubs specifically for undergraduate students in CIT?",
+           "What are the names of some undergraduate organizations in the College of Industrial Technology?",
+           "Provide information on CIT student organizations.",
+           "List the undergrad organizations in CIT.",
+           "What are the names of CIT's student clubs?",
+           "Tell me about the student groups at CIT.",
+           "Can you give details about CIT's undergraduate organizations?",
+           "What student organizations are affiliated with the College of Industrial Technology?"
+         ],
+         "responses": [
+           "Graphic Arts and Printing Technology Students Association (GAPTSA)\nAssociation of Civil Engineering Technology Students (ACETS)\nRailway Engineering Technology Recognized Alliance of Competent and Keen Students (RETRACKS)\nInstitute of Computer Engineering Technologist Student Association (ICpET.SA)\nRadio Amateurs Communication Society (RACS)\nInnovative Society for Electronic Technologist (ISET)\nAssociation of Culinary Technology Students (ACTS) (formerly NAFTA)\nIntern Tech Community (ITC)\nJunior Designers’ Club (JDC)\nMechanical Technologists and Leaders’ Society (METALS)\nPhilippine Association of Food Technologist-Omega (PAFT-OMEGA)\nUnified Student Society of Automation Technology (USSAT)"
+         ]
+      },
+
+      {
+        "tag": "cie_department_homeeconomics",
+            "patterns": [  
+              "Who are the instructors in the Home Economics department?",
+              "Can you provide information about the faculty in the Home Economics department?",
+              "I'm interested in contacting instructors in the Home Economics department. How can I reach them?",
+              "Tell me about the faculty members in the Home Economics department.",
+              "What are the names of the instructors teaching Home Economics courses?",
+              "I want to know more about the faculty in the Home Economics department.",
+              "Give me details about the Home Economics department instructors.",
+              "Describe the faculty members in the Home Economics department.",
+              "Where can I find information on the instructors in the Home Economics department?",
+              "What positions do the faculty members hold in the Home Economics department?",
+              "What are the names and designations of the instructors in the Home Economics department?",
+              "Are there any specific instructors I should contact in the Home Economics department?",
+              "Who are the professors teaching Home Economics courses?",
+              "I'm looking for information about the Home Economics department faculty. Can you help?",
+              "Can you list the faculty members teaching in the Home Economics department?"            
+            ],
+            "responses": [
+                  {
+                  "Name": "MS. ANA MARIE B. OCAMPO",
+                  "Designation": "Instructor I",
+                  "Email": "anamarie_ocampo@tup.edu.ph"
+                  },
+                  {
+                    "Name": "MS. ANGELICA S. OFIANA ",
+                    "Designation": "Instructor I",
+                    "Email": "angelica_ofiana@tup.edu.ph"
+                  },
+                  {
+                    "Name": "ASSOC. PROF. DOROTHY D. MANALANSAN",
+                    "Designation": "Associate Professor III",
+                    "Email": "dorothy_manalansan@tup.edu.ph"
+                  },
+                  {
+                    "Name": "MS. GRACE G. BARBOZA-DE VERA ",
+                    "Designation": "Instructor I",
+                    "Email": "grace_devera@tup.edu.ph"
+                  },
+                  {
+                    "Name": "MS. KATRINA C. MACARAEG",
+                    "Designation": "Instructor I",
+                    "Email": "katrina_macaraeg@tup.edu.ph"
+                  },
+                  {
+                    "Name": "ASSOC. PROF. MARA DIVAH V. TUPAZ",
+                    "Designation": "Associate Professor IV",
+                    "Email": "maradivah_tupaz@tup.edu.ph"
+                  },
+                  {
+                    "Name": "ASST. PROF. RACQUEL B. TAGAZA",
+                    "Designation": "Associate Professor IV",
+                    "Email": "racquel_tagaza@tup.edu.ph"
+                  },
+                  {
+                    "Name": "MS. ROSALYN E. MAGLASANG",
+                    "Designation": "Instructor I",
+                    "Email": "rosalyn_maglasang@tup.edu.ph"
+                  },
+                  {
+                    "Name": "ASSOC. PROF. SOCORRO A. BULIC",
+                    "Designation": "Associate Professor I",
+                    "Email": "socorro_bulic@tup.edu.ph"
+                  }
+         ]
+         },
+         
+         {
+          "tag": "cie_department_professionalindustrialeducation",
+              "patterns": [
+                "Who are the professors in the Department of Professional Industrial Education?",
+                "Can you provide information about the faculty members in Professional Industrial Education?",
+                "Tell me about the instructors in the Professional Industrial Education department.",
+                "I want to know more about the faculty in the Professional Industrial Education department.",
+                "Who teaches courses in Professional Industrial Education?",
+                "What are the names of the professors in Professional Industrial Education?",
+                "Can you list the faculty members of the Professional Industrial Education department?",
+                "Provide details about the professors in the Professional Industrial Education department.",
+                "I'm interested in learning about the faculty members in Professional Industrial Education.",
+                "What is the faculty composition of the Department of Professional Industrial Education?",
+                "Tell me about the academic staff in the Professional Industrial Education department.",
+                "Who are the instructors teaching in the Department of Professional Industrial Education?",
+                "What are the names of the professors in the Professional Industrial Education department?",
+                "Provide information about the teaching staff in the Department of Professional Industrial Education.",
+                "I want to learn about the faculty members teaching Professional Industrial Education."              
+              ],
+              "responses": [
+                    {
+                    "Name": "DR. APOLLO P. PORTEZ",
+                    "Designation": "Professor VI",
+                    "Email": "apollo_portez@tup.edu.ph"
+                    },
+                    {
+                      "Name": "ASSOC. PROF. CHERRYPYN B. BARBACENA",
+                      "Designation": "Associate Professor V",
+                      "Email": "cherrypyn_barbacena@tup.edu.ph"
+                    },
+                    {
+                      "Name": "MS. DIANNE. VILLAR",
+                      "Designation": "Instructor I",
+                      "Email": "dianne_villar@tup.edu.ph"
+                    },
+                    {
+                      "Name": "ASST. PROF. ELIZABETH M. VERAYO",
+                      "Designation": "Assistant Professor IV",
+                      "Email": "elizabeth_verayo@tup.edu.ph"
+                    },
+                    {
+                      "Name": "MS. JACQUILYN C. VARGAS",
+                      "Designation": "Instructor I",
+                      "Email": "jacquilyn_vargas@tup.edu.ph"
+                    },
+                    {
+                      "Name": "ASSOC. PROF. NEIL ANDREW F. CALAYAG",
+                      "Designation": "Associate Professor II",
+                      "Email": "neilandrew_calayag@tup.edu.ph"
+                    },
+                    {
+                      "Name": "ASSOC. PROF. SILPA C. BAHIAN",
+                      "Designation": "Associate Professor III",
+                      "Email": "silpa_bahian@tup.edu.ph"
+                    },
+                    {
+                      "Name": "MR. REINZE L. VITO",
+                      "Designation": "Instructor I",
+                      "Email": "reinze_vito@tup.edu.ph"
+                    },
+                    {
+                      "Name": "ASSOC. PROF. WERSON R. DE ASIS",
+                      "Designation": "Associate Professor V",
+                      "Email": "werson_deasis@tup.edu.ph"
+                    }
+           ]
+        },
+        {
+            "tag": "cie_department_studentteaching",
+                "patterns": [              
+                  "Who are the faculty members in the Student Teaching department?",
+                  "Can you provide information about the faculty in the Student Teaching department?",
+                  "Tell me about the professors in the Student Teaching department.",
+                  "What are the names of the faculty members in Student Teaching?",
+                  "I'm interested in learning about the faculty in the Student Teaching department.",
+                  "Give me details about the faculty members in Student Teaching.",
+                  "Who teaches in the Student Teaching department?",
+                  "What are the names of the professors in the Student Teaching department?",
+                  "I want to know about the faculty members teaching in Student Teaching.",
+                  "Could you provide information on the faculty in Student Teaching?",
+                  "What professors are associated with the Student Teaching department?",
+                  "Tell me about the instructors in the Student Teaching department.",
+                  "Who are the academic staff in the Student Teaching department?",
+                  "Provide details about the teaching staff in the Student Teaching department.",
+                  "What faculty members are part of the Student Teaching department?"
+                ],
+                "responses": [
+                      {
+                      "Name": "ASSOC. PROF. CRISTINA B. CELARTA",
+                      "Designation": "Associate Professor V",
+                      "Email": "cristina_celarta@tup.edu.ph"
+                      },
+                      {
+                        "Name": "ASSOC. PROF. EMELITA R. NUYDA",
+                        "Designation": "Associate Professor III",
+                        "Email": "emelita_nuyda@tup.edu.ph"
+                      },
+                      {
+                        "Name": "DR. GINA L. BASA",
+                        "Designation": "Associate Professor V",
+                        "Email": "gina_basa@tup.edu.ph"
+                      },
+                      {
+                        "Name": "ASSOC. PROF. MERLYN C. BAHIAN",
+                        "Designation": "Assistant Professor II",
+                        "Email": "merlyn_bahian@tup.edu.ph"
+                      },
+                      {
+                        "Name": "DR. ROMEO S. EBONITE",
+                        "Designation": "Professor V",
+                        "Email": "romeo_ebonite@tup.edu.ph"
+                      },
+                      {
+                        "Name": "ASSOC. PROF. SYLVIA B. GUEVARRA",
+                        "Designation": "Associate Professor III",
+                        "Email": "sylvia_guevarra@tup.edu.ph"
+                      }
+             ]
+        },
+              
+        {
+              "tag": "cie_department_technicalarts",
+                  "patterns": [              
+                    "Who are the faculty members in the Department of Technical Arts?",
+                    "Can you provide information about the faculty in Technical Arts?",
+                    "I'd like to know about the faculty members in the Department of Technical Arts.",
+                    "Tell me about the instructors in the Department of Technical Arts.",
+                    "Who teaches in the Technical Arts department?",
+                    "What are the names of the faculty members in Technical Arts?",
+                    "Could you list the professors in the Department of Technical Arts?",
+                    "I'm interested in learning about the academic staff in Technical Arts.",
+                    "Who are the instructors for Technical Arts courses?",
+                    "What are the names of the teachers in the Department of Technical Arts?",
+                    "Can you give me details about the faculty members specializing in Technical Arts?",
+                    "Tell me about the teaching staff in the Department of Technical Arts.",
+                    "I want information about the faculty in Technical Arts.",
+                    "Who are the educators in the Technical Arts department?",
+                    "Provide details about the faculty members of Technical Arts."
+                  ],
+                  "responses": [
+                        {
+                        "Name": "ASSOC. PROF. ALLAN C. VILLARIZA",
+                        "Designation": "Associate Professor III",
+                        "Email": "allan_villariza@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASSOC. PROF. CECILIO B. PINGKIAN",
+                          "Designation": "Associate Professor IV",
+                          "Email": "cecilio_pingkian@tup.edu.ph"
+                        },
+                        {
+                          "Name": "MR. DERWIN C. LAGMAY",
+                          "Designation": "Instructor I",
+                          "Email": "derwin_lagmay@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASSOC. PROF. EDGAR M. GATUS",
+                          "Designation": "Associate Professor I",
+                          "Email": "edgar_gatus@tup.edu.ph"
+                        },
+                        {
+                          "Name": "MR. JOHN ZALES U. COMENDADOR",
+                          "Designation": "Instructor I",
+                          "Email": "johnzales_comendadorg@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASSOC. PROF. JOVYLON B. CANENCIA",
+                          "Designation": "Associate Professor II",
+                          "Email": "jovylon_canencia@tup.edu.ph"
+                        },
+                        {
+                          "Name": "MR. JUSTIN KYLO-MARC M. ORPIA",
+                          "Designation": "Instructor I",
+                          "Email": "justinkylomarc_orpia@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASST. PROF. MARIANNE A. FESTIN ",
+                          "Designation": "Assistant Professor III",
+                          "Email": "marianne_festin@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASST. PROF. MICHAEL B. SERRANO ",
+                          "Designation": "Assistant Professor III",
+                          "Email": "michael_serrano@tup.edu.ph"
+                        },
+                        {
+                        "Name": " ASST. PROF. MICHAEL O. VILLADOLID",
+                        "Designation": "Assistant Professor I",
+                        "Email": "michael_villadolid@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASST. PROF. NESTOR JR. M. MURCIA",
+                          "Designation": "Assistant Professor IV",
+                          "Email": "nestor_murcia@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASSOC. PROF. NONILON V. MARICATOL",
+                          "Designation": "Associate Professor II",
+                          "Email": "nonilon_maricatol@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASST. PROF. NOREEN Z. REJANO",
+                          "Designation": "Assistant Professor III",
+                          "Email": "noreen_rejano@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASSOC. PROF. RENATO S. SANDOVAL",
+                          "Designation": "Associate Professor III",
+                          "Email": "renato_sandoval@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASSOC. PROF. ROLANDO JR. C. SUERTE",
+                          "Designation": "Associate Professor I",
+                          "Email": "rolando_surte@tup.edu.ph"
+                        },
+                        {
+                          "Name": "ASST. PROF. RONALD B. CAPARAS",
+                          "Designation": "Assistant Professor II",
+                          "Email": "roland_caparas@tup.edu.ph"
+                        },
+                        {
+                          "Name": "MR. RONNEL M. ARBUTANTE ",
+                          "Designation": "Instructor I",
+                          "Email": "ronnel_arbutante@tup.edu.ph"
+                        }
+               ]
+        },
+
+        {
+          "tag": "cos_department_chemistry",
+          "patterns": [
+            "Who are the instructors in the Chemistry Department?",
+            "Can you provide information about the faculty in the Chemistry Department?",
+            "Tell me about the Chemistry Department instructors.",
+            "I want to know about the faculty members in the Chemistry Department.",
+            "Who teaches Chemistry courses at TUP?",
+            "What are the names of the instructors in the Chemistry Department?",
+            "Can you list the Chemistry Department faculty members?",
+            "Provide details about the instructors teaching Chemistry.",
+            "I'm interested in the faculty of the Chemistry Department. Who are they?",
+            "Tell me about the Chemistry Department faculty.",
+            "What are the names of the Chemistry Department instructors?",
+            "I need information on the faculty members in Chemistry.",
+            "Who are the professors teaching Chemistry courses?",
+            "Please give me details about the Chemistry Department faculty.",
+            "List the instructors who teach Chemistry at TUP."
+          ],
+          "responses": [
+            {
+              "Name": "MR. ANLEE A. REFUERZO",
+              "Designation": "Instructor I",
+              "Email": "anlee_refuerzo@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JOSHUA T. SORIANO",
+              "Designation": "Instructor I",
+              "Email": "joshua_soriano@tup.edu.ph"
+            },
+            {
+              "Name": "MR. OLIVIA A. OLIVA",
+              "Designation": "Instructor I",
+              "Email": "olivia_oliva@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF CORAZON D. SACDALAN",
+              "Designation": "Associate Professor III",
+              "Email": "corazon_sacdalan@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ELIZABETH A. BAROSA",
+              "Designation": "Assistant Professor II",
+              "Email": "elizabeth_barosa@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF ERWIN P. ELAZEGUI",
+              "Designation": "Associate Professor V",
+              "Email": "erwin_elazegui@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. EVALYN S. CAPINDING",
+              "Designation": "Assistant Professor II",
+              "Email": "evalyn_capinding@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. GLORICEL A. ERGINO",
+              "Designation": "Assistant Professor I",
+              "Email": "gloricel_ergino@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MA. CRISTINA T. CABILDO",
+              "Designation": "Assistant Professor II",
+              "Email": "macristina_cabildo@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MARIA CARMELITA G. SAPINA",
+              "Designation": "Assistant Professor II",
+              "Email": "mariacarmelita_sapina@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF MARY SHEENALYN P. RODIL",
+              "Designation": "Associate Professor V",
+              "Email": "marysheenalyn_rodil@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cos_department_computerstudies",
+          "patterns": [
+            "Who are the instructors in the Computer Studies Department?",
+            "Can you provide information about the faculty members in the Computer Studies Department?",
+            "I want to know about the faculty of the Computer Studies Department.",
+            "Who teaches in the Computer Studies Department?",
+            "Tell me about the instructors in the Computer Studies Department.",
+            "What are the names of the faculty members in the Computer Studies Department?",
+            "Give me details about the faculty in the Computer Studies Department.",
+            "Which professors are part of the Computer Studies Department?",
+            "Who are the teaching staff in the Computer Studies Department?",
+            "Provide information on the faculty members of the Computer Studies Department.",
+            "Who are the educators in the Computer Studies Department?",
+            "What is the faculty composition of the Computer Studies Department?",
+            "Tell me about the academic staff in the Computer Studies Department.",
+            "I'm interested in learning about the faculty in the Computer Studies Department.",
+            "What are the names of the instructors in the Computer Studies Department?"
+          ],
+          "responses": [
+            {
+              "Name": "MR. ARIEL L. TOMAGAN",
+              "Designation": "Instructor I",
+              "Email": "ariel_tomagan@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. DARWIN C. VARGAS",
+              "Designation": "Assistant Professor II",
+              "Email": "darwin_vargas@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. DOLORES L. MONTESINES",
+              "Designation": "Assistant Professor I",
+              "Email": "dolores_montesines@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. EDWARD N. CRUZ",
+              "Designation": "Assistant Professor I",
+              "Email": "edward_cruz@tup.edu.ph"
+            },
+            {
+              "Name": "MS. ELANIE J. VIZCONDE",
+              "Designation": "Instructor I",
+              "Email": "elanie_vizconde@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF FERNANDO L. RENEGADO",
+              "Designation": "Associate Professor III",
+              "Email": "fernando_renegado@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. FRANCIS L. DELA CRUZ",
+              "Designation": "Assistant Professor III",
+              "Email": "francis_delacruz@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JAN EILBERT L. LEE",
+              "Designation": "Instructor II",
+              "Email": "janeilbert_lee@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF MARIA CARMELA F. FRANCISCO",
+              "Designation": "Associate Professor V",
+              "Email": "mariacarmela_francisco@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF MAY M. GARCIA",
+              "Designation": "Associate Professor II",
+              "Email": "may_garcia@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. PERAGRINO JR. B. AMADOR",
+              "Designation": "Assistant Professor III",
+              "Email": "peragrino_amador@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. PRISCILLA S. BATOR",
+              "Designation": "Assistant Professor I",
+              "Email": "priscilla_bator@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF WELLANIE M. MOLINO",
+              "Designation": "Associate Professor II",
+              "Email": "wellanie_molino@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cos_department_mathematics",
+          "patterns": [
+            "Who are the instructors in the Mathematics Department?",
+            "Can you provide information about the faculty members of the Mathematics Department?",
+            "I want to know about the instructors in the Mathematics Department.",
+            "Tell me about the faculty members in the Mathematics Department.",
+            "What are the names of the instructors teaching in the Mathematics Department?",
+            "Who teaches mathematics at the university?",
+            "Which professors are part of the Mathematics Department?",
+            "Who are the academic staff in the Mathematics Department?",
+            "Could you give me details about the instructors in the Mathematics Department?",
+            "I need information about the faculty members of the Mathematics Department.",
+            "What are the names of the teachers in the Mathematics Department?",
+            "Tell me about the academic staff of the Mathematics Department.",
+            "Who are the lecturers in the Mathematics Department?",
+            "What faculty members are associated with teaching mathematics?",
+            "Can you list the instructors who teach mathematics?"
+          ],
+          "responses": [
+            {
+              "Name": "MR. ARTHUR GLENN A. GUILLEN",
+              "Designation": "Instructor I",
+              "Email": "arthur_guillen@tup.edu.ph"
+            },
+            {
+              "Name": "MR. DAVE CARLOS A. CALIXTO",
+              "Designation": "Instructor I",
+              "Email": "dave_calixto@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF DAVID S. BALANDO",
+              "Designation": "Associate Professor II",
+              "Email": "david_balando@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF ERNITA R. CALAYAG",
+              "Designation": "Associate Professor V",
+              "Email": "ernita_calayag@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF GEMAR R. PAHAYAHAY",
+              "Designation": "Associate Professor I",
+              "Email": "gemar_pahayahay@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. GENER N. DE JESUS",
+              "Designation": "Assistant Professor I",
+              "Email": "gener_dejesus@tup.edu.ph"
+            },
+            {
+              "Name": "DR. HADJI C. ALEGRE",
+              "Designation": "Assistant Professor I",
+              "Email": "hadji_alegre@tup.edu.ph"
+            },
+            {
+              "Name": "DR. HASMIN T. IGNACIO",
+              "Designation": "Associate Professor IV",
+              "Email": "hasmin_ignacio@tup.edu.ph"
+            },
+            {
+              "Name": "MS. HAZELETTE L. DOñO",
+              "Designation": "Instructor III",
+              "Email": "hazelette_dono@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF MA. TERESA F. MANDI",
+              "Designation": "Associate Professor III",
+              "Email": "materesa_mandi@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF MELCHOR G. PACER",
+              "Designation": "Associate Professor II",
+              "Email": "melchor_pacer@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. OLIVIA D. REAL",
+              "Designation": "Assistant Professor I",
+              "Email": "olivia_real@tup.edu.ph"
+            },
+            {
+              "Name": "MR. REGGIE C. CAMPOMANES",
+              "Designation": "Instructor I",
+              "Email": "reggie_campomanes@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cos_department_physics",
+          "patterns": [
+            "Who are the faculty members in the Physics Department?",
+            "Can you provide a list of instructors in the Physics Department?",
+            "What are the names of the professors teaching in the Physics Department?",
+            "I'm looking for information about the faculty in the Physics Department.",
+            "Could you give me the names of the teachers in the Physics Department?",
+            "Who are the academic staff members in the Physics Department?",
+            "Tell me about the instructors in the Physics Department.",
+            "What are the names of the lecturers in the Physics Department?",
+            "I want to know more about the faculty members in the Physics Department.",
+            "Give me details about the professors in the Physics Department.",
+            "Describe the faculty composition of the Physics Department.",
+            "Where can I find information about the faculty in the Physics Department?",
+            "What professors are associated with the Physics Department?",
+            "Can you list the faculty members of the Physics Department?",
+            "Who are the teaching staff in the Physics Department?"
+          ],
+          "responses": [
+            {
+              "Name": "ASST. PROF. ALDRIN G. CHANG",
+              "Designation": "Assistant Professor II",
+              "Email": "aldrin_chang@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ANALIZA H. IBAY",
+              "Designation": "Assistant Professor III",
+              "Email": "analiza_ibay@tup.edu.ph"
+            },
+            {
+              "Name": "MS. ANALYN N. TOLENTINO",
+              "Designation": "Instructor I",
+              "Email": "analyn_tolentino@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. CARLO ANGELO. PELOTENIA",
+              "Designation": "Assistant Professor I",
+              "Email": "carloangelo_pelotenia@tup.edu.ph"
+            },
+            {
+              "Name": "MS. COLEEN M. AMADO",
+              "Designation": "Instructor I",
+              "Email": "coleen_amado@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. DANILO B. OLETE",
+              "Designation": "Assistant Professor I",
+              "Email": "danilo_olete@tup.edu.ph"
+            },
+            {
+              "Name": "MR. FRANCIS S. DELA CRUZ",
+              "Designation": "Instructor I",
+              "Email": "francis_delacruz@tup.edu.ph"
+            },
+            {
+              "Name": "MR. FROILAN N. DE GUZMAN",
+              "Designation": "Instructor I",
+              "Email": "froilan_deguzman@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF JERVIE M. OLIVEROS",
+              "Designation": "Associate Professor I",
+              "Email": "jervie_oliveros@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. KRISTINA M. SAN JOSE",
+              "Designation": "Assistant Professor III",
+              "Email": "kristina_sanjose@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. LUCRECIA L. CARBONEL",
+              "Designation": "Assistant Professor III",
+              "Email": "lucrecia_carbonel@tup.edu.ph"
+            },
+            {
+              "Name": "MR. MA. KRISTINA B. DELA CRUZ",
+              "Designation": "Instructor I",
+              "Email": "makristina_delacruz@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF MA. ROSANNA C. PAHAYAHAY",
+              "Designation": "Associate Professor II",
+              "Email": "marosanna_pahayahay@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MICHAEL ALLAN A. BAHTAJI",
+              "Designation": "Assistant Professor II",
+              "Email": "michaelallan_bahtaji@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. NOLI V. CORPUZ",
+              "Designation": "Assistant Professor I",
+              "Email": "noli_corpuz@tup.edu.ph"
+            },
+            {
+              "Name": "MR. RAYMUND T. MASANGYA",
+              "Designation": "Instructor I",
+              "Email": "raymund_masangya@tup.edu.ph"
+            }
+          ]
+        },
+        
+        {
+          "tag": "cafa_department_architecture",
+          "patterns": [
+            "Who is the instructor I in the Architecture Department?",
+            "Can you provide information about the Architecture Department instructors?",
+            "Who are the faculty members in the Architecture Department?",
+            "I'm looking for details about the instructors in the Architecture Department.",
+            "What are the names of the instructors in the Architecture Department?",
+            "Tell me about the faculty members teaching Architecture.",
+            "Who teaches architecture courses?",
+            "What are the names of the instructors in the Architecture Department?",
+            "I need to contact an instructor from the Architecture Department. Who can I reach out to?",
+            "Who are the instructors handling Architecture subjects?",
+            "Which individuals are part of the faculty in the Architecture Department?",
+            "Who are the educators responsible for teaching architecture?",
+            "Can you list the names of instructors in the Architecture Department?",
+            "What are the names of the faculty members teaching Architecture courses?",
+            "I want to know more about the instructors in the Architecture Department."
+          ],
+          "responses": [
+            {
+              "Name": "MR. ARJEE LOUIE DC. JIMENEZ",
+              "Designation": "Instructor I",
+              "Email": "arjeelouie_jimenez@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EDUARDO A. BABON",
+              "Designation": "Instructor I",
+              "Email": "eduardo_babon@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ELPIDIO JR. T. BALAIS",
+              "Designation": "Associate Professor I",
+              "Email": "elpidio_balais@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EMERSON S. BAQUIRAN",
+              "Designation": "Instructor II",
+              "Email": "emerson_baquiran@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EVA MARIE L. BANDOLA",
+              "Designation": "Instructor I",
+              "Email": "evamarie_bandola@tup.edu.ph"
+            },
+            {
+              "Name": "MR. GRACE F. FAJILAGUTAN",
+              "Designation": "Instructor I",
+              "Email": "grace_fajilagutan@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JEMNERY B. CO",
+              "Designation": "Instructor I",
+              "Email": "jemnery_co@tup.edu.ph"
+            },
+            {
+              "Name": "MR. KENNETH V. TRIBUTO",
+              "Designation": "Instructor I",
+              "Email": "kenneth_tributo@tup.edu.ph"
+            },
+            {
+              "Name": "MR. RAYMOND N. VILLA",
+              "Designation": "Instructor I",
+              "Email": "raymond_villa@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ROSELLIA ROWENA A. MANZANO",
+              "Designation": "Assistant Professor IV",
+              "Email": "roselliarowena_manzano@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ROWENA ESTRELLA M. NACION",
+              "Designation": "Assistant Professor II",
+              "Email": "rowenaestrella_nacion@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cafa_department_finearts",
+          "patterns": [
+            "Who are the faculty members in the Department of Fine Arts?",
+            "Can you provide information about the faculty in the Fine Arts Department?",
+            "I'm interested in contacting the faculty of the Fine Arts Department. How can I reach them?",
+            "Tell me about the professors teaching in the Fine Arts Department.",
+            "What are the names of the instructors in the Department of Fine Arts?",
+            "I want to know more about the academic staff in the Fine Arts Department.",
+            "Who are the educators in the Fine Arts Department?",
+            "Can you list the faculty members of the Fine Arts Department?",
+            "What is the faculty composition of the Fine Arts Department?",
+            "I'm looking for details about the teaching staff in the Department of Fine Arts.",
+            "Provide information about the Fine Arts Department faculty.",
+            "Who are the lecturers in the Fine Arts Department?",
+            "Tell me about the instructors in the Department of Fine Arts.",
+            "What are the names of the Fine Arts Department professors?",
+            "How can I contact the faculty members of the Fine Arts Department?"
+          ],
+          "responses": [
+            {
+              "Name": "ASSOC. PROF. ALMINA T. TENGCO-CHAN",
+              "Designation": "Associate Professor I",
+              "Email": "almina_tengcochan@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ERNEST JOSEPH M. GARCIA",
+              "Designation": "Instructor I",
+              "Email": "ernestjoseph_garcia@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. FERDINAND R. DOCTOLERO",
+              "Designation": "Assistant Professor I",
+              "Email": "ferdinand_doctolero@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MAJHALINA I. APUYAN",
+              "Designation": "Instructor I",
+              "Email": "majhalina_apuyan@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MARIA REGINA DG. FREJAS",
+              "Designation": "Instructor I",
+              "Email": "mariaregina_frejas@tup.edu.ph"
+            },
+            {
+              "Name": "MR. RAMON T. DELA CRUZ",
+              "Designation": "Instructor III",
+              "Email": "ramon_dela_cruz@tup.edu.ph"
+            }
+          ]
+        },
+        
+        {
+          "tag": "cafa_department_graphics",
+          "patterns": [
+            "Who are the faculty members in the Graphics Department?",
+            "Can you provide information about the Graphics Department faculty?",
+            "I want to know about the faculty members in the Graphics Department.",
+            "Who teaches in the Graphics Department?",
+            "Tell me about the instructors in the Graphics Department.",
+            "What are the names of the faculty members in the Graphics Department?",
+            "Which professors are part of the Graphics Department?",
+            "Give me details about the faculty in the Graphics Department.",
+            "I'm interested in the faculty of the Graphics Department. Can you help?",
+            "Could you list the faculty members in the Graphics Department?",
+            "Who are the instructors teaching in the Graphics Department?",
+            "I need information about the Graphics Department faculty members.",
+            "What are the names of the professors in the Graphics Department?",
+            "Can you tell me about the Graphics Department faculty?",
+            "Provide details about the faculty members in the Graphics Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASST. PROF. CIELO Q. PARAFINA",
+              "Designation": "Assistant Professor IV",
+              "Email": "cielo_parafina@tup.edu.ph"
+            },
+            {
+              "Name": "MS. DANNA ROSE F. MICIANO",
+              "Designation": "Instructor I",
+              "Email": "dannarose_miciano@tup.edu.ph"
+            },
+            {
+              "Name": "DR. DIONISIO JR. A. ESPRESSION",
+              "Designation": "Professor IV",
+              "Email": "dionisiojr_espresion@tup.edu.ph"
+            },
+            {
+              "Name": "MS. ELLAINE C. AMARO",
+              "Designation": "Instructor I",
+              "Email": "ellaine_amaro@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ELMER M. SANGALANG",
+              "Designation": "Associate Professor I",
+              "Email": "elmer_sangalang@tup.edu.ph"
+            },
+            {
+              "Name": "MR. IVAN KIM B. ECIJAN",
+              "Designation": "Instructor I",
+              "Email": "ivankim_ecijan@tup.edu.ph"
+            },
+            {
+              "Name": "MR. KRISTOFFER R. TORRALBA",
+              "Designation": "Instructor II",
+              "Email": "kristoffer_torralba@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. LOWELL QUEY S. FABRIGAR",
+              "Designation": "Assistant Professor III",
+              "Email": "lowellquey_fabrigar@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MARCELINA P. PUGA",
+              "Designation": "Instructor I",
+              "Email": "marcelina_puga@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MARILYN G. BACTAD",
+              "Designation": "Assistant Professor I",
+              "Email": "marilyn_bactad@tup.edu.ph"
+            },
+            {
+              "Name": "MR. MELVIN G. MOJICA",
+              "Designation": "Instructor I",
+              "Email": "melvin_mojica@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. PABLO JR. G. PILAR",
+              "Designation": "Associate Professor I",
+              "Email": "pablojr_pilar@tup.edu.ph"
+            },
+            {
+              "Name": "MR. PAX JEROME M. PEDROSA",
+              "Designation": "Instructor I",
+              "Email": "paxjerome_pedrosa@tup.edu.ph"
+            },
+            {
+              "Name": "MR. RAFAEL TITUS S. ANGELES",
+              "Designation": "Instructor I",
+              "Email": "rafaeltitus_angeles@tup.edu.ph"
+            },
+            {
+              "Name": "MS. REMEGIA C. JACOB",
+              "Designation": "Instructor I",
+              "Email": "remegia_jacob@tup.edu.ph"
+            },
+            {
+              "Name": "MS. RICHELLE D. MAYLAD",
+              "Designation": "Instructor I",
+              "Email": "richelle_maylad@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. WILMA D. ENRIQUEZ",
+              "Designation": "Assistant Professor IV",
+              "Email": "wilma_enriquez@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "coe_department_civil",
+          "patterns": [
+            "Who are the faculty members in the Civil Engineering Department?",
+            "Can you provide information about the Civil Engineering Department faculty?",
+            "I want to know about the faculty members in the Civil Engineering Department.",
+            "Who teaches in the Civil Engineering Department?",
+            "Tell me about the instructors in the Civil Engineering Department.",
+            "What are the names of the faculty members in the Civil Engineering Department?",
+            "Which professors are part of the Civil Engineering Department?",
+            "Give me details about the faculty in the Civil Engineering Department.",
+            "I'm interested in the faculty of the Civil Engineering Department. Can you help?",
+            "Could you list the faculty members in the Civil Engineering Department?",
+            "Who are the instructors teaching in the Civil Engineering Department?",
+            "I need information about the Civil Engineering Department faculty members.",
+            "What are the names of the professors in the Civil Engineering Department?",
+            "Can you tell me about the Civil Engineering Department faculty?",
+            "Provide details about the faculty members in the Civil Engineering Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASST. PROF. BOBBY C. LUPANGO",
+              "Designation": "Assistant Professor I",
+              "Email": "bobby_lupango@tup.edu.ph"
+            },
+            {
+              "Name": "MR. CHRISTIAN A. ARBALATE",
+              "Designation": "Instructor I",
+              "Email": "christian_arbalate@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. EDGARDO S. LEGASPI",
+              "Designation": "Associate Professor III",
+              "Email": "edgardo_legaspi@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. EDMUNDO C. DELA CRUZ",
+              "Designation": "Associate Professor III",
+              "Email": "edmundo_delacruz@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ELEZAR M. MONTEMAYOR",
+              "Designation": "Instructor I",
+              "Email": "elezar_montemayor@tup.edu.ph"
+            },
+            {
+              "Name": "MR. GABRIEL I. GAMANA",
+              "Designation": "Instructor I",
+              "Email": "gabriel_gamana@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JESON C. REPANA",
+              "Designation": "Instructor I",
+              "Email": "jeson_repana@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JHON LOUIE F. CUERDO",
+              "Designation": "Instructor I",
+              "Email": "jhonlouie_cuerrdo@tup.edu.ph"
+            },
+            {
+              "Name": "MS. JOSEA ANDREA R. OBISPO",
+              "Designation": "Instructor I",
+              "Email": "joseaandrea_obispo@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JUAN PAULO L. BERSAMINA",
+              "Designation": "Assistant Professor II",
+              "Email": "juan_bersamina@tup.edu.ph"
+            },
+            {
+              "Name": "MR. KEVIN M. DESALES",
+              "Designation": "Instructor I",
+              "Email": "kevin_desales@tup.edu.ph"
+            },
+            {
+              "Name": "MR. LEONARD M. AGUSTIN",
+              "Designation": "Instructor I",
+              "Email": "leonard_agustin@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. LUCIA V. ORTEGA",
+              "Designation": "Assistant Professor I",
+              "Email": "lucia_ortega@tup.edu.ph"
+            },
+            {
+              "Name": "MR. MARK JOSEPH T. BUGARIN",
+              "Designation": "Instructor I",
+              "Email": "markjoseph_bugarin@tup.edu.ph"
+            },
+            {
+              "Name": "DR. MELITO A. BACCAY",
+              "Designation": "Professor VI",
+              "Email": "melito_baccay@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ROMIE M. ZAPANTA",
+              "Designation": "Instructor I",
+              "Email": "romie_zapanta@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ROMMEL G. ARAPO",
+              "Designation": "Instructor I",
+              "Email": "rommel_arapo@tup.edu.ph"
+            },
+            {
+              "Name": "MS. SHEINA R. PALLEGA",
+              "Designation": "Instructor I",
+              "Email": "sheina_pallega@tup.edu.ph"
+            },
+            {
+              "Name": "MR. TEODIMER II M. ESCURO",
+              "Designation": "Instructor I",
+              "Email": "teodimer_escuro@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. TEODINIS P. GARCIA",
+              "Designation": "Associate Professor V",
+              "Email": "teodinis_garcia@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "coe_department_electrical",
+          "patterns": [
+            "Who are the faculty members in the Electrical Department?",
+            "Can you provide information about the Electrical Department faculty?",
+            "I want to know about the faculty members in the Electrical Department.",
+            "Who teaches in the Electrical Department?",
+            "Tell me about the instructors in the Electrical Department.",
+            "What are the names of the faculty members in the Electrical Department?",
+            "Which professors are part of the Electrical Department?",
+            "Give me details about the faculty in the Electrical Department.",
+            "I'm interested in the faculty of the Electrical Department. Can you help?",
+            "Could you list the faculty members in the Electrical Department?",
+            "Who are the instructors teaching in the Electrical Department?",
+            "I need information about the Electrical Department faculty members.",
+            "What are the names of the professors in the Electrical Department?",
+            "Can you tell me about the Electrical Department faculty?",
+            "Provide details about the faculty members in the Electrical Department."
+          ],
+          "responses": [
+            {
+              "Name": "MS. CHEERJOY M. CURITANA",
+              "Designation": "Instructor I",
+              "Email": "cheerjoy_curitana@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EDWARD L. ACERO",
+              "Designation": "Instructor I",
+              "Email": "edward_acero@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EDWIN C. ESPINAS",
+              "Designation": "Instructor I",
+              "Email": "edwin_espinas@tup.edu.ph"
+            },
+            {
+              "Name": "MS. EVA B. BELGAR",
+              "Designation": "Instructor I",
+              "Email": "eva_belgar@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. GILBERT B. HOLLMAN",
+              "Designation": "Associate Professor III",
+              "Email": "gilbert_hollman@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JOVENCIO V. MERIN",
+              "Designation": "Associate Professor II",
+              "Email": "jovencio_merin@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JUN A. TERESA",
+              "Designation": "Assistant Professor I",
+              "Email": "jun_teresa@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. LYNDON R. BAGUE",
+              "Designation": "Associate Professor V",
+              "Email": "lyndon_bague@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MELANIE T. IRADIEL",
+              "Designation": "Instructor I",
+              "Email": "melanie_iradiel@tup.edu.ph"
+            },
+            {
+              "Name": "MR. MERVYN ANTHONY N. RAMOS",
+              "Designation": "Instructor I",
+              "Email": "mervynanthony_ramos@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. REY S. JUGANAS",
+              "Designation": "Assistant Professor IV",
+              "Email": "rey_juganas@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ROEL M. MENDOZA",
+              "Designation": "Assistant Professor II",
+              "Email": "roel_mendoza@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ROVENSON V. SEVILLA",
+              "Designation": "Associate Professor IV",
+              "Email": "rovenson_sevilla@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. RYAN C. REYES",
+              "Designation": "Assistant Professor I",
+              "Email": "ryan_reyes@tup.edu.ph"
+            },
+            {
+              "Name": "MR. SHAWN MICHAEL F. FABRIGAR",
+              "Designation": "Instructor I",
+              "Email": "shawnmichael_fabrigar@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. VILMA C. PAGTALUNAN",
+              "Designation": "Associate Professor III",
+              "Email": "vilma_pagtalunan@tup.edu.ph"
+            }
+          ]
+        },
+        {
+          "tag": "coe_department_electronics",
+          "patterns": [
+            "Who are the faculty members in the Electronics Department?",
+            "Can you provide information about the faculty in the Electronics Department?",
+            "I want to know about the faculty members in the Electronics Department.",
+            "Who teaches in the Electronics Department?",
+            "Tell me about the instructors in the Electronics Department.",
+            "What are the names of the faculty members in the Electronics Department?",
+            "Which professors are part of the Electronics Department?",
+            "Give me details about the faculty in the Electronics Department.",
+            "I'm interested in the faculty of the Electronics Department. Can you help?",
+            "Could you list the faculty members in the Electronics Department?",
+            "Who are the instructors teaching in the Electronics Department?",
+            "I need information about the Electronics Department faculty members.",
+            "What are the names of the professors in the Electronics Department?",
+            "Can you tell me about the Electronics Department faculty?",
+            "Provide details about the faculty members in the Electronics Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASSOC. PROF. AUGUST C. THIO-AC",
+              "Designation": "Associate Professor IV",
+              "Email": "august_thioac@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. CHERRY G. PASCION",
+              "Designation": "Assistant Professor I",
+              "Email": "cherry_pascion@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EDGAR A. GALIDO",
+              "Designation": "Instructor II",
+              "Email": "edgar_galido@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. EDMON O. FERNANDEZ",
+              "Designation": "Associate Professor IV",
+              "Email": "edmon_fernandez@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EDMUND G. MONILAR",
+              "Designation": "Instructor I",
+              "Email": "edmund_monilar@tup.edu.ph"
+            },
+            {
+              "Name": "MR. GILFRED ALLEN M. MADRIGAL",
+              "Designation": "Instructor I",
+              "Email": "gilfredallen_madrigal@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JAY FEL C. QUIJANO",
+              "Designation": "Instructor I",
+              "Email": "jayfel_quijano@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JESSICA S. VELASCO",
+              "Designation": "Associate Professor III",
+              "Email": "jessica_velasco@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JOHN PETER M. RAMOS",
+              "Designation": "Instructor I",
+              "Email": "johnpeter_ramos@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JOMER V. CATIPON",
+              "Designation": "Instructor I",
+              "Email": "jomer_catipon@tup.edu.ph"
+            },
+            {
+              "Name": "MR. LARRY C. GALVEZ",
+              "Designation": "Instructor I",
+              "Email": "larry_galvez@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. LEAN KARLO S. TOLENTINO",
+              "Designation": "Assistant Professor II",
+              "Email": "leankarlo_tolentino@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MARK P. MELEGRITO",
+              "Designation": "Assistant Professor I",
+              "Email": "mark_melegrito@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. NILO M. ARAGO",
+              "Designation": "Associate Professor V",
+              "Email": "nilo_arago@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ROMEO JR. L. JORDA",
+              "Designation": "Assistant Professor I",
+              "Email": "romeojr_jorda@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. TIMOTHY M. AMADO",
+              "Designation": "Associate Professor III",
+              "Email": "timothy_amado@tup.edu.ph"
+            },
+            {
+              "Name": "MS. VILLAMOR M. AMON",
+              "Designation": "Instructor I",
+              "Email": "villamor_amon@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "coe_department_mechanical",
+          "patterns": [
+            "Who are the faculty members in the Mechanical Engineering Department?",
+            "Can you provide information about the faculty of the Mechanical Engineering Department?",
+            "I want to know about the faculty members in the Mechanical Engineering Department.",
+            "Who teaches in the Mechanical Engineering Department?",
+            "Tell me about the instructors in the Mechanical Engineering Department.",
+            "What are the names of the faculty members in the Mechanical Engineering Department?",
+            "Which professors are part of the Mechanical Engineering Department?",
+            "Give me details about the faculty in the Mechanical Engineering Department.",
+            "I'm interested in the faculty of the Mechanical Engineering Department. Can you help?",
+            "Could you list the faculty members in the Mechanical Engineering Department?",
+            "Who are the instructors teaching in the Mechanical Engineering Department?",
+            "I need information about the Mechanical Engineering Department faculty members.",
+            "What are the names of the professors in the Mechanical Engineering Department?",
+            "Can you tell me about the Mechanical Engineering Department faculty?",
+            "Provide details about the faculty members in the Mechanical Engineering Department."
+          ],
+          "responses": [
+            {
+              "Name": "MR. ALVIN U. GAZO",
+              "Designation": "Instructor I",
+              "Email": "alvin_gazo@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ANTIRO M. CA-AY",
+              "Designation": "Assistant Professor I",
+              "Email": "antiromo_caay@tup.edu.ph"
+            },
+            {
+              "Name": "DR. BENEDICTO N. FORTALEZA",
+              "Designation": "Professor II",
+              "Email": "benedicto_fortaleza@tup.edu.ph"
+            },
+            {
+              "Name": "MR. DONNIE BON L. BEROG",
+              "Designation": "Instructor I",
+              "Email": "donniebon_berog@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. EDWIN G. MACALINTAL",
+              "Designation": "Assistant Professor I",
+              "Email": "edwin_macalintal@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JAY MARK P. DELOS REYES",
+              "Designation": "Instructor I",
+              "Email": "jaymark_delosreyes@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JOHN DENNICE V. GANOTISI",
+              "Designation": "Instructor I",
+              "Email": "johndennice_ganotisi@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JORGE B. YASAY",
+              "Designation": "Associate Professor II",
+              "Email": "jorge_yasay@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MANUEL L. EUROPEO",
+              "Designation": "Assistant Professor III",
+              "Email": "manuel_europeo@tup.edu.ph"
+            },
+            {
+              "Name": "MR. PAWELL JESTER T. DE VILLA",
+              "Designation": "Instructor I",
+              "Email": "pawelljester_devilla@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ROMULO VICENTE D. BASAEN",
+              "Designation": "Associate Professor I",
+              "Email": "romulovicente_basaen@tup.edu.ph"
+            },
+            {
+              "Name": "DR. RONALDO A. JUANATAS",
+              "Designation": "Professor VI",
+              "Email": "ronaldo_juanatas@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ROSS PATRICK Y. OCAMPO",
+              "Designation": "Instructor I",
+              "Email": "rosspatrick_ocampo@tup.edu.ph"
+            },
+            {
+              "Name": "MS. SANDRA A. HOLLMAN",
+              "Designation": "Instructor I",
+              "Email": "sandra_hollman@tup.edu.ph"
+            },
+            {
+              "Name": "MR. VINCENT RAUL C. ESPERANZA",
+              "Designation": "Instructor I",
+              "Email": "vincentraul_esperanza@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. VIRGILIO S. DELA CRUZ",
+              "Designation": "Assistant Professor I",
+              "Email": "virgilio_delacruz@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cla_department_entrepreneur",
+          "patterns": [
+            "Who are the faculty members in the Entrepreneurship Department?",
+            "Can you provide information about the Entrepreneurship Department faculty?",
+            "I want to know about the faculty members in the Entrepreneurship Department.",
+            "Who teaches in the Entrepreneurship Department?",
+            "Tell me about the instructors in the Entrepreneurship Department.",
+            "What are the names of the faculty members in the Entrepreneurship Department?",
+            "Which professors are part of the Entrepreneurship Department?",
+            "Give me details about the faculty in the Entrepreneurship Department.",
+            "I'm interested in the faculty of the Entrepreneurship Department. Can you help?",
+            "Could you list the faculty members in the Entrepreneurship Department?",
+            "Who are the instructors teaching in the Entrepreneurship Department?",
+            "I need information about the Entrepreneurship Department faculty members.",
+            "What are the names of the professors in the Entrepreneurship Department?",
+            "Can you tell me about the Entrepreneurship Department faculty?",
+            "Provide details about the faculty members in the Entrepreneurship Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASST. PROF. AIRESE A. PEROCHE",
+              "Designation": "Assistant Professor I",
+              "Email": "airese_peroche@tup.edu.ph"
+            },
+            {
+              "Name": "MS. DAISY DIAN M. DEQUINA",
+              "Designation": "Instructor I",
+              "Email": "daisydian_dequina@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EDWARD Y. MANANSALA",
+              "Designation": "Instructor II",
+              "Email": "edward_manansala@tup.edu.ph"
+            },
+            {
+              "Name": "MS. EMERALD JEAN D. VILLALOBOS",
+              "Designation": "Instructor I",
+              "Email": "emeraldjean_villalobos@tup.edu.ph"
+            },
+            {
+              "Name": "MS. GENESIS S. AUSTRIA",
+              "Designation": "Instructor I",
+              "Email": "genesis_austria@tup.edu.ph"
+            },
+            {
+              "Name": "MS. GRACE R. ABILAY",
+              "Designation": "Instructor I",
+              "Email": "grace_abilay@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JEFFREN R. DIOQUINO",
+              "Designation": "Associate Professor II",
+              "Email": "jeffren_dioquino@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JUVY V. DELMONTE",
+              "Designation": "Assistant Professor II",
+              "Email": "juvy_delmonte@tup.edu.ph"
+            },
+            {
+              "Name": "DR. MICHAEL BHOBET B. BALUYOT",
+              "Designation": "Instructor I",
+              "Email": "michael_baluyot@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ROLANDO S. MANGADA",
+              "Designation": "Instructor I",
+              "Email": "rolando_mangada@tup.edu.ph"
+            },
+            {
+              "Name": "MR. VICTOR JAMES C. ESCOLANO",
+              "Designation": "Instructor I",
+              "Email": "victorjames_escolano@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cla_department_languages",
+          "patterns": [
+            "Who are the faculty members in the Languages Department?",
+            "Can you provide information about the Languages Department faculty?",
+            "I want to know about the faculty members in the Languages Department.",
+            "Who teaches in the Languages Department?",
+            "Tell me about the instructors in the Languages Department.",
+            "What are the names of the faculty members in the Languages Department?",
+            "Which professors are part of the Languages Department?",
+            "Give me details about the faculty in the Languages Department.",
+            "I'm interested in the faculty of the Languages Department. Can you help?",
+            "Could you list the faculty members in the Languages Department?",
+            "Who are the instructors teaching in the Languages Department?",
+            "I need information about the Languages Department faculty members.",
+            "What are the names of the professors in the Languages Department?",
+            "Can you tell me about the Languages Department faculty?",
+            "Provide details about the faculty members in the Languages Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASST. PROF. ALFREDO D. TRINIDAD",
+              "Designation": "Assistant Professor IV",
+              "Email": "alfredo_trinidad@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ANGELICA B. HARRIS",
+              "Designation": "Associate Professor II",
+              "Email": "angelica_harris@tup.edu.ph"
+            },
+            {
+              "Name": "MR. CYNIC J. TENEDERO",
+              "Designation": "Instructor I",
+              "Email": "cynic_tenedero@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. GINA B. ARAOJO",
+              "Designation": "Associate Professor II",
+              "Email": "gina_araojo@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. GISELDA A. BONSOL",
+              "Designation": "Assistant Professor I",
+              "Email": "giselda_bonsol@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. MARGARET S. AQUINO",
+              "Designation": "Associate Professor V",
+              "Email": "margaret_aquino@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MARIE JO TESS S. RAGOS",
+              "Designation": "Assistant Professor I",
+              "Email": "mariejotess_ragos@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MARY ANN A. MISA",
+              "Designation": "Instructor I",
+              "Email": "maryann_misa@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MILLER C. DURON",
+              "Designation": "Assistant Professor I",
+              "Email": "miller_duron@tup.edu.ph"
+            },
+            {
+              "Name": "MS. VANESSA D. CENIZAL",
+              "Designation": "Instructor I",
+              "Email": "vanessa_cenizal@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cla_department_physicaleducation",
+          "patterns": [
+            "Who are the faculty members in the Physical Education Department?",
+            "Can you provide information about the Physical Education Department faculty?",
+            "I want to know about the faculty members in the Physical Education Department.",
+            "Who teaches in the Physical Education Department?",
+            "Tell me about the instructors in the Physical Education Department.",
+            "What are the names of the faculty members in the Physical Education Department?",
+            "Which professors are part of the Physical Education Department?",
+            "Give me details about the faculty in the Physical Education Department.",
+            "I'm interested in the faculty of the Physical Education Department. Can you help?",
+            "Could you list the faculty members in the Physical Education Department?",
+            "Who are the instructors teaching in the Physical Education Department?",
+            "I need information about the Physical Education Department faculty members.",
+            "What are the names of the professors in the Physical Education Department?",
+            "Can you tell me about the Physical Education Department faculty?",
+            "Provide details about the faculty members in the Physical Education Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASST. PROF. ALLAN D. SORIA",
+              "Designation": "Assistant Professor IV",
+              "Email": "allan_soria@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ARMANDO M. SANTIAGO",
+              "Designation": "Assistant Professor III",
+              "Email": "armando_santiago@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ARTEMIO JR. T. REYES",
+              "Designation": "Instructor I",
+              "Email": "artemiojr_reyes@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. BEVERLY C. YABUT",
+              "Designation": "Assistant Professor I",
+              "Email": "beverly_yabut@tup.edu.ph"
+            },
+            {
+              "Name": "MS. DANICA G. BETOY",
+              "Designation": "Instructor I",
+              "Email": "danica_betoy@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JOEL H. ALCANTARA",
+              "Designation": "Instructor III",
+              "Email": "joel_alcantara@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JOSHUA A. TULIAO",
+              "Designation": "Instructor I",
+              "Email": "joshua_tuliao@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cla_department_socialscience",
+          "patterns": [
+            "Who are the faculty members in the Social Science Department?",
+            "Can you provide information about the faculty of the Social Science Department?",
+            "I want to know about the faculty members in the Social Science Department.",
+            "Who teaches in the Social Science Department?",
+            "Tell me about the instructors in the Social Science Department.",
+            "What are the names of the faculty members in the Social Science Department?",
+            "Which professors are part of the Social Science Department?",
+            "Give me details about the faculty in the Social Science Department.",
+            "I'm interested in the faculty of the Social Science Department. Can you help?",
+            "Could you list the faculty members in the Social Science Department?",
+            "Who are the instructors teaching in the Social Science Department?",
+            "I need information about the Social Science Department faculty members.",
+            "What are the names of the professors in the Social Science Department?",
+            "Can you tell me about the Social Science Department faculty?",
+            "Provide details about the faculty members in the Social Science Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASSOC. PROF. ANALIZA S. VALENZUELA",
+              "Designation": "Associate Professor I",
+              "Email": "analiza_valenzuela@tup.edu.ph"
+            },
+            {
+              "Name": "DR. EDUARDO L. DOYAOEN",
+              "Designation": "Professor III",
+              "Email": "eduardo_doyaoen@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. EMELINDA Q. AGBUYA",
+              "Designation": "Associate Professor I",
+              "Email": "emelinda_agbuya@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ENRICO S. LUCENA",
+              "Designation": "Assistant Professor III",
+              "Email": "enrico_lucena@tup.edu.ph"
+            },
+            {
+              "Name": "MR. GENEMOORE B. VALDEZ",
+              "Designation": "Instructor III",
+              "Email": "genemoore_valdez@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JAIME JR. E. MOZO",
+              "Designation": "Instructor I",
+              "Email": "jaimejr_mozo@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JANICE MARIE J. LAGRIMAS",
+              "Designation": "Assistant Professor II",
+              "Email": "janicemarie_lagrimas@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JERSON A. MONSAD",
+              "Designation": "Assistant Professor IV",
+              "Email": "jerson_monsad@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JOCELYN A. DIANO",
+              "Designation": "Assistant Professor I",
+              "Email": "jocelyn_diano@tup.edu.ph"
+            },
+            {
+              "Name": "MS. JONA IRIS M. TRAMBULO",
+              "Designation": "Instructor I",
+              "Email": "jonairis_trambulo@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JOSEFINA D. VILLALOBOS",
+              "Designation": "Assistant Professor I",
+              "Email": "josefina_villalobos@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JULIUS C. DE LOS TRINOS",
+              "Designation": "Assistant Professor III",
+              "Email": "julius_delostrinos@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. LEILA R. DEUNA",
+              "Designation": "Assistant Professor II",
+              "Email": "leila_deuna@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. MA. DIVINA E. ELVAMBUENA",
+              "Designation": "Associate Professor II",
+              "Email": "madivina_elvambuena@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MA. KRISTINA R. SOLANO",
+              "Designation": "Instructor I",
+              "Email": "makristina_solano@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MYLENE T. SANGINES",
+              "Designation": "Instructor II",
+              "Email": "mylene_sangines@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. NOEMIE DC. BUNYE",
+              "Designation": "Assistant Professor I",
+              "Email": "noemie_bunye@tup.edu.ph"
+            },
+            {
+              "Name": "MR. PAUL MARK C. ANDRES",
+              "Designation": "Instructor I",
+              "Email": "paulmark_andres@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. PAULO MANUEL L. MACAPAGAL",
+              "Designation": "Assistant Professor I",
+              "Email": "paulomanuel_macapagal@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. RHODORA DC. ENRIQUEZ",
+              "Designation": "Assistant Professor II",
+              "Email": "rhodora_enriquez@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. RITA G. AGUDON",
+              "Designation": "Assistant Professor II",
+              "Email": "rita_agudon@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ROLITO E. BACALSO",
+              "Designation": "Instructor I",
+              "Email": "rolito_bacalso@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ROSELIE F. GALIGA",
+              "Designation": "Associate Professor V",
+              "Email": "roselie_galiga@tup.edu.ph"
+            },
+            {
+              "Name": "DR. ROSEMARIE THERESA M. CRUZ",
+              "Designation": "Professor II",
+              "Email": "rosemarie_cruz@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cit_department_basicindustrialtech",
+          "patterns": [
+            "Who are the faculty members in the Basic Industrial Technology Department?",
+            "Can you provide information about the faculty of the Basic Industrial Technology Department?",
+            "I want to know about the faculty members in the Basic Industrial Technology Department.",
+            "Who teaches in the Basic Industrial Technology Department?",
+            "Tell me about the instructors in the Basic Industrial Technology Department.",
+            "What are the names of the faculty members in the Basic Industrial Technology Department?",
+            "Which professors are part of the Basic Industrial Technology Department?",
+            "Give me details about the faculty in the Basic Industrial Technology Department.",
+            "I'm interested in the faculty of the Basic Industrial Technology Department. Can you help?",
+            "Could you list the faculty members in the Basic Industrial Technology Department?",
+            "Who are the instructors teaching in the Basic Industrial Technology Department?",
+            "I need information about the Basic Industrial Technology Department faculty members.",
+            "What are the names of the professors in the Basic Industrial Technology Department?",
+            "Can you tell me about the Basic Industrial Technology Department faculty?",
+            "Provide details about the faculty members in the Basic Industrial Technology Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASSOC. PROF. ADRIAN U. BRAñA",
+              "Designation": "Associate Professor IV",
+              "Email": "adrian_brana@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ALEJANDRO C. OCAMPO",
+              "Designation": "Assistant Professor I",
+              "Email": "alejandro_ocampo@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ANDREW JOHN J. MABAQUIAO",
+              "Designation": "Associate Professor II",
+              "Email": "andrewjohn_mabaquiao@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JOSE JR. C. DELOS SANTOS",
+              "Designation": "Associate Professor III",
+              "Email": "josejr_delossantos@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ROSSINNI P. UNABIA",
+              "Designation": "Assistant Professor III",
+              "Email": "rossinni_unabia@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cit_department_civilengtech",
+          "patterns": [
+            "Who are the faculty members in the Civil Engineering Technology Department?",
+            "Can you provide information about the faculty of the Civil Engineering Technology Department?",
+            "I want to know about the faculty members in the Civil Engineering Technology Department.",
+            "Who teaches in the Civil Engineering Technology Department?",
+            "Tell me about the instructors in the Civil Engineering Technology Department.",
+            "What are the names of the faculty members in the Civil Engineering Technology Department?",
+            "Which professors are part of the Civil Engineering Technology Department?",
+            "Give me details about the faculty in the Civil Engineering Technology Department.",
+            "I'm interested in the faculty of the Civil Engineering Technology Department. Can you help?",
+            "Could you list the faculty members in the Civil Engineering Technology Department?",
+            "Who are the instructors teaching in the Civil Engineering Technology Department?",
+            "I need information about the Civil Engineering Technology Department faculty members.",
+            "What are the names of the professors in the Civil Engineering Technology Department?",
+            "Can you tell me about the Civil Engineering Technology Department faculty?",
+            "Provide details about the faculty members in the Civil Engineering Technology Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASST. PROF. ARIEL A. DELA CRUZ",
+              "Designation": "Assistant Professor IV",
+              "Email": "ariel_delacruz@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ARIEL B. MORALES",
+              "Designation": "Instructor I",
+              "Email": "ariel_morales@tup.edu.ph"
+            },
+            {
+              "Name": "MS. CHARLENE F. RICOPUERTO",
+              "Designation": "Instructor I",
+              "Email": "charlene_ricopuerto@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. EDMUNDO JR. E. NICOLAS",
+              "Designation": "Associate Professor I",
+              "Email": "edmundonjr_nicolas@tup.edu.ph"
+            },
+            {
+              "Name": "MS. JANILYN D. SIY",
+              "Designation": "Instructor I",
+              "Email": "janilyn_siy@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. PROSPERO C. CABORNAY",
+              "Designation": "Assistant Professor I",
+              "Email": "prospero_cabornay@tup.edu.ph"
+            },
+            {
+              "Name": "MR. RIGIE S. NUJALDA",
+              "Designation": "Instructor I",
+              "Email": "rigie_nujalda@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ROMEO A. DAVID",
+              "Designation": "Instructor II",
+              "Email": "romeo_david@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. SAMUEL M. PACBA",
+              "Designation": "Assistant Professor III",
+              "Email": "samuel_pacba@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cit_department_electricalengtech",
+          "patterns": [
+            "Who are the faculty members in the Electrical Engineering Technology Department?",
+            "Can you provide information about the faculty of the Electrical Engineering Technology Department?",
+            "I want to know about the faculty members in the Electrical Engineering Technology Department.",
+            "Who teaches in the Electrical Engineering Technology Department?",
+            "Tell me about the instructors in the Electrical Engineering Technology Department.",
+            "What are the names of the faculty members in the Electrical Engineering Technology Department?",
+            "Which professors are part of the Electrical Engineering Technology Department?",
+            "Give me details about the faculty in the Electrical Engineering Technology Department.",
+            "I'm interested in the faculty of the Electrical Engineering Technology Department. Can you help?",
+            "Could you list the faculty members in the Electrical Engineering Technology Department?",
+            "Who are the instructors teaching in the Electrical Engineering Technology Department?",
+            "I need information about the Electrical Engineering Technology Department faculty members.",
+            "What are the names of the professors in the Electrical Engineering Technology Department?",
+            "Can you tell me about the Electrical Engineering Technology Department faculty?",
+            "Provide details about the faculty members in the Electrical Engineering Technology Department."
+          ],
+          "responses": [
+            {
+              "Name": "MR. CARLO JAY G. DELIZO",
+              "Designation": "Instructor I",
+              "Email": "carlojay_delizo@tup.edu.ph"
+            },
+            {
+              "Name": "MR. CARLOS ANGELITO D. MORALES",
+              "Designation": "Instructor II",
+              "Email": "carlosangelito_morales@tup.edu.ph"
+            },
+            {
+              "Name": "MS. CHRISTIAN LAWRENCE. HOFILEñA",
+              "Designation": "Instructor I",
+              "Email": "christianlawrence_hofileña@tup.edu.ph"
+            },
+            {
+              "Name": "DR. CONNIE C. AUNARIO",
+              "Designation": "Associate Professor V",
+              "Email": "connie_aunario@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. GHAZALI ILLUMINADA R. SISON",
+              "Designation": "Associate Professor V",
+              "Email": "ghazaliilluminada_sison@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. HERONAFINE C. DE GUZMAN",
+              "Designation": "Associate Professor IV",
+              "Email": "heronafine_deguzman@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JENNIFER D. ANDADOR",
+              "Designation": "Associate Professor II",
+              "Email": "jennifer_andador@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JULIUS G. GARCIA",
+              "Designation": "Associate Professor III",
+              "Email": "julius_garcia@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. MARIEZOL V. BALLESTEROS",
+              "Designation": "Associate Professor II",
+              "Email": "mariezol_ballesteros@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ROLANDO R. MARTIN",
+              "Designation": "Associate Professor I",
+              "Email": "rolando_martin@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ROMMEL F. AUNARIO",
+              "Designation": "Instructor I",
+              "Email": "rommelf_aunario@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. RONNIE B. DE GUZMAN",
+              "Designation": "Associate Professor I",
+              "Email": "ronnie_deguzman@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. SHERLIE D. BUNAG",
+              "Designation": "Assistant Professor II",
+              "Email": "sherlie_bunag@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. TERESITA C. NORA",
+              "Designation": "Associate Professor IV",
+              "Email": "teresita_nora@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. VENERANDO A. SISON",
+              "Designation": "Associate Professor V",
+              "Email": "venerando_sison@tup.edu.ph"
+            },
+            {
+              "Name": "MR. WEELLRR D. MARTIN",
+              "Designation": "Instructor I",
+              "Email": "weellrr_martin@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cit_department_electronicsengtech",
+          "patterns": [
+            "Who are the faculty members in the Electronics Engineering Technology Department?",
+            "Can you provide information about the faculty of the Electronics Engineering Technology Department?",
+            "I want to know about the faculty members in the Electronics Engineering Technology Department.",
+            "Who teaches in the Electronics Engineering Technology Department?",
+            "Tell me about the instructors in the Electronics Engineering Technology Department.",
+            "What are the names of the faculty members in the Electronics Engineering Technology Department?",
+            "Which professors are part of the Electronics Engineering Technology Department?",
+            "Give me details about the faculty in the Electronics Engineering Technology Department.",
+            "I'm interested in the faculty of the Electronics Engineering Technology Department. Can you help?",
+            "Could you list the faculty members in the Electronics Engineering Technology Department?",
+            "Who are the instructors teaching in the Electronics Engineering Technology Department?",
+            "I need information about the Electronics Engineering Technology Department faculty members.",
+            "What are the names of the professors in the Electronics Engineering Technology Department?",
+            "Can you tell me about the Electronics Engineering Technology Department faculty?",
+            "Provide details about the faculty members in the Electronics Engineering Technology Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASST. PROF. AIMEE G. ACOBA",
+              "Designation": "Assistant Professor I",
+              "Email": "aimee_acoba@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ALESSANDRO T. PETRACHE",
+              "Designation": "Assistant Professor III",
+              "Email": "alessandro_petrache@tup.edu.ph"
+            },
+            {
+              "Name": "MR. ALLIE B. VILLANUEVA",
+              "Designation": "Instructor II",
+              "Email": "allie_villanueva@tup.edu.ph"
+            },
+            {
+              "Name": "MR. DENNIS J. TABUCOL",
+              "Designation": "Instructor I",
+              "Email": "dennis_tabucol@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. ELVIN T. BALAIS",
+              "Designation": "Assistant Professor II",
+              "Email": "elvin_balais@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. FERNANDO O. DE LARA",
+              "Designation": "Assistant Professor I",
+              "Email": "fernando_delara@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. GEMMA D. BELGA",
+              "Designation": "Associate Professor V",
+              "Email": "gemma_belga@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. GENEROSA G. TONGOL",
+              "Designation": "Associate Professor V",
+              "Email": "generosa_tongol@tup.edu.ph"
+            },
+            {
+              "Name": "MS. HILDA V. ROBINO",
+              "Designation": "Instructor I",
+              "Email": "hilda_robino@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JONEL R. MACALISANG",
+              "Designation": "Assistant Professor I",
+              "Email": "jonel_macalisang@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JUANITO F. MANALANG",
+              "Designation": "Associate Professor I",
+              "Email": "juanito_manalang@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. KAREN K. FORONDA",
+              "Designation": "Associate Professor I",
+              "Email": "karen_foronda@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. LOUIE V. SORIANO",
+              "Designation": "Associate Professor III",
+              "Email": "louie_soriano@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. MA. IAN P. DE LOS TRINOS",
+              "Designation": "Associate Professor V",
+              "Email": "maian_delostrinos@tup.edu.ph"
+            },
+            {
+              "Name": "MR. MARC ARDIE V. ARDIENTE",
+              "Designation": "Instructor I",
+              "Email": "marcardie_ardiente@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. MARIBELLE R. JUALAYBA",
+              "Designation": "Associate Professor II",
+              "Email": "maribelle_jualayba@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MARY JANE A. CONCEPCION",
+              "Designation": "Assistant Professor IV",
+              "Email": "maryjane_concepcion@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MICHAEL L. NARISMA",
+              "Designation": "Assistant Professor IV",
+              "Email": "michael_narisma@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MICHAEL T. SAMONTE",
+              "Designation": "Assistant Professor II",
+              "Email": "michael_samonte@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. MINABELLE D. VILLAFUERTE",
+              "Designation": "Associate Professor IV",
+              "Email": "minabelle_villafuerte@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. NOEL B. DE ASIS",
+              "Designation": "Associate Professor V",
+              "Email": "noel_deasis@tup.edu.ph"
+            },
+            {
+              "Name": "DR. RALPH SHERWIN A. CORPUZ",
+              "Designation": "Professor III",
+              "Email": "ralphsherwin_corpuz@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ROMAN III C. FELIX",
+              "Designation": "Associate Professor II",
+              "Email": "roman_felix@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. RONA RIZA C. GONZALES",
+              "Designation": "Assistant Professor III",
+              "Email": "ronariza_gonzales@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. RONALD L. QUITAIN",
+              "Designation": "Assistant Professor IV",
+              "Email": "ronald_quitain@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. TRISTAN R. MOPAS",
+              "Designation": "Assistant Professor IV",
+              "Email": "tristan_mopas@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. VICENTE E. ESTEMBER",
+              "Designation": "Assistant Professor III",
+              "Email": "vicente_estember@tup.edu.ph"
+            },
+            {
+              "Name": "MR. WENDY A. ANAS",
+              "Designation": "Instructor I",
+              "Email": "wendy_anas@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cit_department_foodtech",
+          "patterns": [
+            "Who are the faculty members in the Food and Apparel Technology Department?",
+            "Can you provide information about the faculty of the Food and Apparel Technology Department?",
+            "I want to know about the faculty members in the Food and Apparel Technology Department.",
+            "Who teaches in the Food and Apparel Technology Department?",
+            "Tell me about the instructors in the Food and Apparel Technology Department.",
+            "What are the names of the faculty members in the Food and Apparel Technology Department?",
+            "Which professors are part of the Food and Apparel Technology Department?",
+            "Give me details about the faculty in the Food and Apparel Technology Department.",
+            "I'm interested in the faculty of the Food and Apparel Technology Department. Can you help?",
+            "Could you list the faculty members in the Food and Apparel Technology Department?",
+            "Who are the instructors teaching in the Food and Apparel Technology Department?",
+            "I need information about the Food and Apparel Technology Department faculty members.",
+            "What are the names of the professors in the Food and Apparel Technology Department?",
+            "Can you tell me about the Food and Apparel Technology Department faculty?",
+            "Provide details about the faculty members in the Food and Apparel Technology Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASSOC. PROF. ANNALYN N. GEBE",
+              "Designation": "Associate Professor II",
+              "Email": "annalyn_gebe@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. BERNADETH B. GILBOR",
+              "Designation": "Associate Professor I",
+              "Email": "bernadeth_gilbor@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JENINA D. MANABAT",
+              "Designation": "Assistant Professor III",
+              "Email": "jenina_manabat@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JENNIFER P. SONEJA",
+              "Designation": "Associate Professor II",
+              "Email": "jennifer_soneja@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JESS P. ADAYA",
+              "Designation": "Assistant Professor II",
+              "Email": "jess_adaya@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JHOMALYN A. MARTELINO",
+              "Designation": "Associate Professor I",
+              "Email": "jhomalyn_martelino@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JONATHAN C. DOMINGO",
+              "Designation": "Instructor I",
+              "Email": "jonathan_domingo@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JOVEBLESS D. DAVE",
+              "Designation": "Associate Professor I",
+              "Email": "jovebless_dave@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MA. DINA D. JIMENEZ",
+              "Designation": "Instructor I",
+              "Email": "madina_jimenez@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. MARIE VIRNA I. VILLANUEVA",
+              "Designation": "Associate Professor I",
+              "Email": "marievirna_villanueva@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MERRYL J. FLORANO",
+              "Designation": "Assistant Professor III",
+              "Email": "merryl_florano@tup.edu.ph"
+            },
+            {
+              "Name": "MS. NIELIZA T. BERISO",
+              "Designation": "Instructor I",
+              "Email": "nieliza_beriso@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ROSE DE BETH A. DE GUZMAN",
+              "Designation": "Associate Professor I",
+              "Email": "rosedebeth_deguzman@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. VERONICA M. DELA ROSA",
+              "Designation": "Assistant Professor III",
+              "Email": "veronica_delarosa@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cit_department_graphicsandprinttech",
+          "patterns": [
+            "Who are the faculty members in the Graphic Arts and Printing Technology Department?",
+            "Can you provide information about the faculty in the Graphic Arts and Printing Technology Department?",
+            "I want to know about the faculty members in the Graphic Arts and Printing Technology Department.",
+            "Who teaches in the Graphic Arts and Printing Technology Department?",
+            "Tell me about the instructors in the Graphic Arts and Printing Technology Department.",
+            "What are the names of the faculty members in the Graphic Arts and Printing Technology Department?",
+            "Which professors are part of the Graphic Arts and Printing Technology Department?",
+            "Give me details about the faculty in the Graphic Arts and Printing Technology Department.",
+            "I'm interested in the faculty of the Graphic Arts and Printing Technology Department. Can you help?",
+            "Could you list the faculty members in the Graphic Arts and Printing Technology Department?",
+            "Who are the instructors teaching in the Graphic Arts and Printing Technology Department?",
+            "I need information about the Graphic Arts and Printing Technology Department faculty members.",
+            "What are the names of the professors in the Graphic Arts and Printing Technology Department?",
+            "Can you tell me about the Graphic Arts and Printing Technology Department faculty?",
+            "Provide details about the faculty members in the Graphic Arts and Printing Technology Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASSOC. PROF. ALEXANDER M. MARFIL",
+              "Designation": "Associate Professor I",
+              "Email": "alexander_marfil@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. LOTIS P. BUCO",
+              "Designation": "Assistant Professor II",
+              "Email": "lotis_buco@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. MARCO G. DEVANADERA",
+              "Designation": "Associate Professor III",
+              "Email": "marco_devanadera@tup.edu.ph"
+            },
+            {
+              "Name": "MR. MARK ANTHONY L. DECANO",
+              "Designation": "Instructor I",
+              "Email": "markanthony_decano@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. NOEL D. BULAWAN",
+              "Designation": "Associate Professor V",
+              "Email": "noel_bulawan@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. RELINDA C. VIENS",
+              "Designation": "Assistant Professor III",
+              "Email": "relinda_viens@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cit_department_mechengtech",
+          "patterns": [
+            "Who are the faculty members in the Mechanical Engineering Technology Department?",
+            "Can you provide information about the faculty in the Mechanical Engineering Technology Department?",
+            "I want to know about the faculty members in the Mechanical Engineering Technology Department.",
+            "Who teaches in the Mechanical Engineering Technology Department?",
+            "Tell me about the instructors in the Mechanical Engineering Technology Department.",
+            "What are the names of the faculty members in the Mechanical Engineering Technology Department?",
+            "Which professors are part of the Mechanical Engineering Technology Department?",
+            "Give me details about the faculty in the Mechanical Engineering Technology Department.",
+            "I'm interested in the faculty of the Mechanical Engineering Technology Department. Can you help?",
+            "Could you list the faculty members in the Mechanical Engineering Technology Department?",
+            "Who are the instructors teaching in the Mechanical Engineering Technology Department?",
+            "I need information about the Mechanical Engineering Technology Department faculty members.",
+            "What are the names of the professors in the Mechanical Engineering Technology Department?",
+            "Can you tell me about the Mechanical Engineering Technology Department faculty?",
+            "Provide details about the faculty members in the Mechanical Engineering Technology Department."
+          ],
+          "responses": [
+            {
+              "Name": "MS. DAVID C. REYES",
+              "Designation": "Instructor I",
+              "Email": "david_reyes@tup.edu.ph"
+            },
+            {
+              "Name": "MR. DHENIL T. MANGUBAT",
+              "Designation": "Instructor I",
+              "Email": "dhenil_mangubat@tup.edu.ph"
+            },
+            {
+              "Name": "MR. EARL JOSHUA C. ARAñEZ",
+              "Designation": "Instructor I",
+              "Email": "earljoshua_aranez@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. ELPIDIO S. VIRREY",
+              "Designation": "Associate Professor V",
+              "Email": "elpidio_virrey@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JERRY G. LIGAYA",
+              "Designation": "Associate Professor II",
+              "Email": "jerry_ligaya@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. JOHNNY B. MATERUM",
+              "Designation": "Associate Professor V",
+              "Email": "johnny_materum@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. JOSEPHINE N. ALDEN",
+              "Designation": "Assistant Professor I",
+              "Email": "josephine_alden@tup.edu.ph"
+            },
+            {
+              "Name": "MR. LEO R. PRIVADO",
+              "Designation": "Instructor I",
+              "Email": "leo_privado@tup.edu.ph"
+            },
+            {
+              "Name": "ASST. PROF. MARCELINO JR. C. COTELO",
+              "Designation": "Assistant Professor I",
+              "Email": "marcelino_cotelo@tup.edu.ph"
+            },
+            {
+              "Name": "DR. MAY ANN R. CODERA",
+              "Designation": "Associate Professor V",
+              "Email": "mayann_codera@tup.edu.ph"
+            },
+            {
+              "Name": "MR. REYNALDO JR. S. LADINES",
+              "Designation": "Instructor III",
+              "Email": "reynaldo_ladines@tup.edu.ph"
+            },
+            {
+              "Name": "ASSOC. PROF. RUEL B. AGGABAO",
+              "Designation": "Associate Professor V",
+              "Email": "ruel_aggabao@tup.edu.ph"
+            }
+          ]
+        },
+
+        {
+          "tag": "cit_department_powerplanttech",
+          "patterns": [
+            "Who are the faculty members in the Power Plant Engineering Technology Department?",
+            "Can you provide information about the faculty in the Power Plant Engineering Technology Department?",
+            "I want to know about the faculty members in the Power Plant Engineering Technology Department.",
+            "Who teaches in the Power Plant Engineering Technology Department?",
+            "Tell me about the instructors in the Power Plant Engineering Technology Department.",
+            "What are the names of the faculty members in the Power Plant Engineering Technology Department?",
+            "Which professors are part of the Power Plant Engineering Technology Department?",
+            "Give me details about the faculty in the Power Plant Engineering Technology Department.",
+            "I'm interested in the faculty of the Power Plant Engineering Technology Department. Can you help?",
+            "Could you list the faculty members in the Power Plant Engineering Technology Department?",
+            "Who are the instructors teaching in the Power Plant Engineering Technology Department?",
+            "I need information about the Power Plant Engineering Technology Department faculty members.",
+            "What are the names of the professors in the Power Plant Engineering Technology Department?",
+            "Can you tell me about the Power Plant Engineering Technology Department faculty?",
+            "Provide details about the faculty members in the Power Plant Engineering Technology Department."
+          ],
+          "responses": [
+            {
+              "Name": "ASSOC. PROF. BILOMAR N. FLORESCA",
+              "Designation": "Associate Professor V",
+              "Email": "bilomar_floresca@tup.edu.ph"
+            },
+            {
+              "Name": "MR. CHURCHIL B. MALASIG",
+              "Designation": "Instructor I",
+              "Email": "churchil_malasig@tup.edu.ph"
+            },
+            {
+              "Name": "MR. JOSHUA G. JUMALON",
+              "Designation": "Instructor I",
+              "Email": "joshua_jumalon@tup.edu.ph"
+            },
+            {
+              "Name": "MS. MARY JANE T. CALAHI",
+              "Designation": "Instructor I",
+              "Email": "maryjane_calahi@tup.edu.ph"
+            },
+            {
+              "Name": "MR. RICKILINO L. AREGLADO",
+              "Designation": "Instructor I",
+              "Email": "rickilino_areglado@tup.edu.ph"
+            }
+          ]
+        }
+    ]
+}

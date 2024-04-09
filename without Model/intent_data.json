@@ -1,0 +1,58 @@
+{
+  "intents": [
+    {
+      "tag": "admission_overview",
+      "patterns": [
+        "What is the admission process like?",
+        "How do I apply to TUP?",
+        "Tell me about admissions at TUP",
+        "what is the process of admission",
+        "How to take admission in your college",
+        "admission",
+        "admission process"
+      ],
+      "responses": [
+        "The admission process for graduate and undergraduate programs differs.  Would you like to know more about a specific program?"
+      ]
+    },
+    {
+      "tag": "admission_details",
+      "patterns": [
+        "What are the requirements for graduate programs?",
+        "What documents do I need to submit for admission?"
+      ],
+      "responses": [
+        "You can find detailed information about admission requirements on the TUP website (see 'website' key in information section). However, I can tell you that generally, you'll need an accomplished application form, transcript of records, recommendation letters, and some additional documents depending on your program and applicant status."
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hi Hi Hi Hi Hi Hi Hi Hi Hi Hi ",
+        "How are you? ",
+        "How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you?",
+        "Is anyone there?",
+        "Is anyone there? Is anyone there? Is anyone there? Is anyone there?",
+        "Hello Hello Hello Hello Hello Hello Hello Hello ",
+        "Good day",
+        "Good day Good day Good day Good day Good day Good day Good day ",
+        "What's up",
+        "What's up What's up What's up What's up What's up What's up What's up",
+        "how are ya how are ya how are ya how are ya how are ya ",
+        "heyy heyy heyy heyy heyy heyy heyy heyy ",
+        "whatsup whatsup whatsup whatsup whatsup whatsup whatsup "
+      ],
+      "responses": [
+        "Hello, thanks for visiting",
+        "Good to see you again!",
+        "Hello! How can I assist you today? If you have any questions or need help with something, feel free to ask!"
+      ]
+    }
+  ],
+  "information": {
+    "admissions": {
+      "website": "https://www.tup.edu.ph/admission"
+    }
+  }
+}

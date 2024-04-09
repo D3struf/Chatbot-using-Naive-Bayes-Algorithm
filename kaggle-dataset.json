@@ -1,6 +1,43 @@
 {
    "intents":[
- {
+      {
+      "tag": "admission_procedure",
+      "patterns": [
+         "What are the requirements for graduate programs?",
+         "What documents do I need to submit for admission?"
+      ],
+      "responses": [
+         "You can find detailed information about admission requirements on the TUP website (see 'website' key in information section). However, I can tell you that generally, you'll need an accomplished application form, transcript of records, recommendation letters, and some additional documents depending on your program and applicant status."
+      ]
+      },
+      {
+         "tag": "admission_procedure_foreignStudent",
+         "patterns": [
+            "What are the procedure for foreign student?",
+            "What documents do I need to submit for admission?"
+         ],
+         "responses": [
+            {
+               "Office/Unit": "Office of Human Resources",
+               "Designation": "Human Resources Manager",
+               "Name": "John Doe",
+               "Email": "john.doe@example.com"
+            },
+            {
+               "Office/Unit": "Office of Finance",
+               "Designation": "Finance Director",
+               "Name": "Jane Smith",
+               "Email": "jane.smith@example.com"
+            },
+            {
+               "Office/Unit": "Office of Marketing",
+               "Designation": "Marketing Manager",
+               "Name": "Michael Johnson",
+               "Email": "michael.johnson@example.com"
+            }
+         ]
+         },
+   {
    "tag": "goodbye",
    "patterns": [
       "cya",
@@ -23,8 +60,7 @@
       "Sad to see you go :(",
       "Talk to you later",
       "Goodbye!"
-   ],
-   "context_set": ""
+   ]
 },
  {
    "tag": "creator",
@@ -750,5 +786,5 @@
    ],
    "context_set": ""
 }
-]
+   ]
 }

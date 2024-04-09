@@ -1,0 +1,25 @@
+{
+    "entities": [
+      {
+        "entity": "admission",
+        "details": {
+          "procedure": [
+            {
+              "step": 1,
+              "description": "Submit the following requirements in a long brown envelope. Only complete and accomplished requirements will be processed.",
+              "requirements": [
+                "Accomplished Application for Admission Form (TUP Graduate Program)",
+                "An essay of not less than 100 words stating the applicant's reason for applying in the program. (To be written/typewritten at the back of the Application for Admission Form)",
+                "Certified True Copy of the Transcript of Records",
+                "Two (2) sealed recommendation letters",
+                "Three (3) passport size pictures with name tag on white background",
+                "Certificate of English proficiency as second language (for foreign student applicants only)"
+              ],
+              "submission_address": "Director, Graduate Program, Technology University of the Philippines, Ayala Blvd., Ermita, Manila, 1000 Philippines",
+              "telephone_no": "(02)301-3001 loc. 704"
+            }
+          ]
+        }
+      }
+    ]
+  }

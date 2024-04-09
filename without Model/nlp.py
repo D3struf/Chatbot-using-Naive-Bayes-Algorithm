@@ -26,7 +26,7 @@ def text_cleaning(text):
     text.strip()  # Remove leading and trailing spaces
     tokens = word_tokenize(text.lower())  # Convert text to lowercase and tokenize
     tokens = [char for char in tokens if char not in string.punctuation]
-    # cleaned_tokens = [token for token in tokens if token not in stop_words]  # Remove stopwords
+    # tokens = [token for token in tokens if token not in stop_words]  # Remove stopwords
     tokens = [stemmer.stem(token) for token in tokens]  # Stemming
     tokens = [lemmatizer.lemmatize(token, wordnet.VERB) for token in tokens]  # Lemmatization
     return tokens
