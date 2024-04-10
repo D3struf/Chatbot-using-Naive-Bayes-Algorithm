@@ -37,118 +37,7 @@
             }
          ]
          },
-   {
-   "tag": "goodbye",
-   "patterns": [
-      "cya",
-      "see you",
-      "bye bye",
-      "See you later",
-      "Goodbye",
-      "I am Leaving",
-      "Bye",
-      "Have a Good day",
-      "talk to you later",
-      "ttyl",
-      "i got to go",
-      "gtg"
-   ],
-   "responses": [
-      "See you later, thanks for visiting",
-      "Have a nice day", 
-      "Bye! Come back again soon.",
-      "Sad to see you go :(",
-      "Talk to you later",
-      "Goodbye!"
-   ]
-},
- {
-   "tag": "creator",
-   "patterns": [
-      "what is the name of your developers",
-      "what is the name of your creators",
-      "what is the name of the developers",
-      "what is the name of the creators",
-      "who created you",
-      "your developers",
-      "your creators",
-      "who are your developers",
-      "developers",
-      "you are made by",
-      "you are made by whom",
-      "who created you",
-      "who create you",
-      "creators",
-      "who made you",
-      "who designed you"
-   ],
-   "responses": [
-      "I am happy to introduce the creators of this project 'The implementation of a Virtual Assistant for the Academic Management of Students of TUP-Manila with the use of Naive Bayes Algorithm': Mary Jane Calulang, Jeanne May Carolino, Maria Evita Juan, John Paul Monter, and Vincent Johanne Tenorio."
-   ],
-   "context_set": ""
-},
- {
-   "tag": "name",
-   "patterns": [
-      "name",
-      "your name",
-      "do you have a name",
-      "what are you called",
-      "what is your name",
-      "what should I call you",
-      "whats your name?",
-      "what are you",
-      "who are you",
-      "who is this",
-      "what am i chatting to",
-      "who am i taking to",
-      "what are you",
-      "who are you?",
-      "what is your purpose",
-      "what do you do",
-      "what is your function",
-      "who do you work for",
-      "who created you",
-      "what is your role",
-      "introduce yourself",
-      "tell me about yourself",
-      "what can you do",
-      "what are you for",
-      "who am i chatting to",
-      "What is the chatbots name"
-   ],
-   "responses": [
-      "I'm your trusty virtual assistant here to help you with anything you need about Technological University of the Philippines (TUP)!",
-      "My name's [CHATBOT NAME], and I'm here to answer your curiosity about Technological University of the Philippines (TUP)!"
-   ],
-   "context_set": ""
-},
- {
-   "tag": "hours",
-   "patterns": [
-      "timing of college",
-      "what is college timing",
-      "working days",
-      "when are you guys open",
-      "what are your hours",
-      "hours of operation",
-      "when is the college open",
-      "college timing",
-      "what about college timing",
-      "is college open on saturday",
-      "tell something about college timing",
-      "what is the college  hours",
-      "when should i come to college",
-      "when should i attend college",
-      "what is my college time",
-      "college timing",
-      "timing college"
-   ],
-   "responses": [
-      "College is open 8am-5pm Monday-Friday!"
-   ],
-   "context_set": ""
-},
+
  {
    "tag": "number",
    "patterns": [
@@ -241,29 +130,7 @@
    ],
    "context_set": ""
 },
- {
-   "tag": "location",
-   "patterns": [
-      "where is the college located",
-      "college is located at",
-      "where is college",
-      "where is college located",
-      "address of college",
-      "how to reach college",
-      "college location",
-      "college address",
-      "wheres the college",
-      "how can I reach college",
-      "whats is the college address",
-      "what is the address of college",
-      "address",
-      "location"
-   ],
-   "responses": [
-      "<a target=\"_blank\" href=\"ADD YOU GOOGLE MAP LINK HERE\"> here</a>"
-   ],
-   "context_set": ""
-},
+   
  {
    "tag": "hostel",
    "patterns": [
@@ -370,29 +237,6 @@
    "context_set": ""
 },
  {
-   "tag": "library",
-   "patterns": [
-      "is there any library",
-      "library facility",
-      "library facilities",
-      "do you have library",
-      "does the college have library facility",
-      "college library",
-      "where can i get books",
-      "book facility",
-      "Where is library",
-      "Library",
-      "Library information",
-      "Library books information",
-      "Tell me about library",
-      "how many libraries"
-   ],
-   "responses": [
-      "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
-   ],
-   "context_set": ""
-},
- {
    "tag": "infrastructure",
    "patterns": [
       "how is college infrastructure",
@@ -404,26 +248,7 @@
    ],
    "context_set": ""
 },
- {
-   "tag": "canteen",
-   "patterns": [
-      "food facilities",
-      "canteen facilities",
-      "canteen facility",
-      "is there any canteen",
-      "Is there a cafetaria in college",
-      "Does college have canteen",
-      "Where is canteen",
-      "where is cafetaria",
-      "canteen",
-      "Food",
-      "Cafetaria"
-   ],
-   "responses": [
-      "Our university has canteen with variety of food available"
-   ],
-   "context_set": ""
-},
+ 
  {
    "tag": "menu",
    "patterns": [
@@ -484,22 +309,7 @@
    ],
    "context_set": ""
 },
- {
-   "tag": "principal",
-   "patterns": [
-      "what is the name of principal",
-      "whatv is the principal name",
-      "principal name",
-      "Who is college principal",
-      "Where is principal's office",
-      "principal",
-      "name of principal"
-   ],
-   "responses": [
-      "XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate"
-   ],
-   "context_set": ""
-},
+ 
  {
    "tag": "sem",
    "patterns": [
@@ -570,20 +380,7 @@
    ],
    "context_set": ""
 },
- {
-   "tag": "facilities",
-   "patterns": [
-      "What facilities college provide",
-      "College facility",
-      "What are college facilities",
-      "facilities",
-      "facilities provided"
-   ],
-   "responses": [
-      "Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
-   ],
-   "context_set": ""
-},
+
  {
    "tag": "college intake",
    "patterns": [
@@ -703,71 +500,7 @@
    ],
    "context_set": ""
 },
- {
-   "tag": "salutation",
-   "patterns": [
-      "okk",
-      "okie",
-      "nice work",
-      "well done",
-      "good job",
-      "thanks for the help",
-      "Thank You",
-      "its ok",
-      "Thanks",
-      "Good work",
-      "k",
-      "ok",
-      "okay"
-   ],
-   "responses": [
-      "I am glad I helped you",
-      "welcome, anything else i can assist you with?"
-   ],
-   "context_set": ""
-},
 {
-   "tag": "greeting",
-   "patterns": [
-      "Hi",
-      "Hi Hi Hi Hi Hi Hi Hi Hi Hi Hi ",
-      "How are you? ",
-      "How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you? How are you?",
-      "Is anyone there?",
-      "Is anyone there? Is anyone there? Is anyone there? Is anyone there?",
-      "Hello Hello Hello Hello Hello Hello Hello Hello ",
-      "Good day",
-      "Good day Good day Good day Good day Good day Good day Good day ",
-      "What's up",
-      "What's up What's up What's up What's up What's up What's up What's up",
-      "how are ya how are ya how are ya how are ya how are ya ",
-      "heyy heyy heyy heyy heyy heyy heyy heyy ",
-      "whatsup whatsup whatsup whatsup whatsup whatsup whatsup "
-   ],
-   "responses": [
-      "Hello, thanks for visiting",
-      "Good to see you again!",
-      "Hello! How can I assist you today? If you have any questions or need help with something, feel free to ask!"
-   ],
-   "context_set": ""
-},
- {
-   "tag": "task",
-   "patterns": [
-      "what can you do",
-      "what are the thing you can do",
-      "things you can do",
-      "what can u do for me",
-      "how u can help me",
-      "why i should use you"
-   ],
-   "responses": [
-      "I can answer to low-intermediate questions regarding college",
-      "You can ask me questions regarding TUP, and i will try to answer them"
-   ],
-   "context_set": ""
-},
- {
    "tag": "ragging",
    "patterns": [
       "ragging",

@@ -25,7 +25,7 @@ for resource in resources:
         print(f"'{resource}' is downloaded now.")
 
 # Load dataset from JSON
-with open('about-tup.json', 'r', encoding='utf-8') as file:
+with open('intents.json', 'r', encoding='utf-8') as file:
     dataset = json.load(file)
 
 # Extract patterns and intents from the dataset
@@ -44,7 +44,7 @@ lemmatizer = WordNetLemmatizer()
 def preprocess_text(text):
     tokens = word_tokenize(text.lower())  # Convert text to lowercase and tokenize
     stop_words = set(stopwords.words('english'))
-    tokens = [token for token in tokens if token not in stop_words]  # Remove stopwords
+    # tokens = [token for token in tokens if token not in stop_words]  # Remove stopwords
     stemmed_tokens = [stemmer.stem(token) for token in tokens]  # Stemming
     lemmatized_tokens = [lemmatizer.lemmatize(token) for token in stemmed_tokens]  # Lemmatization
     return ' '.join(lemmatized_tokens)  # Join tokens back into a single string
