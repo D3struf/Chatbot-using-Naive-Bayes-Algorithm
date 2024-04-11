@@ -9,9 +9,12 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer, WordNetLemmatizer
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
+# from sklearn.metrics import confusion_matrix
+# import seaborn as sns; sns.set()
+# import matplotlib.pyplot as plt
 
 # Download NLTK resources (if not already downloaded)
 # List of NLTK resources to check/download
@@ -57,6 +60,12 @@ classifier = Pipeline([
     ('clf', MultinomialNB()),    # Naive Bayes classifier
 ])
 classifier.fit(preprocessed_patterns, intents)
+
+# mat = confusion_matrix(preprocessed_patterns, intents)
+# sns.heatmap(mat.T, square=True, annot=True, fmt='d', cbar=False,
+#             xticklabels=intents, yticklabels=intents)
+# plt.xlabel('true label')
+# plt.ylabel('predicted label');
 
 # Save the trained model
 joblib.dump(classifier, 'naive_bayes_model.pkl')

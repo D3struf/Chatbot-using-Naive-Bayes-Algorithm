@@ -4938,6 +4938,306 @@
 			"Email": "rickilino_areglado@tup.edu.ph"
 			}
 		]]
+	},
+	{
+		"tag": "redirection_manilacampuslink",
+		"patterns": [
+		"Can you provide information about TUP Manila?",
+		"What can you tell me about TUP Manila?",
+		"I want to know more about TUP Manila.",
+		"Tell me about the Manila campus of TUP.",
+		"What are the facilities available at TUP Manila?",
+		"Give me details about TUP Manila.",
+		"I need information on TUP Manila.",
+		"Could you redirect me to TUP Manila's website?",
+		"Can you give me the link to TUP Manila's website?",
+		"I'm interested in TUP Manila. Where can I find more?",
+		"Where can I learn about TUP Manila?",
+		"I want to visit TUP Manila's website. How do I get there?",
+		"Provide me with the link to TUP Manila's website.",
+		"How can I access TUP Manila's online resources?",
+		"Redirect me to TUP Manila's official website."
+		],
+		"responses": [
+		"Sure! Here is the link to TUP Manila's website: https://www.tup.edu.ph/"
+		]
+	},
+	{
+		"tag": "redirection_taguigcampuslink",
+		"patterns": [
+		"Can you provide information about TUP Taguig?",
+		"What can you tell me about TUP Taguig?",
+		"I want to know more about TUP Taguig.",
+		"Tell me about the Taguig campus of TUP.",
+		"What are the facilities available at TUP Taguig?",
+		"Give me details about TUP Taguig.",
+		"I need information on TUP Taguig.",
+		"Could you redirect me to TUP Taguig's website?",
+		"Can you give me the link to TUP Taguig's website?",
+		"I'm interested in TUP Taguig. Where can I find more?",
+		"Where can I learn about TUP Taguig?",
+		"I want to visit TUP Taguig's website. How do I get there?",
+		"Provide me with the link to TUP Taguig's website.",
+		"How can I access TUP Taguig's online resources?",
+		"Redirect me to TUP Taguig's official website."
+		],
+		"responses": [
+		"Sure! Here is the link to TUP Taguig's website: https://www.tupcavite.edu.ph/"
+		]
+	},
+	{
+		"tag": "redirection_cavitecampuslink",
+		"patterns": [
+		"Can you provide information about TUP Cavite?",
+		"What can you tell me about TUP Cavite?",
+		"I want to know more about TUP Cavite.",
+		"Tell me about the Cavite campus of TUP.",
+		"What are the facilities available at TUP Cavite?",
+		"Give me details about TUP Cavite.",
+		"I need information on TUP Cavite.",
+		"Could you redirect me to TUP Cavite's website?",
+		"Can you give me the link to TUP Cavite's website?",
+		"I'm interested in TUP Cavite. Where can I find more?",
+		"Where can I learn about TUP Cavite?",
+		"I want to visit TUP Cavite's website. How do I get there?",
+		"Provide me with the link to TUP Cavite's website.",
+		"How can I access TUP Cavite's online resources?",
+		"Redirect me to TUP Cavite's official website."
+		],
+		"responses": [
+		"Sure! Here is the link to TUP Cavite's website: https://tupt.edu.ph/"
+		]
+	},
+	{
+		"tag": "redirection_visayascampuslink",
+		"patterns": [
+		"Can you provide information about TUP Visayas?",
+		"What can you tell me about TUP Visayas?",
+		"I want to know more about TUP Visayas.",
+		"Tell me about the Visayas campus of TUP.",
+		"What are the facilities available at TUP Visayas?",
+		"Give me details about TUP Visayas.",
+		"I need information on TUP Visayas.",
+		"Could you redirect me to TUP Visayas' website?",
+		"Can you give me the link to TUP Visayas' website?",
+		"I'm interested in TUP Visayas. Where can I find more?",
+		"Where can I learn about TUP Visayas?",
+		"I want to visit TUP Visayas' website. How do I get there?",
+		"Provide me with the link to TUP Visayas' website.",
+		"How can I access TUP Visayas' online resources?",
+		"Redirect me to TUP Visayas' official website."
+		],
+		"responses": [
+		"Sure! Here is the link to TUP Visayas' website: https://tupvisayas.edu.ph/"
+		]
+	},
+	{
+	"tag": "redirection_serviceslinks",
+	"patterns": [
+		"How can I access the Student Applicant ERS?",
+		"I want to apply as a student. Where can I find the application portal?",
+		"What is the link for Student ERS?",
+		"Where can I check my student records?",
+		"How do I access the Faculty ERS?",
+		"Is there an online portal for faculty members?",
+		"Where can I find bidding opportunities?",
+		"How can I access the procurement section?",
+		"What courses does TUP Manila offer?",
+		"Can you provide the list of undergraduate programs?",
+		"Where can I find information about the courses offered?",
+		"What is the Transparency Seal link?",
+		"Where can I find TUP Manila's transparency initiatives?",
+		"What initiatives are included in the Transparency Seal?",
+		"Is there a link to TUP Manila's Transparency Seal?"
+	],
+	"responses": [
+		"Sure! Here are the links to TUP Manila's online services: \n\nStudent Applicant ERS: [Student Applicant ERS](https://ers.tup.edu.ph/aims/applicants/) \nStudent ERS: [Student ERS](https://ers.tup.edu.ph/aims/students/) \nFaculty ERS: [Faculty ERS](https://ers.tup.edu.ph/aims/faculty/) \nBids Opportunity: [Bids Opportunity](https://tup.edu.ph/procurement) \nCourses Offered: [Courses Offered](https://tup.edu.ph/undergraduate/admission/undergraduate-programs) \nTransparency Seal: [Transparency Seal](https://tup.edu.ph/transparency-seal)"
+	]
+	},
+	{
+	"tag": "redirection_presidentupdates",
+	"patterns": [
+		"Where can I find the latest updates from TUP Manila's President?",
+		"Is there any news about TUP Manila's President?",
+		"What's the latest story from TUP Manila's President?",
+		"I want to read the latest article from TUP Manila's President.",
+		"Do you have any information about TUP Manila's President?",
+		"Can you share any updates from TUP Manila's President?",
+		"Where can I find the 'And kwento ni Prez' section?",
+		"How do I access the stories from TUP Manila's President?",
+		"I'm interested in the President's stories. Where should I look?",
+		"Is there a section dedicated to TUP Manila's President's stories?",
+		"What's happening with TUP Manila's President lately?",
+		"I heard there's an interesting story about TUP Manila's President. Where can I find it?",
+		"Can you provide the link to President Ramos with US Ambassador MaryKay L. Carlson's dinner story?",
+		"Where can I find the story about President Ramos and US Ambassador MaryKay L. Carlson?",
+		"I want to read about the dinner with US Ambassador MaryKay L. Carlson. Where should I go?",
+		"What's the link to the article about President Ramos with US Ambassador MaryKay L. Carlson?"
+	],
+	"responses": [
+		"Sure! Here's the link to 'And kwento ni Prez: President Ramos with US Ambassador MaryKay L. Carlson at a dinner in U.S. Ambassador’s Residence': [President Ramos with US Ambassador MaryKay L. Carlson at a dinner in U.S. Ambassador’s Residence](https://tup.edu.ph/president/corner/2023/08/president-ramos-with-us-ambassador-marykay-l-carlson-at-a-dinner-in-us-ambassadors-residence)"
+	]
+},
+{
+	"tag": "studenthandbook",
+	"patterns": [
+		"Can you provide me with the TUP student handbook link?",
+		"How do I apply for a university ID?",
+		"What should I do if I lose my student ID?",
+		"How are student ID cards validated?",
+		"What are the rules regarding school uniforms?",
+		"How can I claim insurance benefits?",
+		"How can I apply for the Student Assistanceship Program?",
+		"How can students address their mails to TUP?",
+		"What are the rules on student conduct and discipline?",
+		"What is the Student Privilege Fee?",
+		"What are the accreditation requirements for student clubs?",
+		"What does the Student Life Development unit undertake?",
+		"What are the effects of pending disciplinary cases?",
+		"What rights do students have in disciplinary cases?",
+		"How are disciplinary cases handled?"
+	],
+	"responses": [
+		"Sure! Here is the link for the TUP Student Handbook for additional information: [TUP Student Handbook](https://tup.edu.ph/pages/students/tup-student-handbook)"
+	]
+	},
+	{
+	"tag": "school_news",
+	"patterns": [
+		"Can you give me the latest school news?",
+		"What's happening in the school recently?",
+		"I want to know about the recent news from the school.",
+		"Tell me about any updates or news from the school.",
+		"Give me information about the latest events in the school.",
+		"Is there any important news from the school?",
+		"I'm interested in reading the school news.",
+		"Where can I find the latest news from the school?",
+		"What's new at the school?",
+		"I want to stay updated with the school's news. How can I do that?",
+		"Could you provide me with the recent school news?",
+		"Tell me about any announcements or news from the school.",
+		"What's the buzz around the school lately?",
+		"Give me updates on the school's activities and events.",
+		"Where can I read about the school's recent developments?"
+	],
+	"responses": [
+		"Sure! You can access the school news through this link [School News](https://tup.edu.ph/news)"
+	]
+	},
+	{
+	"tag": "assessmentoffees_link",
+	"patterns": [
+		"Where can I find information about the assessment of fees?",
+		"How do I check the assessment of fees?",
+		"I need to know about the fees assessment process.",
+		"Where is the link to assess my fees?",
+		"Can you provide me with the assessment of fees link?",
+		"Is there a document outlining the assessment of fees?",
+		"How can I get details about my fees assessment?",
+		"Do you have information about fee assessment?",
+		"Where should I go to view the assessment of fees?",
+		"What's the link to the assessment of fees?",
+		"I'm looking for information about my fees. Can you help?",
+		"Where can I find details about TUP's fees?",
+		"How can I access the breakdown of my fees?",
+		"Is there a document explaining TUP's fees assessment?",
+		"I want to review the assessment of fees for this semester."
+	],
+	"responses": [
+		"Sure! Here's the link to the assessment of fees: [Assessment of Fees](https://tup.edu.ph/pages/students/assessment-of-fees)"
+	]
+	},
+	{
+	"tag": "studentprivileges_link",
+	"patterns": [
+		"Where can I find information about student privileges?",
+		"What are the privileges available to TUP students?",
+		"I want to know about the privileges for TUP students.",
+		"Where is the link to view student privileges?",
+		"Can you provide me with the student privileges link?",
+		"Is there a document outlining student privileges?",
+		"How can I learn about student privileges at TUP?",
+		"Do you have information about privileges for students?",
+		"Where should I go to check student privileges?",
+		"What's the link to the page about student privileges?",
+		"I'm interested in student privileges. Can you help?",
+		"Where can I find details about privileges for TUP students?",
+		"How can I access the list of student privileges?",
+		"Is there a document explaining TUP's student privileges?",
+		"I want to know more about the privileges I have as a TUP student."
+	],
+	"responses": [
+		"Sure! Here's the link to the Student Privileges page: [Student Privileges](https://tup.edu.ph/pages/students/student-privileges)"
+	]
+	},
+	{
+	"tag": "studentscholarship_link",
+	"patterns": [
+		"Can you provide information about student scholarships at TUP Manila?",
+		"What kind of scholarships does TUP Manila offer to students?",
+		"I want to know more about scholarships available at TUP Manila.",
+		"Where can I find details about student scholarships at TUP Manila?",
+		"Can you tell me about the scholarship opportunities for TUP Manila students?",
+		"How do students qualify for scholarships at TUP Manila?",
+		"What scholarships are available for students with exemplary academic achievements at TUP Manila?",
+		"Do you have information on athletic scholarships at TUP Manila?",
+		"Where can I learn about scholarships awarded by communities, companies, and NGOs at TUP Manila?",
+		"What was the scholarship distribution among TUP campuses in 2006?",
+		"Can you tell me about the competitive and non-competitive scholarships offered at TUP Manila?",
+		"How many students received scholarship grants in 2006 at TUP Manila?",
+		"What percentage of scholarship recipients passed the examinations for competitive scholarships in 2006 at TUP Manila?",
+		"What percentage of scholarship recipients received financial support for non-competitive scholarships in 2006 at TUP Manila?",
+		"Is there a breakdown of scholarship recipients by campus at TUP Manila?"
+	],
+	"responses": [
+		"Sure! Here's the link to information about student scholarships at TUP Manila: [Student Scholarships](https://tup.edu.ph/pages/students/student-scholarship)"
+	]
+	},
+	{
+	"tag": "applicationscholarship_link",
+	"patterns": [
+		"How do I apply for a scholarship at TUP Manila?",
+		"Where can I find information about applying for scholarships at TUP Manila?",
+		"I want to apply for a scholarship. What should I do?",
+		"Can you guide me through the process of applying for scholarships at TUP Manila?",
+		"What are the steps to apply for a scholarship at TUP Manila?",
+		"Is there a link to apply for scholarships at TUP Manila?",
+		"How can I access the scholarship application form for TUP Manila?",
+		"Where should I go to submit my scholarship application at TUP Manila?",
+		"Do you have information about scholarship privileges upon enrollment at TUP Manila?",
+		"What documents do I need to submit for scholarship notation at TUP Manila?",
+		"Can you provide details about scholarship requirements for new students at TUP Manila?",
+		"What are the requirements for higher year students to apply for scholarships at TUP Manila?",
+		"I need information about applying for scholarships at TUP Manila for new students.",
+		"Where can I find the checklist of requirements for scholarship application at TUP Manila?",
+		"Is there a specific process for applying for scholarships at TUP Manila?"
+	],
+	"responses": [
+		"Sure! Here's the link to apply for a scholarship at TUP Manila: [Apply for Scholarship](https://tup.edu.ph/pages/students/apply-for-scholarship)\n\n**SCHOLARSHIP PRIVILEGES UPON ENROLLMENT**\nFor students availing the following scholarships, the following documents must first be submitted to the Office of Student Affairs (OSA) for scholarship notation before assessment of fees.\n1. Entering Honor Student (Valedictorian/Salutatorian)\n• Certification\n• Graduation Program\n2. Barangay Grant or dependent of Barangay Officials\n• Certification of Oath of Office (DILG & Mayor)\n• Affidavit of Support\n• Income Tax Return of Barangay Official\n• Birth Certificate\n3. Sangguniang Kabataan (within the NCR only)\n• Certification of Oath of Office (DILG & Mayor)\n\n**SCHOLARSHIP REQUIREMENTS**\n1. For new students\n• Photocopy of High School Card\n• Certification of Good Moral Character\n• Photocopy of Income Tax Return of Parents/Guardian/Affiadavit/Certificate of Non-filing\n• Birth Certificate\n• 1 1/2\" x 1 1/2\" Picture\n\n2. For higher year\n• Original/photocopy of checklist/class cards\n• Photocopy of Income Tax Return of Parents/Guardian/Affidavit/Certicate of Non-filing\n• 1 1/2\" x 1 1/2\" Picture"
+	]
+	},
+	{
+	"tag": "osa_link",
+	"patterns": [
+		"Where can I find information about The Office of Student Affairs at TUP Manila?",
+		"What does The Office of Student Affairs (OSA) at TUP Manila do?",
+		"Can you provide details about The Office of Student Affairs (OSA) at TUP Manila?",
+		"I want to know more about The Office of Student Affairs at TUP Manila.",
+		"What services does The Office of Student Affairs (OSA) offer to students at TUP Manila?",
+		"How can The Office of Student Affairs (OSA) help me as a student at TUP Manila?",
+		"Where can I find programs offered by The Office of Student Affairs at TUP Manila?",
+		"What are the responsibilities of The Office of Student Affairs (OSA) at TUP Manila?",
+		"Is there a link to The Office of Student Affairs (OSA) webpage for TUP Manila?",
+		"I need information about The Office of Student Affairs (OSA) services at TUP Manila.",
+		"Can you tell me about the functions of The Office of Student Affairs (OSA) at TUP Manila?",
+		"What programs are available for student development at TUP Manila?",
+		"How can I contact The Office of Student Affairs (OSA) at TUP Manila?",
+		"Is there a list of services provided by The Office of Student Affairs (OSA) at TUP Manila?",
+		"Where can I find The Office of Student Affairs (OSA) at TUP Manila on campus?"
+	],
+	"responses": [
+		"Sure! Here's the link to The Office of Student Affairs (OSA) at TUP Manila: [The Office of Student Affairs](https://tup.edu.ph/pages/students/office-of-student-affairs)\n\n**THE OFFICE OF STUDENT AFFAIRS**\nThe Office of Student Affairs (OSA) is the primary frontline office of the University with the students. The OSA oversees the implementation of policies that support the academic pursuits and total development of students. Likewise, it takes care of the different aspects of a healthy and productive student life outside of the home of every student. Student development as process education is bounded through \"out-of-class\" activities. These activities are specifically designed for the holistic development of the students; fostering optimal growth; accommodating individual differences and responding to the psycho-social needs of students. Social learning experiences are carried through carefully selected curricular and extra- curricular activities. Driven likewise by the desire to promote the well being students, the office fosters a nurturing environment where values and character formation is the core concern.\n\n**PROGRAMS FOR DEVELOPMENT**\nFour (4) Key Areas of Concern:\n1. Welfare Functions\n• Counseling\n• Health Services\n• Programs of Financials Aid\n• Testing\n2. Control Function\n• Maintenance of Records\n• Discipline Functions\n3. Co-Curricular and Extra Curricular\n4. Teaching Functions\n• Orientation Programs (Local and Foreign Students)\n• Special Offerings of Remedial Services\n\nIn order to fulfill the various functions, the office/unit has the several units of different but interrelated functions:\n\nI. THE CAREER GUIDANCE & TESTING CENTER\nThe Career Guidance and Counseling Center offers various avenues for the holistic development of an individual. With its thrusts along the mission-vision of the university, activities are designed to assist students in attaining maximum personal adjustment and developing a sense of service contributory to the growth and development of technological advancement. PROGRAMS, SERVICES, AND INTERVENTIONS 1. Individual Inventory - involves the continuous and cooperative process of accumulating, recording, utilizing information on each individual for guidance and counseling purposes. All records are dealt with utmost confidentiality. 2. Information (educational, vocational, personal-social) - making available all the necessary materials relevant to student's life, career preparation, personality development and general information. This also includes conducted orientations on various guidance programs and services and providing of informational materials necessary for students' sound personal, social and educational adjustment. 3. Counseling (individual and group) are held to facilitate self-understanding that is contributory to the attainment of sound life adjustment. This service covers the personal- social, academic and vocational aspects. 4. Consultation - Counselors cater and consider the whole TUP academic community, as such counselors make themselves available for consultation with teachers and parents as well on matters related to students' optimum development. The consultancy service likewise extends to the adult community composed of faculty members, administrators and service personnel. 5. Psychological Assessment - Personality, interest, aptitude and other psychological tests are made available for greater assessment and understanding of the student's needs and concerns. This aims to assist students in having a realistic appraisal of oneself. Test records are filed in each students' cumulative folder should the student wish to come for test interpreatation with the help of the respective college counselor. 6. Testing - Provides testing services for admission of the following: 1. ETEAAP candidates 2. GRADUATE Program applicants 3. College Transferees 4. Employment 5. Licensing and certification exams 6. National/International exams 7. Placement and other academic purposes. 7. Follow-up - It is the responsibility of the counselor to follow up on students' cases, especially those referred to the center for counseling. This entails a series of interviews and possible consultations with concerned teachers, administrators and parents. Referral services to other institutions offering specialized services are also given attention and assistance when necessary. 8. Research and Evaluation - Relevant researches in the field of guidance and counseling are conducted by the counselors for the improvement and relevance of services. 9. Crisis Intervention - assistance to students in critical situations as victims of abuses, violence, sexual assault, sudden illness, grief and loss, and other factors causing distress, and bereavement. II. THE STUDENT DEVELOPMENT SERVICES UNIT (SDSU)\nThe Student Development Services Unit (SDSU) aims to provide total care for the students by nurturing the physical, emotional, mental, social, and spiritual aspects of their lives through various programs and services. It envisions developing students who are holistically formed, technologically skilled, morally upright, globally competitive, and emotionally mature, thereby contributing to the sustainable development of the community. It is composed of the Guidance Services Unit, Student Welfare and Scholarship Services Unit, and Health Services Unit. III. THE STUDENT AFFAIRS (STAFF) SERVICES UNIT\nThe Student Affairs Services Unit is committed to providing efficient and effective services in student admission, registration, records maintenance, and student-related transactions. It envisions to be the model unit in providing quality student services, adhering to the standards of professionalism, integrity, and excellence. It is composed of the Admissions Unit, Registration Unit, and Records and Credentials Unit."
+	]
 	}
 ]
 }

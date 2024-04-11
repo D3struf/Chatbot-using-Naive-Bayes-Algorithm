@@ -1,6 +1,4 @@
 import json
-import numpy as np
-import pandas as pd
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -16,7 +14,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Load intents from JSON file
-with open('kaggle-dataset.json', 'r') as file:
+with open('intents.json', 'r') as file:
     intents = json.load(file)
 
 # Initialize NLTK components
