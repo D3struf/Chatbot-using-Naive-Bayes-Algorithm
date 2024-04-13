@@ -101,7 +101,7 @@
         ],
         "responses": [
             "I'm your trusty virtual assistant here to help you with anything you need about Technological University of the Philippines (TUP)!",
-            "My name's LRT GANG, and I'm here to answer your curiosity about Technological University of the Philippines (TUP)!"
+            "My name's TekBot, and I'm here to answer your curiosity about Technological University of the Philippines (TUP)!"
         ]
     },
     {
@@ -169,22 +169,6 @@
             "I can assist you with various tasks including providing information, answering questions, and helping you with specific inquiries about TUP. Feel free to ask me anything you need help with!",
             "I'm here to help you with a wide range of tasks about TUP such as answering questions, providing information, and offering assistance. Just let me know what you need!",
             "You can ask me questions regarding TUP, and i will try to answer them"
-        ]
-    },
-    {
-        "tag": "fallback",
-        "patterns": [],
-        "responses": [
-            "I'm sorry, I didn't understand that. Could you please rephrase or ask a different question?",
-            "Apologies, I'm not sure what you mean. Could you please provide more context or try asking in a different way?",
-            "I'm still learning and may not know how to respond to that. Could you try asking something else?",
-            "Sorry, I didn't catch that. Can you please repeat or ask something else?",
-            "I'm afraid I didn't understand. Could you please try asking in a different way?",
-            "Hmm, I'm not quite sure what you're asking. Could you try phrasing it differently?",
-            "Sorry, I didn't get that. Can you please try again or ask something else?",
-            "I didn't quite catch that. Could you please rephrase or ask a different question?",
-            "I'm still learning and might not be able to understand that. Could you please try asking in a different way?",
-            "Oops, I didn't understand what you said. Can you please try asking in a different way?"
         ]
     },
     {
@@ -419,19 +403,6 @@
         ]
     },
     {
-        "tag": "tup_mission",
-        "patterns": [
-            "What is the mission of the Technological University of the Philippines?",
-            "Can you tell me about TUP's mission?",
-            "What does TUP aim to achieve according to its mission statement?",
-            "Could you summarize TUP's mission in providing education and training?",
-            "What are the key objectives outlined in TUP's mission statement?"
-        ],
-        "responses": [
-            "The University shall provide higher and advanced vocational, technical, industrial, technological and professional education and training in industries and technology, and in practical arts leading to certificates, diplomas and degrees. It shall provide progressive leadership in applied research, developmental studies in technical, industrial, and technological fields and production using indigenous materials; effect technology transfer in the countryside; and assist in the development of small-and- medium scale industries in identified growth centers.\n For more detailed information, you can visit <a target=\"_blank\" href=\"https://tup.edu.ph/pages/about/vision-mission-core-values-strategic-goals\"> here</a>"
-        ]
-    },
-    {
         "tag": "tup_core_values",
         "patterns": [
             "Tell me about the principles embraced by Technological University of the Philippines.",
@@ -514,7 +485,7 @@
     {
         "tag": "officials_top_management",
         "patterns": [              
-            "Who is the current University President of TUP?",
+            "Who is the University President of TUP?",
             "What is the email address of the VP for Academic Affairs at TUP?",
             "Who holds the position of VP for Research & Extension at TUP?",
             "How can I contact the VP for Administration & Finance at TUP?",

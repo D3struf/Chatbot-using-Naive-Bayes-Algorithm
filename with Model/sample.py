@@ -2,7 +2,6 @@
     FOR SOFTWARE ENGINEERING WITH NAIVE BAYES
 """
 
-
 import json
 import joblib
 import nltk
@@ -47,7 +46,7 @@ lemmatizer = WordNetLemmatizer()
 def preprocess_text(text):
     tokens = word_tokenize(text.lower())  # Convert text to lowercase and tokenize
     stop_words = set(stopwords.words('english'))
-    # tokens = [token for token in tokens if token not in stop_words]  # Remove stopwords
+    tokens = [token for token in tokens if token not in stop_words]  # Remove stopwords
     stemmed_tokens = [stemmer.stem(token) for token in tokens]  # Stemming
     lemmatized_tokens = [lemmatizer.lemmatize(token) for token in stemmed_tokens]  # Lemmatization
     return ' '.join(lemmatized_tokens)  # Join tokens back into a single string
@@ -56,7 +55,7 @@ preprocessed_patterns = [preprocess_text(pattern) for pattern in patterns]
 
 # Train Naive Bayes classifier
 classifier = Pipeline([
-    ('bow', CountVectorizer()),  # Convert text to Bag-of-Words features
+    ('bow', CountVectorizer(ngram_range = (1, 2))),  # Convert text to Bag-of-Words features
     ('clf', MultinomialNB()),    # Naive Bayes classifier
 ])
 classifier.fit(preprocessed_patterns, intents)
