@@ -100,7 +100,6 @@
             "Tell me your name."
         ],
         "responses": [
-            "I'm your trusty virtual assistant here to help you with anything you need about Technological University of the Philippines (TUP)!",
             "My name's TekBot, and I'm here to answer your curiosity about Technological University of the Philippines (TUP)!"
         ]
     },
@@ -214,9 +213,6 @@
             "Does college have canteen",
             "Where is canteen",
             "where is cafetaria",
-            "canteen",
-            "Food",
-            "Cafetaria",
             "Where is the canteen located?",
             "What are the opening hours of the canteen?",
             "Does the canteen serve vegetarian options?",
@@ -229,7 +225,7 @@
             "Is there a seating area in the canteen?"
         ],
         "responses": [
-            "The canteen is located in CAFA Building near the Chapel. It is open from 8:00 AM to 6:00 PM."
+            "The canteen is located in CAFA Building near the Chapel. The stalls accepts GCASH and Cash as payment. It is open from 8:00 AM to 6:00 PM."
         ]
     },
     {
@@ -311,9 +307,10 @@
         "tag": "facilities",
         "patterns": [
             "What facilities college provide",
+            "What are the facilities in tup",
             "College facility",
+            "tup facility",
             "What are college facilities",
-            "facilities",
             "facilities provided",
             "What facilities does TUP offer?",
             "Can you tell me about the amenities at TUP?",
