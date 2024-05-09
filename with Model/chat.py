@@ -13,7 +13,7 @@ with open('intents.json', 'r', encoding='utf-8') as file:
     dataset = json.load(file)
 
 # Load the model
-classifier = joblib.load('naive_bayes_model.pkl')
+classifier = joblib.load('without_splitting_naive_bayes_12.pkl')
 
 # Function to preprocess user input during inference
 def preprocess_user_input(user_input):
@@ -31,15 +31,15 @@ while True:
         if user_input == "quit":
             break
         
-        preprocessed_input = preprocess_user_input(user_input)
-        predicted_intent = classifier.predict([preprocessed_input])[0]
-        # predicted_intent_int = int(predicted_intent)
-        # print("Predicted intent:", predicted_intent, " | ", dataset["intents"][predicted_intent_int]["tag"])
-        # for index, intent in enumerate(dataset["intents"]):
-        #     if index == predicted_intent_int:
-        #         result = random.choice(intent["responses"])
-        #         print(f"{bot_name}: {result}")
-        #         break
+        # preprocessed_input = preprocess_user_input(user_input)
+        predicted_intent = classifier.predict([user_input])[0]
+        predicted_intent_int = int(predicted_intent)
+        print("Predicted intent:", predicted_intent, " | ", dataset["intents"][predicted_intent_int]["tag"])
+        for index, intent in enumerate(dataset["intents"]):
+            if index == predicted_intent_int:
+                result = random.choice(intent["responses"])
+                print(f"{bot_name}: {result}")
+                break
         for intent in dataset["intents"]:
             if predicted_intent == intent['tag']:
                 result = random.choice(intent["responses"])
