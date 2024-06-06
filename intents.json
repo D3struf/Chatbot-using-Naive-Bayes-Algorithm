@@ -52,7 +52,6 @@
             "Who developed you?",
             "Who is your creator?",
             "Who made you?",
-            "Who are you?",
             "Who are your developers?",
             "Who built you?",
             "Who programmed you?",
@@ -228,21 +227,22 @@
 		"context_set": ""
     },
     {
-        "tag": "principal",
+        "tag": "president",
         "patterns": [
-            "what is the name of principal",
-            "what is the principal name",
-            "principal name",
-            "Who is college principal",
-            "Where is principal's office",
-            "principal",
-            "name of principal",
-            "principal's name",
-            "who is the principal?",
-            "principal information"
+			"who is the tup president?",
+            "what is the name of president",
+            "what is the president name",
+            "president name",
+            "Who is college president",
+            "Where is president's office",
+            "president",
+            "name of president",
+            "president's name",
+            "who is the president?",
+            "president information"
         ],
         "responses": [
-            "The current principal of TUP is Engr. Reynaldo P. Ramos, PhD., EnP."
+            "The current president of TUP is Engr. Reynaldo P. Ramos, PhD., EnP."
         ],
 		"context_set": ""
     },
@@ -614,7 +614,6 @@
             "What is the email address of the OIC-Head of the Electrical Engineering department?",
             "Who is the Head of the Mechanical Engineering department?",
             "What is the email address of the Head of the Civil Engineering department?",
-            "Who is the Acting Dean of the College of Science?",
             "What is the email address of the College Secretary of the College of Science?",
             "Who is the Head of the Chemistry department?",
             "What is the email address of the Head of the Computer Studies department?",
